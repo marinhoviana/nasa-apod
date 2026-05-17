@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-17",
+    "title": {
+      "en": "NGC 1300: Barred Spiral Galaxy",
+      "pt": "NGC 1300: Galáxia Espiral Barrada"
+    },
+    "explanation": {
+      "en": "Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research.   Jigsaw Universe: Astronomy Puzzle of the Day",
+      "pt": "No centro desta galáxia espiral há uma barra.  E no centro desta barra está uma espiral menor.  E no centro dessa espiral está um buraco negro supermassivo.  Tudo isso acontece na grande, bela e barrada galáxia espiral catalogada como NGC 1300, uma galáxia que fica a cerca de 70 milhões de anos-luz de distância, na direção da constelação do rio Eridanus. Esta imagem composta do Telescópio Espacial Hubble do lindo universo insular é uma das imagens mais detalhadas já feitas pelo Hubble de uma galáxia completa.  NGC 1300 abrange mais de 100.000 anos-luz e a imagem do Hubble revela detalhes impressionantes da barra central dominante da galáxia e dos majestosos braços espirais. Como a barra gigante se formou, como ela permanece e como afeta a formação de estrelas continua sendo um tópico ativo de pesquisa.   Universo Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-16",
     "title": {
       "en": "Aurora Slathers Up the Sky",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e009567_1920.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-04-09",
-    "title": {
-      "en": "Destruction of Comet C/2026 A1 (MAPS)",
-      "pt": "Destruição do Cometa C/2026 A1 (MAPS)"
-    },
-    "explanation": {
-      "en": "As the crew of Artemis II travelled towards the Moon this week, Comet C/2026 A1 (MAPS) was expected to have its closest approach to the Sun on Monday. At this point, comet and Sun would be closer than half the distance separating the Earth and Moon. The comet did not survive; the featured video was made with 40 hours of data and shows the comet plunging toward the Sun, like a moth to a flame. Observing the comet so close to our bright star requires a coronagraph, an instrument that blocks the Sun and is used for studies of its corona. This composite video combines, starting from the outside, views from: the wider angle coronagraph (blue) and the narrower angle coronagraph (red), both on NASA's Solar and Heliospheric Observatory, and NASA's Solar Dynamics Observatory (black). We can see the comet approaching the sun, stretching, disappearing behind the coronagraph's occulting disk and reappearing as a cloud of debris that dissipates.",
-      "pt": "Enquanto a tripulação do Artemis II viajava em direção à Lua esta semana, esperava-se que o cometa C/2026 A1 (MAPS) se aproximasse mais do Sol na segunda-feira. Neste ponto, o cometa e o Sol estariam mais próximos do que metade da distância que separa a Terra e a Lua. O cometa não sobreviveu; o vídeo em destaque foi feito com 40 horas de dados e mostra o cometa mergulhando em direção ao Sol, como uma mariposa em direção à chama. Observar o cometa tão próximo da nossa estrela brilhante requer um coronógrafo, instrumento que bloqueia o Sol e é utilizado para estudos da sua coroa. Este vídeo composto combina, começando de fora, vistas de: o coronógrafo de ângulo mais amplo (azul) e o coronógrafo de ângulo mais estreito (vermelho), ambos no Observatório Solar e Heliosférico da NASA e no Observatório de Dinâmica Solar da NASA (preto). Podemos ver o cometa se aproximando do Sol, esticando-se, desaparecendo atrás do disco ocultador do coronógrafo e reaparecendo como uma nuvem de detritos que se dissipa."
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/comet_plunge.mp4",
     "copyright": null
   }
 ]
