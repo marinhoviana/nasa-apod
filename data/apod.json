@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-18",
+    "title": {
+      "en": "Unraveling NGC 3169",
+      "pt": "Desvendando NGC 3169"
+    },
+    "explanation": {
+      "en": "Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.",
+      "pt": "A galáxia espiral NGC 3169 parece estar se desfazendo como um novelo de lã cósmica. Situa-se a cerca de 70 milhões de anos-luz de distância, ao sul da brilhante estrela Regulus, em direção à tênue constelação Sextans. Os braços espirais enrolados são puxados para fora em caudas de maré enquanto NGC 3169 (esquerda) e a vizinha NGC 3166 interagem gravitacionalmente. Eventualmente, as galáxias se fundirão em uma só, um destino comum mesmo para galáxias brilhantes no universo local. Arcos estelares e plumas estelares são indicações claras das interações gravitacionais em curso através da foto profunda e colorida do grupo de galáxias. A estrutura telescópica abrange cerca de 20 minutos de arco ou cerca de 400.000 anos-luz na distância estimada do grupo, e inclui NGC 3165, menor e azulada, à direita. NGC 3169 também é conhecido por brilhar em todo o espectro do rádio aos raios X, abrigando um núcleo galáctico ativo que é o local de um buraco negro supermassivo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg",
+    "copyright": "Simone Curzi"
+  },
+  {
     "date": "2026-05-17",
     "title": {
       "en": "NGC 1300: Barred Spiral Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg",
     "copyright": "José Rodrigues"
-  },
-  {
-    "date": "2026-04-11",
-    "title": {
-      "en": "Artemis II: Flight Day 6",
-      "pt": "Artemis II: dia de voo 6"
-    },
-    "explanation": {
-      "en": "On flight day 6 (April 6) the Artemis II mission achieved a historic lunar flyby. Rounding the lunar far side, the deep space maneuver marked humanity's first venture to the Moon since Apollo 17 in 1972. The Orion spacecraft Integrity reached a maximum distance of nearly 407,000 kilometers, and the Artemis II crew, Reid Wiseman, Victor Glover, and Christina Koch, and Jeremy Hansen, set the record for the farthest distance from Earth traveled by any human since the Apollo 13 crew in 1970. From behind the Moon on flight day 6, a solar array wing camera recorded this space age selfie, framing the spacecraft and lunar far side. Planet Earth, home to the Artemis II crew, is the small, bright crescent beyond the lunar limb. The crew safely returned home on Artemis II mission flight day 10.   Artemis II: Splashdown",
-      "pt": "No dia 6 de voo (6 de abril), a missão Artemis II realizou um sobrevôo lunar histórico. Contornando o outro lado lunar, a manobra no espaço profundo marcou a primeira aventura da humanidade à Lua desde a Apollo 17 em 1972. A espaçonave Orion Integrity atingiu uma distância máxima de quase 407.000 quilômetros, e a tripulação do Artemis II, Reid Wiseman, Victor Glover e Christina Koch, e Jeremy Hansen, estabeleceram o recorde da maior distância da Terra percorrida por qualquer ser humano desde a tripulação da Apollo 13 em 1970. De trás da Lua em diante No dia 6 do voo, uma câmera de asa com painel solar gravou esta selfie da era espacial, enquadrando a espaçonave e o lado oculto da Lua. O planeta Terra, lar da tripulação do Artemis II, é o pequeno e brilhante crescente além do limbo lunar. A tripulação voltou para casa em segurança no voo da missão Artemis II, dia 10. Artemis II: Splashdown"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/art002e009567_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/art002e009567_1920.jpg",
-    "copyright": null
   }
 ]
