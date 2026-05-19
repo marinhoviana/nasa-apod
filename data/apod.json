@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-19",
+    "title": {
+      "en": "NGC 2170: The Angel Nebula",
+      "pt": "NGC 2170: A Nebulosa do Anjo"
+    },
+    "explanation": {
+      "en": "Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator",
+      "pt": "Isto é uma pintura ou uma fotografia? Nesta arte abstrata celestial composta com um pincel cósmico, a nebulosa empoeirada NGC 2170, também conhecida como Nebulosa do Anjo, brilha logo acima do centro da imagem. Refletindo a luz de estrelas quentes próximas, NGC 2170 é acompanhada por outras nebulosas de reflexão azuladas, uma região de emissão vermelha, muitas nebulosas de absorção escuras e um cenário de estrelas coloridas. Tal como os utensílios domésticos comuns que os pintores abstratos escolhem frequentemente para os seus temas, as nuvens de gás, poeira e estrelas quentes apresentadas aqui também são comumente encontradas num cenário como este - uma enorme nuvem molecular formadora de estrelas na constelação do Unicórnio (Monoceros). A gigante nuvem molecular Mon R2 está impressionantemente próxima, estimada em apenas 2.400 anos-luz de distância. A essa distância, esta tela teria mais de 60 anos-luz de diâmetro.   Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg",
+    "copyright": "Jason Marriott"
+  },
+  {
     "date": "2026-05-18",
     "title": {
       "en": "Unraveling NGC 3169",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-04-12",
-    "title": {
-      "en": "Comet R3 (PanSTARRS) Brightens",
-      "pt": "Cometa R3 (PanSTARRS) ilumina"
-    },
-    "explanation": {
-      "en": "Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026",
-      "pt": "O cometa R3 está brilhando rapidamente – sobreviverá?  C/2025 R3 (PanSTARRS) tem aumentado lentamente o brilho e estendido uma cauda de íons desde sua descoberta no ano passado.  Esta montanha de gelo sujo apresenta seu melhor espetáculo celeste este mês, porque passa mais perto do Sol (19 de abril) e da Terra (25 de abril).  A imagem em destaque, mostrando o R3 já ostentando uma cauda que se estende por mais de 10 graus, foi tirada há duas noites em Sion, na Suíça, com a grande montanha Bietschhorn à esquerda.  O cometa R3 será visível em meados de abril, antes do nascer do sol. Embora seja difícil prever o brilho futuro de qualquer cometa, o brilho do R3 já o torna um bom cometa para câmera e pode se tornar visível a olho nu na próxima semana.  O futuro físico do cometa R3 também é desconhecido porque, tal como o cometa A1 (MAPS) no início deste mês, pode desintegrar-se quando passar mais próximo do Sol.  Ou pode viver para deixar o Sistema Solar.    Galeria em crescimento: Cometa R3 em 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg",
-    "copyright": "José Rodrigues"
   }
 ]
