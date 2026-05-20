@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-20",
+    "title": {
+      "en": "The Dark Wolf Nebula",
+      "pt": "A Nebulosa do Lobo Negro"
+    },
+    "explanation": {
+      "en": "A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.",
+      "pt": "Um lobo escuro está em chiclete. Não, isso não é um enigma! A imagem de hoje mostra a Nebulosa do Lobo Negro (Sandqvist – Lindroos 17), uma nuvem de poeira assustadora embutida na Nebulosa Gum 55 (RCW 113) na constelação do Escorpião. Embora a poeira seja uma praga para nós, ela desempenha um papel vital na criação das condições necessárias para o nascimento de estrelas. O Dark Wolf absorve a intensa luz ultravioleta e visível emitida por estrelas jovens em Gum 55 e a reemite em comprimentos de onda mais longos, principalmente infravermelhos. Isso evita que a luz de maior energia aqueça o gás da região. Quando uma região de gás é fria o suficiente, a gravidade assume o controle e faz com que o gás entre em colapso e se transforme em uma estrela. A poeira não apenas atua como um termostato interestelar, mas também é o ponto de encontro para átomos de hidrogênio únicos que formam o hidrogênio molecular, o alicerce das estrelas. O aparentemente sinistro Dark Wolf é na verdade um arauto da vida cósmica."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg",
+    "copyright": "William Vrbasso, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-05-19",
     "title": {
       "en": "NGC 2170: The Angel Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole.jpg",
     "copyright": "Kiko Fairbairn"
-  },
-  {
-    "date": "2026-04-13",
-    "title": {
-      "en": "NGC 602 and Beyond",
-      "pt": "NGC 602 e além"
-    },
-    "explanation": {
-      "en": "The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "As nuvens podem parecer uma ostra e as estrelas como pérolas, mas olhe além. Perto dos arredores da Pequena Nuvem de Magalhães, uma galáxia satélite a cerca de 200 mil anos-luz de distância, encontra-se o jovem aglomerado estelar NGC 602, com 5 milhões de anos de idade. Rodeado por gás natal e poeira, NGC 602 é apresentado nesta impressionante imagem da região feita pelo Hubble. As cristas fantásticas e as formas curvadas sugerem fortemente que a radiação energética e as ondas de choque das estrelas jovens massivas de NGC 602 erodiram o material poeirento e desencadearam uma progressão na formação estelar afastando-se do centro do aglomerado. À distância estimada da Pequena Nuvem de Magalhães, a imagem apresentada abrange cerca de 200 anos-luz, mas uma variedade tentadora de galáxias de fundo também é visível nesta imagem nítida e multicolorida. As galáxias de fundo estão a centenas de milhões de anos-luz ou mais além da NGC 602. Sky Surprise: Que imagem o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg",
-    "copyright": null
   }
 ]
