@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-21",
+    "title": {
+      "en": "A Collision of Galaxy Clusters",
+      "pt": "Uma colisão de aglomerados de galáxias"
+    },
+    "explanation": {
+      "en": "This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.",
+      "pt": "Esta grande e bela espiral brilha na luz de raios X. É cerca de 20 vezes maior que a nossa Galáxia.   Pertence a Abell 2029, um aglomerado de galáxias a um bilhão de anos-luz de distância.   (Para ver apenas as galáxias, passe o cursor sobre a imagem ou siga este link.) Os aglomerados de galáxias são as maiores estruturas do universo sustentadas pela gravidade.     Abell 2029 é formada por milhares de galáxias, cercadas por uma enorme nuvem de gás quente e equivalente a centenas de trilhões de vezes a massa do Sol em matéria escura.     A espiral é feita de gás, principalmente hidrogênio e hélio, aquecido a dezenas de milhões de graus.     Foi descoberto num estudo recente que utilizou dados do Observatório de Raios-X Chandra da NASA para mostrar que Abell 2029 teve uma colisão com um aglomerado mais pequeno há quatro mil milhões de anos.     A colisão afetou o campo gravitacional e fez com que o gás intraenxame se agitasse, como o vinho se movendo em uma taça de vinho, moldando a espiral."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-20",
     "title": {
       "en": "The Dark Wolf Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/EyeOnMW_Claro_1380.jpg",
     "copyright": "Miguel Claro, (TWAN,, Dark Sky Alqueva)"
-  },
-  {
-    "date": "2026-04-16",
-    "title": {
-      "en": "South Celestial Tree",
-      "pt": "Árvore Celestial do Sul"
-    },
-    "explanation": {
-      "en": "If you live in the northern hemisphere, you may have learned how to locate the North Star, Polaris, in the night sky. It can be used to find north, and it approximately marks the northern celestial pole. If you live in the southern hemisphere, there is no bright star marking the southern celestial pole, but the Southern Cross can be used to find south. The featured image was taken in Padre Bernardo (GO), Brazil. It shows the apparent motion of the stars around the apparently empty southern celestial pole over 2 hours, on August 20, 2018. Each star takes about 24 hours to make a complete turn around the pole in the sky. Padre Bernardo is located in the Cerrado region, a tropical savanna that occupies most of central Brazil and supports rich biodiversity. The barren branch that apparently supports this sky wheel of rotating stars is a common sight there in the dry season during the southern winter.",
-      "pt": "Se você mora no hemisfério norte, pode ter aprendido como localizar a Estrela do Norte, Polaris, no céu noturno. Pode ser usado para encontrar o norte e marca aproximadamente o pólo celeste norte. Se você mora no hemisfério sul, não há nenhuma estrela brilhante marcando o pólo celeste sul, mas o Cruzeiro do Sul pode ser usado para encontrar o sul. A imagem em destaque foi tirada em Padre Bernardo (GO), Brasil. Ele mostra o movimento aparente das estrelas em torno do pólo celeste sul aparentemente vazio durante 2 horas, em 20 de agosto de 2018. Cada estrela leva cerca de 24 horas para dar uma volta completa em torno do pólo no céu. Padre Bernardo está localizado na região do Cerrado, uma savana tropical que ocupa a maior parte do Brasil central e abriga uma rica biodiversidade. O ramo estéril que aparentemente sustenta esta roda celeste de estrelas em rotação é uma visão comum ali na estação seca durante o inverno austral."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole_800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/Southern_Celestial_Pole.jpg",
-    "copyright": "Kiko Fairbairn"
   }
 ]
