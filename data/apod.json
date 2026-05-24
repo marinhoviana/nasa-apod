@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-24",
+    "title": {
+      "en": "A Martian Eclipse: Phobos Crosses the Sun",
+      "pt": "Um eclipse marciano: Fobos cruza o Sol"
+    },
+    "explanation": {
+      "en": "What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.",
+      "pt": "O que é isso passando na frente do Sol? Parece uma lua, mas não pode ser a Lua da Terra, porque não é redonda. É a lua marciana Fobos.  O vídeo apresentado foi feito da superfície de Marte em 2022 pelo rover Perseverance. Fobos, com 11,5 quilómetros de diâmetro, é 150 vezes menor que a Lua (nossa lua) em diâmetro, mas também 50 vezes mais próxima do seu planeta-mãe.  Na verdade, Fobos está tão perto de Marte que se espera que se separe e colida com Marte nos próximos 50 milhões de anos.  No curto prazo, a órbita baixa de Fobos resulta em eclipses solares mais rápidos do que os vistos da Terra. O vídeo apresentado é mostrado em tempo real – o trânsito durou cerca de 40 segundos, conforme mostrado. O cinegrafista – o rover robótico Perseverance (Percy) – continua a explorar a cratera Jezero em Marte, procurando não apenas pistas sobre a história aquosa do mundo agora seco, mas também evidências de vida microbiana antiga."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-05-23",
     "title": {
       "en": "Messier 2",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg",
     "copyright": "Giorgia Hofer"
-  },
-  {
-    "date": "2026-04-23",
-    "title": {
-      "en": "Large Scale Structure of the Universe",
-      "pt": "Estrutura do Universo em Grande Escala"
-    },
-    "explanation": {
-      "en": "This is a map of the universe. The Dark Energy Spectroscopic Instrument (DESI) at Kitt Peak National Observatory, Arizona, has finished its five-year survey. It observed more than 47 million galaxies and quasars and created a 3D map centered on the Earth. Today's featured image shows a thin slice of these data: the black gaps indicate where our Galaxy obscures distant objects. The feathery web in the inset shows the large scale structure of the universe. Light of the most distant galaxies shown here travelled for 11 billion years to reach the Earth. Galaxies cluster throughout cosmic history under the competing influences of gravity and dark energy, responsible for the accelerated expansion of the universe. Analysis of early DESI results hinted at the possibility that dark energy, described as a cosmological constant by Albert Einstein, may not be constant after all. But we still have to wait for the analysis of the now complete dataset. The nature of dark energy is the biggest mystery of cosmology.",
-      "pt": "Este é um mapa do universo. O Instrumento Espectroscópico de Energia Escura (DESI) no Observatório Nacional Kitt Peak, Arizona, concluiu sua pesquisa de cinco anos. Observou mais de 47 milhões de galáxias e quasares e criou um mapa 3D centrado na Terra. A imagem apresentada hoje mostra uma pequena fatia destes dados: os buracos negros indicam onde a nossa Galáxia obscurece objetos distantes. A teia emplumada na inserção mostra a estrutura em grande escala do universo. A luz das galáxias mais distantes aqui mostradas viajou durante 11 mil milhões de anos para chegar à Terra. As galáxias aglomeram-se ao longo da história cósmica sob as influências concorrentes da gravidade e da energia escura, responsáveis ​​pela expansão acelerada do universo. A análise dos primeiros resultados do DESI sugeriu a possibilidade de que a energia escura, descrita como uma constante cosmológica por Albert Einstein, possa não ser afinal constante. Mas ainda temos que esperar pela análise do conjunto de dados agora completo. A natureza da energia escura é o maior mistério da cosmologia."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/noirlab2610c_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/noirlab2610c.jpg",
-    "copyright": null
   }
 ]
