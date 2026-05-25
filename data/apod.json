@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-25",
+    "title": {
+      "en": "Thackeray's Globules",
+      "pt": "Glóbulos de Thackeray"
+    },
+    "explanation": {
+      "en": "What are these strange space globs?  Situated in rich star fields and glowing hydrogen gas, these opaque clouds of interstellar dust and gas are so large they might be able to form stars. Their home is known as IC 2944, a bright stellar nursery located about 7,600 light years away toward the constellation of the Centaur (Centaurus). The largest of these  dark globules, first spotted by A. D. Thackeray in 1950 using a telescope in South Africa, is likely two separate but overlapping clouds, each more than one light-year wide. Along with other data, the featured Hubble palette image from the El Sauce Observatory in Chile, indicates that Thackeray's globules are fractured and churning as a result of intense ultraviolet radiation from young, hot stars already energizing and heating the bright emission nebula. These and similar dark globules known to be associated with other star forming regions may ultimately be dissipated by their hostile environment -- like cosmic lumps of butter in a hot frying pan.   Interstellar Jigsaw: Astronomy Puzzle of the Day",
+      "pt": "O que são esses estranhos globos espaciais?  Situadas em campos estelares ricos e com gás hidrogénio brilhante, estas nuvens opacas de poeira e gás interestelar são tão grandes que podem ser capazes de formar estrelas. A sua casa é conhecida como IC 2944, um berçário estelar brilhante localizado a cerca de 7.600 anos-luz de distância, em direção à constelação do Centauro (Centaurus). O maior destes glóbulos escuros, descoberto pela primeira vez por A. D. Thackeray em 1950 usando um telescópio na África do Sul, é provavelmente duas nuvens separadas, mas sobrepostas, cada uma com mais de um ano-luz de largura. Juntamente com outros dados, a imagem da paleta Hubble do Observatório El Sauce, no Chile, indica que os glóbulos de Thackeray estão fraturados e agitados como resultado da intensa radiação ultravioleta de estrelas jovens e quentes que já energizam e aquecem a brilhante nebulosa de emissão. Estes e outros glóbulos escuros semelhantes, conhecidos por estarem associados a outras regiões de formação estelar, podem, em última análise, ser dissipados pelo seu ambiente hostil - como pedaços cósmicos de manteiga numa frigideira quente.   Quebra-cabeça interestelar: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg",
+    "copyright": "John Hayes"
+  },
+  {
     "date": "2026-05-24",
     "title": {
       "en": "A Martian Eclipse: Phobos Crosses the Sun",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg",
     "copyright": "Lorenzo Busilacchi"
-  },
-  {
-    "date": "2026-04-24",
-    "title": {
-      "en": "Young Moon and Sister Stars",
-      "pt": "Lua Jovem e Estrelas Irmãs"
-    },
-    "explanation": {
-      "en": "Sunlit arms of a crescent moon seem to embrace the faint lunar night side in this dramatic celestial scene from planet Earth. The single telephoto exposure tracking the sky was captured on the night of April 19, when a two day old Moon was near perigee in its elliptical orbit. On that date, the young Moon was also close on the sky to the lovely Pleiades Star Cluster. With the moonlight dimmed by clouds the Pleiades sister stars gather below the Moon's bright crescent, seen through a faint but colorful lunar corona. The lunar night side is illuminated by earthshine, sunlight reflected from the Earth itself. The Moon's ashen glow, also known as the \"old moon in the young moon's arms\", tends to be brighter in the northern hemisphere spring. And for now, the Moon's orbit takes it near the Pleiades stars each month in planet Earth's sky, though their close conjunctions are easiest to see when the Moon is near a crescent phase.",
-      "pt": "Os braços iluminados pelo sol de uma lua crescente parecem abraçar o tênue lado noturno lunar nesta dramática cena celestial do planeta Terra. A única exposição telefoto que rastreia o céu foi capturada na noite de 19 de abril, quando uma Lua de dois dias estava perto do perigeu em sua órbita elíptica. Naquela data, a jovem Lua também estava próxima no céu do adorável aglomerado estelar das Plêiades. Com o luar obscurecido pelas nuvens, as estrelas irmãs das Plêiades reúnem-se abaixo do crescente brilhante da Lua, vistas através de uma coroa lunar fraca, mas colorida. O lado noturno lunar é iluminado pelo brilho da terra, a luz solar refletida na própria Terra. O brilho acinzentado da Lua, também conhecido como “lua velha nos braços da lua jovem”, tende a ser mais brilhante na primavera do hemisfério norte. E, por enquanto, a órbita da Lua aproxima-se das estrelas das Plêiades todos os meses no céu do planeta Terra, embora as suas conjunções próximas sejam mais fáceis de ver quando a Lua está perto da fase crescente."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/GHR3777LunaPleiadi_101400.jpg",
-    "copyright": "Giorgia Hofer"
   }
 ]
