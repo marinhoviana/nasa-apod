@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-26",
+    "title": {
+      "en": "NGC 3660 and Burçin's Galaxy",
+      "pt": "NGC 3660 e a Galáxia de Burçin"
+    },
+    "explanation": {
+      "en": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.",
+      "pt": "A galáxia superior pode ser mais fotogênica, mas a galáxia inferior é mais incomum.  A galáxia no topo é NGC 3660, uma galáxia espiral semelhante à nossa Via Láctea, pois possui vários braços espirais azuis brilhantes e uma barra central de estrelas, poeira e gás. Capturada por acaso na imagem profunda e colorida apresentada, surpreendentemente, está SN 2026cff, uma supernova encontrada logo à direita da barra central.  Mais distante está a galáxia inferior, conhecida informalmente como galáxia de Burçin, mas formalmente catalogada como LEDA 1000714. O centro desta galáxia parece ser uma antiga galáxia elíptica, mas está estranhamente rodeada não por um, mas por dois anéis de estrelas.  O que criou a galáxia de Burçin é um mistério e continua a ser um tema contínuo de investigação, mas provavelmente envolve a acumulação de uma ou mais galáxias mais pequenas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg",
+    "copyright": "Adam Block, El Sauce Obs."
+  },
+  {
     "date": "2026-05-25",
     "title": {
       "en": "Thackeray's Globules",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-04-25",
-    "title": {
-      "en": "The Persistence of Sunlight",
-      "pt": "A Persistência da Luz Solar"
-    },
-    "explanation": {
-      "en": "This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.",
-      "pt": "Este pôr do sol à beira-mar ofereceu uma experiência surreal, capturada em uma paisagem marítima e celeste da costa oeste da Sardenha, Itália, planeta Terra. A cena Daliesque é uma composição de exposições sequenciais feitas com câmera e teleobjetiva longa. O Sol não está derretendo, no entanto. Sua aparência instável e fluida à medida que se aproxima do horizonte é causada pela refração ao longo da linha de visão que muda e cria imagens distorcidas ou miragens do disco solar avermelhado. As mudanças na refração atmosférica correspondem a camadas atmosféricas com temperaturas e densidades nitidamente diferentes. Outro efeito famoso, mas passageiro, da refração atmosférica produzido por uma longa linha de visão em direção ao Sol poente (ou nascente) é freqüentemente chamado de flash verde."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg",
-    "copyright": "Lorenzo Busilacchi"
   }
 ]
