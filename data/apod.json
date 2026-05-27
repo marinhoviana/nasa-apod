@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-27",
+    "title": {
+      "en": "PK 164 +31.1: The Headphone Nebula",
+      "pt": "PK 164 +31.1: A nebulosa do fone de ouvido"
+    },
+    "explanation": {
+      "en": "What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full moon. The red and blue-ish green colors trace hydrogen and oxygen atoms, respectively, that have been excited and ionized by the nebula's central white dwarf. The headphone shape, where two lobes of hydrogen puncture the inner region of oxygen, adds this object to a long list of oddly shaped nebulae. The morphology of such strange nebulae hint at the presence of a stellar or planetary companion, which can stir the material flowing out from the dying star. You can listen to Hubble and JWST sonifications of planetary nebulae through your very own headphones!",
+      "pt": "O que um par de fones de ouvido está fazendo no céu? A imagem de hoje mostra a nebulosa Headphone, também conhecida como PK 164 +31.1 ou Jones-Emberson 1. Esta nebulosa planetária, o remanescente de uma estrela moribunda semelhante ao Sol, ocupa vagamente uma região angular da constelação do Lince com cerca de 1/5 do diâmetro da lua cheia. As cores vermelho e verde azulado traçam átomos de hidrogênio e oxigênio, respectivamente, que foram excitados e ionizados pela anã branca central da nebulosa. O formato do fone de ouvido, onde dois lóbulos de hidrogênio perfuram a região interna do oxigênio, adiciona este objeto a uma longa lista de nebulosas de formato estranho. A morfologia dessas estranhas nebulosas sugere a presença de uma companheira estelar ou planetária, que pode agitar o material que flui da estrela moribunda. Você pode ouvir as sonificações de nebulosas planetárias do Hubble e do JWST através de seus próprios fones de ouvido!"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg",
+    "copyright": "Bernard Miller, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-05-26",
     "title": {
       "en": "NGC 3660 and Burçin's Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg",
     "copyright": "Uli Fehr"
-  },
-  {
-    "date": "2026-04-26",
-    "title": {
-      "en": "Mystic Mountain Monster being Destroyed",
-      "pt": "Monstro da Montanha Mística sendo destruído"
-    },
-    "explanation": {
-      "en": "Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.",
-      "pt": "Dentro da cabeça deste monstro interestelar há uma estrela que o está destruindo lentamente.  O enorme monstro, na verdade uma série inanimada de pilares de gás e poeira, mede anos-luz de comprimento.  A estrela na cabeça não é visível através da poeira interestelar opaca, mas está explodindo parcialmente ao ejetar feixes opostos de partículas energéticas chamados jatos Herbig-Haro.  Localizados a cerca de 7.500 anos-luz de distância, na Nebulosa Carina e conhecidos informalmente como Mystic Mountain, a aparência destes pilares é dominada por poeira escura, embora sejam compostos principalmente de gás hidrogénio transparente.  A imagem apresentada foi tirada com o Telescópio Espacial Hubble. Por todos estes pilares, a luz energética e os ventos das estrelas massivas recém-formadas estão a evaporar e a dispersar os poeirentos berçários estelares onde se formaram.  Dentro de alguns milhões de anos, a cabeça deste gigante, assim como a maior parte do seu corpo, terá sido completamente evaporada pelas estrelas internas e circundantes."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg",
-    "copyright": null
   }
 ]
