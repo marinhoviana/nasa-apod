@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-28",
+    "title": {
+      "en": "NGC 1514: The Crystal Ball Nebula",
+      "pt": "NGC 1514: A Nebulosa da Bola de Cristal"
+    },
+    "explanation": {
+      "en": "What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a star becomes a red giant and ejects its outer gas layers.   The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our Sun: that makes the gas shine, creating beautiful images like this one.       The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.   As the two stars orbit each other with a period of about nine years, they shape the gas around them.   In about 10,000 - 25,000 years the nebula will be dissipated by their stellar winds.",
+      "pt": "O que você vê nesta bola de cristal?   A imagem apresentada mostra NGC 1514, conhecida como Nebulosa da Bola de Cristal, observada pelo telescópio Gemini North em Maunakea, no Havaí.   NGC 1514 está a 1.500 anos-luz de distância e foi descoberta por William Herschel em 1790. Esta nebulosa planetária é formada quando uma estrela se torna uma gigante vermelha e ejeta suas camadas externas de gás.   A camada de gás ejetada é aquecida pelo núcleo da estrela a temperaturas mais altas que a superfície do nosso Sol: isso faz o gás brilhar, criando belas imagens como esta.       A forma ligeiramente assimétrica da Nebulosa Bola de Cristal revela um segredo: a estrela brilhante no centro tem uma companheira.   À medida que as duas estrelas orbitam uma à outra com um período de cerca de nove anos, elas moldam o gás ao seu redor.   Em cerca de 10.000 a 25.000 anos, a nebulosa será dissipada pelos ventos estelares."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-27",
     "title": {
       "en": "PK 164 +31.1: The Headphone Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg",
     "copyright": "Marcelo Salemme"
-  },
-  {
-    "date": "2026-04-27",
-    "title": {
-      "en": "Comet R3 PanSTARRS Behind Satellite Trails",
-      "pt": "Cometa R3 PanSTARRS atrás das trilhas de satélite"
-    },
-    "explanation": {
-      "en": "Can you find the comet? Somewhere through this web of satellite trails is Comet C/2025 R3 (PanSTARRS), a bright visitor passing through the inner Solar System. Now, the orbiting satellites themselves only appear as streaks because of the long camera exposure, over 10 minutes in this case. On the contrary, to the eye, satellites appear as points that drift slowly across the night sky and shine by reflecting sunlight -- primarily just after sunset and before sunrise.  The featured image was taken just before sunrise two weeks ago from Bavaria, Germany.  Presently, Comet R3 PanSTARRS is hard to see for even another reason -- because it is so (angularly) close to the Sun. As the comet rounds the Sun, it will be best seen in coming weeks from southern hemispheree skies, although then it will be heading out to interstellar space and fading. If you haven't yet found the comet, don't despair; please take a closer look just above the image center.",
-      "pt": "Você consegue encontrar o cometa? Em algum lugar nesta rede de rastros de satélites está o cometa C/2025 R3 (PanSTARRS), um visitante brilhante que passa pelo interior do Sistema Solar. Agora, os próprios satélites em órbita só aparecem como listras devido à longa exposição da câmera, mais de 10 minutos neste caso. Pelo contrário, aos olhos, os satélites aparecem como pontos que flutuam lentamente no céu noturno e brilham ao refletir a luz solar - principalmente logo após o pôr do sol e antes do nascer do sol.  A imagem em destaque foi tirada pouco antes do nascer do sol, há duas semanas, na Baviera, Alemanha.  Atualmente, o cometa R3 PanSTARRS é difícil de ver por outro motivo - porque está muito próximo (angularmente) do Sol. À medida que o cometa orbita o Sol, será melhor observado nas próximas semanas nos céus do hemisfério sul, embora depois se dirija para o espaço interestelar e desapareça. Se você ainda não encontrou o cometa, não se desespere; por favor, dê uma olhada mais de perto logo acima do centro da imagem."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/CometTrails_Fehr_2756.jpg",
-    "copyright": "Uli Fehr"
   }
 ]
