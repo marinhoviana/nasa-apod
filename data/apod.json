@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-05-29",
+    "title": {
+      "en": "Messier 104",
+      "pt": "Mais Messier 104"
+    },
+    "explanation": {
+      "en": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.",
+      "pt": "Uma linda galáxia espiral, Messier 104 é famosa pelo seu perfil quase lateral, apresentando um amplo anel de faixas de poeira obscuras. Vista em silhueta contra um extenso bojo central de estrelas, a faixa de poeira cósmica confere à galáxia uma aparência de chapéu de abas largas, sugerindo um apelido mais popular, Galáxia do Sombrero. Também conhecida como NGC 4594, a galáxia Sombrero pode ser vista em todo o espectro e abriga um buraco negro supermassivo central. Com cerca de 50.000 anos-luz de diâmetro e 28 milhões de anos-luz de distância, M104 é uma das maiores galáxias na extremidade sul do Aglomerado de Galáxias de Virgem. Ainda assim, as estrelas pontiagudas em primeiro plano neste campo de visão situam-se bem dentro da nossa Via Láctea. Esta visão ampla da galáxia bem conhecida foi processada para revelar o halo estendido de M104, bem como uma tênue corrente estelar de maré. Foi capturado pela Dark Energy Camera (DECam) no telescópio Blanco de 4 metros no Observatório Interamericano Cerro Tololo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-28",
     "title": {
       "en": "NGC 1514: The Crystal Ball Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades_zoom.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg",
     "copyright": "Gianni Tumino, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-04-28",
-    "title": {
-      "en": "CG 30: Cometary Globules",
-      "pt": "CG 30: Glóbulos Cometários"
-    },
-    "explanation": {
-      "en": "They're like mountain peaks, but they are forming stars. Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Puppis and Vela. Composed of interstellar gas and  dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (upper right in the group) sports a small reddish glow inside its head, a telltale sign of energetic jets from a star in the early stages of formation.",
-      "pt": "São como picos de montanhas, mas estão formando estrelas. Formas fluidas e com bordas brilhantes reúnem-se perto do centro deste rico campo estelar em direção às fronteiras das constelações náuticas do sul Puppis e Vela. Composto por gás e poeira interestelar, o agrupamento de glóbulos cometários do tamanho de um ano-luz está a cerca de 1.300 anos-luz de distância. A energia ultravioleta emitida por estrelas quentes próximas moldou os glóbulos e ionizou as suas bordas brilhantes. Os glóbulos também se afastam do remanescente da supernova Vela, o que pode ter influenciado as suas formas varridas. Dentro deles, núcleos de gás frio e poeira estão provavelmente em colapso para formar estrelas de baixa massa, cuja formação acabará por causar a dispersão dos glóbulos. Na verdade, o glóbulo cometário CG 30 (canto superior direito do grupo) apresenta um pequeno brilho avermelhado dentro da sua cabeça, um sinal revelador de jatos energéticos de uma estrela nos estágios iniciais de formação."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2604/CG30Globules_Salamme_2772.jpg",
-    "copyright": "Marcelo Salemme"
   }
 ]
