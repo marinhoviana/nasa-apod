@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-04",
+    "title": {
+      "en": "A Planetary Nebula with Cosmic Buckyballs",
+      "pt": "Uma nebulosa planetária com fulerenos cósmicos"
+    },
+    "explanation": {
+      "en": "What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckminster Fuller because of its resemblance to the geodesic dome he helped popularize.   Webb’s new data reveal where the C60 molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.   Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an upside-down question mark, fitting punctuation for the many questions this nebula still poses.",
+      "pt": "O que está acontecendo dentro desta nebulosa incomum?   A nebulosa planetária Tc 1, capturada aqui com detalhes requintados pelo Telescópio Espacial James Webb, é o local celestial onde as fulerenos foram identificadas pela primeira vez em 2010. Buckminsterfulereno - como as fulerenos são oficialmente chamadas - é uma molécula com 60 átomos de carbono (C60) dispostos na forma de uma bola de futebol.   A molécula recebeu o nome do arquiteto Buckminster Fuller devido à sua semelhança com a cúpula geodésica que ele ajudou a popularizar.   Os novos dados de Webb revelam onde vivem as moléculas C60 nesta nebulosa, e a geometria é impressionante: elas povoam uma fina concha esférica em torno da estrela central, visível aqui como a borda brilhante da região central laranja brilhante da nebulosa.   Olhe atentamente para perto do coração da nebulosa e surge uma característica mais desconcertante: uma estrutura delicada com a forma estranha de um ponto de interrogação invertido, pontuação adequada para as muitas questões que esta nebulosa ainda coloca."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/buckyballs.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-05-31",
     "title": {
       "en": "Eagle Nebula Pillars in Infrared from Hubble",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-01",
-    "title": {
-      "en": "Markarian's Chain",
-      "pt": "Corrente de Markarian"
-    },
-    "explanation": {
-      "en": "Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.",
-      "pt": "Perto do coração do Aglomerado de Galáxias de Virgem, uma cadeia de galáxias conhecida como Cadeia de Markarian estende-se por este campo de visão telescópico. Ancorado no quadro no canto inferior direito por galáxias lenticulares proeminentes, M84 (parte inferior) e M86, você pode seguir o arco suave da cadeia para cima e para a esquerda. Perto do centro você verá o par de galáxias em interação NGC 4438 e NGC 4435, conhecidas por alguns como Olhos de Markarian. A uma distância estimada de 50 milhões de anos-luz, o próprio Aglomerado de Virgem é o aglomerado de galáxias mais próximo. Com cerca de 2.000 galáxias membros, tem uma influência gravitacional notável no nosso Grupo Local de Galáxias. Dentro do Aglomerado de Virgem, pelo menos sete galáxias da Cadeia de Markarian parecem mover-se de forma coerente, enquanto outras podem parecer fazer parte da cadeia por acaso."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/M84andM86_1024.png",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/M84andM86.png",
-    "copyright": "Chuck Ayoub"
   }
 ]
