@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-05",
+    "title": {
+      "en": "The Hydra Cluster of Galaxies",
+      "pt": "O aglomerado de galáxias Hydra"
+    },
+    "explanation": {
+      "en": "Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away. Three large galaxies near the cluster center, two yellow ellipticals (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter. An intriguing overlapping galaxy pair cataloged as NGC 3314 lies above and left of NGC 3312. Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way. In the nearby universe, galaxies are gravitationally bound into clusters which themselves are loosely bound into superclusters. Superclusters in turn are seen to align over even larger scales.",
+      "pt": "Dentro da nossa própria galáxia, a Via Láctea, duas estrelas brilhantes e pontiagudas permanecem como sentinelas no primeiro plano desta imagem cósmica. Muito além deles estão as galáxias do Aglomerado Hydra. Na verdade, enquanto as estrelas pontiagudas do primeiro plano estão a centenas de anos-luz de distância, as galáxias do aglomerado Hydra estão a bem mais de 100 milhões de anos-luz de distância. Três grandes galáxias perto do centro do aglomerado, duas elípticas amarelas (NGC 3311, NGC 3309) e uma espiral azul proeminente (NGC 3312), são as galáxias dominantes, cada uma com cerca de 150.000 anos-luz de diâmetro. Um intrigante par de galáxias sobrepostas catalogado como NGC 3314 fica acima e à esquerda de NGC 3312. Também conhecido como Abell 1060, o aglomerado de galáxias Hydra é um dos três grandes aglomerados de galáxias a 200 milhões de anos-luz da Via Láctea. No universo próximo, as galáxias estão ligadas gravitacionalmente em aglomerados, que por sua vez estão fracamente ligados em superaglomerados. Os superaglomerados, por sua vez, parecem se alinhar em escalas ainda maiores."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg",
+    "copyright": "Rafael Sampaio"
+  },
+  {
     "date": "2026-06-04",
     "title": {
       "en": "A Planetary Nebula with Cosmic Buckyballs",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-02",
-    "title": {
-      "en": "Seeing Titan",
-      "pt": "Vendo Titã"
-    },
-    "explanation": {
-      "en": "Shrouded in a thick atmosphere, the surface of Saturn's largest moon, Titan, is really hard to see. Small particles suspended in Titan's upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding surface features from prying eyes. Still, Titan's surface is better imaged at infrared wavelengths, where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan's surface is due to launch no earlier than July, 2028.",
-      "pt": "Envolta em uma atmosfera densa, a superfície da maior lua de Saturno, Titã, é realmente difícil de ver. Pequenas partículas suspensas na atmosfera superior de Titã causam uma névoa quase impenetrável, espalhando fortemente a luz em comprimentos de onda visíveis e escondendo características da superfície de olhares indiscretos. Ainda assim, a superfície de Titã é melhor visualizada nos comprimentos de onda infravermelhos, onde a dispersão é mais fraca e a absorção atmosférica é reduzida. Dispostas em torno desta imagem de luz visível (centro) de Titã estão algumas das imagens infravermelhas globais mais nítidas da tentadora lua até agora. Em cores falsas, os seis painéis apresentam um processamento consistente de 13 anos de dados de imagens infravermelhas do Espectrômetro de Mapeamento Visual e Infravermelho (VIMS) a bordo da espaçonave Cassini orbitando Saturno de 2004 a 2017. Eles oferecem uma comparação impressionante com a visão de luz visível da Cassini. A revolucionária missão de helicóptero da NASA à superfície de Titã não deverá ser lançada antes de julho de 2028."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/PIA21923_fig1SeeingTitan2400.jpg",
     "copyright": null
   }
 ]
