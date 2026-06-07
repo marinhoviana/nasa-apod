@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-07",
+    "title": {
+      "en": "Jupiter and Venus from Earth",
+      "pt": "Júpiter e Vênus da Terra"
+    },
+    "explanation": {
+      "en": "It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town lights of Szubin, Poland to photograph  a near closest approach of the two planets. The bright planets were then separated by only  three degrees and his daughter struck a humorous pose. A faint red sunset still glowed in the background. Jupiter and Venus are together again this week after sunset, passing within a degree of each other about two days from today.",
+      "pt": "Era visível em todo o mundo. A conjunção do pôr do sol de Júpiter (esquerda) e Vênus (direita) em 2012 era visível quase onde quer que você morasse na Terra.  Qualquer pessoa em nosso planeta com um horizonte ocidental claro ao pôr do sol poderia vê-los. Naquele ano, um fotógrafo criativo viajou para longe das luzes da cidade de Szubin, na Polônia, para fotografar a aproximação mais próxima dos dois planetas. Os planetas brilhantes foram então separados por apenas três graus e sua filha fez uma pose humorística. Um leve pôr do sol vermelho ainda brilhava ao fundo. Júpiter e Vênus estão juntos novamente esta semana após o pôr do sol, passando um grau um do outro cerca de dois dias a partir de hoje."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
+    "copyright": "Marek Nikodem , (PPSAE)"
+  },
+  {
     "date": "2026-06-05",
     "title": {
       "en": "The Hydra Cluster of Galaxies",
@@ -432,21 +447,6 @@
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperPlumeEarth_Cottaar.mp4",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-03",
-    "title": {
-      "en": "Trifid Pillars and Jets",
-      "pt": "Pilares e Jatos Trífidos"
-    },
-    "explanation": {
-      "en": "Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator",
-      "pt": "Pilares de poeira são como montanhas interestelares.  Eles sobrevivem porque são mais densos do que o ambiente ao seu redor, mas estão sendo lentamente erodidos por um ambiente hostil.  Visível na imagem apresentada pelo Telescópio Espacial Hubble está o fim de um enorme pilar de gás e poeira na Nebulosa Trífida (M20), pontuado por um pilar menor apontando para cima e um jato incomum apontando para o canto superior esquerdo.  Muitos dos pontos brilhantes são estrelas recém-formadas. Uma estrela perto da extremidade do pequeno pilar está lentamente a ser despojada do seu gás de acreção pela radiação de uma estrela tremendamente mais brilhante situada no topo da imagem.  O jato se estende por quase um ano-luz e não seria visível sem iluminação externa.  À medida que o gás e a poeira evaporam dos pilares, a fonte estelar oculta deste jacto será provavelmente descoberta, possivelmente nos próximos 20.000 anos.   Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg",
     "copyright": null
   }
 ]
