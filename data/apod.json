@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-11",
+    "title": {
+      "en": "The Mermaid Nebula Supernova Remnant",
+      "pt": "O remanescente da supernova da nebulosa da sereia"
+    },
+    "explanation": {
+      "en": "Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas.   \t\t\t\t\t\t\t\t\t\t\t\t Estimated to be located a few thousand light-years away and about 10,000 years old, this nebula was formed when a massive star exploded as a supernova. \t\t\t\t\t\t\t\t\t\t\t\t It left behind a peculiar pulsar, a young radio-quiet neutron star that spins around about twice every second.   The bright stars shown in the image are unassociated with the nebula.\t\t\t\t\t\t\t\t\t\t\t\t   The pulsar can be detected in the X-rays but it does not have a confirmed detection in the optical (visible light) so far.   As a result, the pulsar itself is not visible in this image.",
+      "pt": "A Pequena Sereia poderia se transformar em poeira estelar em vez de espuma do mar?   Parece que sim nesta bela nebulosa.   A imagem em destaque mostra a Nebulosa da Sereia, também conhecida como Nebulosa do Peixe Betta, que faz parte do Remanescente da Supernova G296.5+10.0.   A cor azul visível aqui origina-se do oxigênio duplamente ionizado (OIII), enquanto o vermelho profundo é emitido pelo gás hidrogênio.   \t\t\t\t\t\t\t\t\t\t\t\t Estima-se que esteja localizada a alguns milhares de anos-luz de distância e com cerca de 10.000 anos de idade, esta nebulosa foi formada quando uma estrela massiva explodiu como uma supernova. \t\t\t\t\t\t\t\t\t\t\t\t Deixou para trás um pulsar peculiar, uma jovem estrela de nêutrons silenciosa que gira cerca de duas vezes por segundo.   As estrelas brilhantes mostradas na imagem não estão associadas à nebulosa.\t\t\t\t\t\t\t\t\t\t\t\t   O pulsar pode ser detectado nos raios X, mas não tem detecção confirmada na óptica (luz visível) até o momento.   Como resultado, o pulsar em si não é visível nesta imagem."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/Mermaid.jpg",
+    "copyright": "Data acquisition: Sy Ming Wong; Processing: Guangyan Gao,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-06-08",
     "title": {
       "en": "Comet R3 PanSTARRS Through Time",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-05-05",
-    "title": {
-      "en": "Orion over Mount Teide",
-      "pt": "Órion sobre o Monte Teide"
-    },
-    "explanation": {
-      "en": "Orion is rarely seen like this.  To achieve this majestic vista, you need a camera capable of taking such long duration exposures that faint features in the night sky become revealed.  Iconic nebulas that appear include the Orion Nebula, the Flame Nebula, and Barnard's Loop. For contrast, it also helps to have a volcano on the foreground, in this case the Teide volcano on Tenerife on the Canary Islands of Spain.  But if you want your Teide volcano snow-covered, you also need good timing -- because that only happens, typically, for a few days each year.  Good timing also includes waiting for Orion to appear just behind Teide, which occurred late last year after sunset.  The featured image is the result of a series of images taken consecutively with the same camera from the same location.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Orion raramente é visto assim.  Para alcançar esta vista majestosa, você precisa de uma câmera capaz de fazer exposições de longa duração que revelam características tênues no céu noturno.  Nebulosas icônicas que aparecem incluem a Nebulosa de Orion, a Nebulosa da Chama e o Loop de Barnard. Por outro lado, também ajuda ter um vulcão em primeiro plano, neste caso o vulcão Teide em Tenerife, nas Ilhas Canárias de Espanha.  Mas se você quiser que seu vulcão Teide fique coberto de neve, você também precisa de um bom momento - porque isso só acontece, normalmente, durante alguns dias por ano.  Um bom momento também inclui esperar que Orion apareça logo atrás do Teide, que ocorreu no final do ano passado, após o pôr do sol.  A imagem apresentada é o resultado de uma série de imagens tiradas consecutivamente com a mesma câmera e no mesmo local.   Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/OrionTeide_Rosadzinski_4247.jpg",
-    "copyright": "Marcin Rosadziński"
   }
 ]
