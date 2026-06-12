@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-12",
+    "title": {
+      "en": "Venus and Jupiter: Conjunction from Avebury",
+      "pt": "Vênus e Júpiter: Conjunção de Avebury"
+    },
+    "explanation": {
+      "en": "To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less than 2 degrees from our perspective. Since (brighter) inner planet Venus orbits the Sun faster than outer planet Jupiter, it catches up with and passes the outer planet along the ecliptic roughly every 13 months. But every three years or so their resulting conjunction can be viewed far enough from the Sun to be easily seen in Earth's twilight skies. On June 9, the two celestial beacon's close \"cosmic kiss\" was captured here next to the two large standing stones at the cove within a 4,000 year old stone circle at Avebury, UK. Larger than Stonehenge, the Avebury henge and stone circle complex is also recognized as one of the most significant neolithic ceremonial sites on planet Earth.",
+      "pt": "Para ver Vênus e Júpiter juntos este mês, você não precisará de binóculos ou mesmo de telescópio. Basta olhar para cima após o pôr do sol e você os verá emergindo à medida que o céu escurece próximo ao horizonte oeste. Na verdade, no dia 9 de junho, os dois planetas mais brilhantes estavam em estreita conjunção, separados no céu por menos de 2 graus da nossa perspectiva. Como o planeta interno (mais brilhante) Vênus orbita o Sol mais rápido do que o planeta externo Júpiter, ele alcança e passa o planeta externo ao longo da eclíptica aproximadamente a cada 13 meses. Mas a cada três anos ou mais, a conjunção resultante pode ser vista a uma distância suficiente do Sol para ser facilmente vista no céu crepuscular da Terra. Em 9 de junho, o próximo \"beijo cósmico\" dos dois faróis celestiais foi capturado aqui próximo às duas grandes pedras eretas na enseada dentro de um círculo de pedras de 4.000 anos em Avebury, Reino Unido. Maior que Stonehenge, o complexo henge e círculo de pedras de Avebury também é reconhecido como um dos locais cerimoniais neolíticos mais importantes do planeta Terra."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg",
+    "copyright": "Josh Dury"
+  },
+  {
     "date": "2026-06-11",
     "title": {
       "en": "The Mermaid Nebula Supernova Remnant",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg",
     "copyright": "Jakub Kuřák & , Martin Mašek , (FZU of the Czech Academy of Sciences)"
-  },
-  {
-    "date": "2026-05-07",
-    "title": {
-      "en": "Supernova in a Sideways Spiral",
-      "pt": "Supernova em espiral lateral"
-    },
-    "explanation": {
-      "en": "A long time ago, in a distant galaxy, a massive star was destroyed in a supernova explosion. The light of this event travelled for tens of millions of years and reached Earth last week as Supernova 2026kid. The featured video shows a time-lapse over three nights of the host galaxy NGC 5907, an edge-on spiral also known as the Splinter or Knife Edge Galaxy, as the supernova appears and becomes brighter. (The occasional streaks are satellites in Earth orbit.) At its brightest, a supernova can outshine the sum of all other stars in its galaxy. Supernova 2026kid appears relatively dim, probably because we are seeing it through the edge-on disk of the galaxy. Such explosions typically happen about once per century in galaxies similar to the Milky Way, and their light can take months to fade away. The brightest supernova in recorded history was SN 1006; it is reported to have been brighter than Venus, and even visible in the sky during daytime.",
-      "pt": "Há muito tempo atrás, numa galáxia distante, uma estrela massiva foi destruída numa explosão de supernova. A luz deste evento viajou durante dezenas de milhões de anos e chegou à Terra na semana passada como Supernova 2026kid. O vídeo apresentado mostra um lapso de tempo ao longo de três noites da galáxia hospedeira NGC 5907, uma espiral lateral também conhecida como Galáxia Splinter ou Knife Edge, à medida que a supernova aparece e se torna mais brilhante. (As faixas ocasionais são satélites na órbita da Terra.) No seu ponto mais brilhante, uma supernova pode ofuscar a soma de todas as outras estrelas da sua galáxia. A Supernova 2026kid parece relativamente fraca, provavelmente porque a vemos através do disco lateral da galáxia. Essas explosões normalmente acontecem uma vez por século em galáxias semelhantes à Via Láctea, e sua luz pode levar meses para desaparecer. A supernova mais brilhante registrada na história foi a SN 1006; é relatado que era mais brilhante que Vênus e até mesmo visível no céu durante o dia."
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/supernova.mp4",
-    "copyright": null
   }
 ]
