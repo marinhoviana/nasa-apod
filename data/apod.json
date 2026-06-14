@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-14",
+    "title": {
+      "en": "10 Days of Venus and Jupiter",
+      "pt": "10 dias de Vênus e Júpiter"
+    },
+    "explanation": {
+      "en": "Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June",
+      "pt": "Vênus e Júpiter podem ter chamado sua atenção ultimamente.  A recente conjunção próxima dos dois planetas mais brilhantes nos céus noturnos recentes tem sido difícil de perder. Com Júpiter no topo, começando em 30 de maio e terminando em 8 de junho, a sua aproximação foi narrada diariamente, da esquerda para a direita, nos painéis em destaque de Maharashtra, na Índia. Perto do horizonte oeste, as cores do céu noturno e as exposições usadas para cada painel dependem das condições locais próximas ao pôr do sol. No seu ponto mais próximo, em 9 de junho, o par celeste parecia estar separado apenas cerca de três vezes a largura de uma lua cheia. É claro que, nessa data, os dois planetas estavam fisicamente separados por mais de 600 milhões de quilómetros nas suas órbitas em torno do Sol. Nos próximos dias, Júpiter irá lentamente se acomodar no brilho do pôr do sol, mas Vênus continuará a se afastar do Sol no céu ocidental para se destacar em seu papel atual como a brilhante estrela da noite.   Galeria: Conjunção Vênus - Júpiter de junho de 2026"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
+    "copyright": "Aditya Pawar"
+  },
+  {
     "date": "2026-06-12",
     "title": {
       "en": "Venus and Jupiter: Conjunction from Avebury",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-08",
-    "title": {
-      "en": "Comet R3 PanSTARRS Before Rigel",
-      "pt": "Cometa R3 PanSTARRS antes de Rigel"
-    },
-    "explanation": {
-      "en": "Which way is Comet R3 PanSTARRS going? Not towards the star at the top of the image, because that is Rigel, which, being far in the background, is unrelated to the comet. Not through the nebula in the image middle, because that is the Witch Head Nebula and it, too, is far in the distance -- but not far from Rigel.  Not into northern skies because over the past week Comet C/2025 R3 (PanSTARRS) has moved into southern skies and is now best visible in Earth's Southern Hemisphere toward the west after sunset.  Angularly, Comet R3 PanSTARRS is slowly moving toward the upper right, night by night, and will soon be in the constellation Orion. Spatially, the comet is now headed out of our Solar System but should remain visible to cameras in southern skies for about a week.  The featured image was captured last week near Cerro Paranal in Chile.   Growing Gallery: Comet R3 PanSTARRS in 2026",
-      "pt": "Para onde vai o cometa R3 PanSTARRS? Não em direção à estrela no topo da imagem, porque é Rigel, que, estando bem no fundo, não tem relação com o cometa. Não através da nebulosa no meio da imagem, porque essa é a Nebulosa da Cabeça da Bruxa e ela também está muito distante - mas não muito longe de Rigel.  Não nos céus do norte porque durante a semana passada o cometa C/2025 R3 (PanSTARRS) moveu-se para os céus do sul e agora é melhor visível no hemisfério sul da Terra em direção ao oeste após o pôr do sol.  Angularmente, o cometa R3 PanSTARRS está se movendo lentamente em direção ao canto superior direito, noite após noite, e em breve estará na constelação de Órion. Espacialmente, o cometa está agora a sair do nosso Sistema Solar, mas deverá permanecer visível para as câmaras nos céus do sul durante cerca de uma semana.  A imagem em destaque foi capturada na semana passada perto do Cerro Paranal, no Chile.   Galeria em crescimento: Cometa R3 PanSTARRS em 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometRigel_Karuk_2851.jpg",
-    "copyright": "Jakub Kuřák & , Martin Mašek , (FZU of the Czech Academy of Sciences)"
   }
 ]
