@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-16",
+    "title": {
+      "en": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
+      "pt": "Luas, Anéis, Sombras, Nuvens: Saturno (Cassini)"
+    },
+    "explanation": {
+      "en": "While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator",
+      "pt": "Ao navegar por Saturno, fique atento aos arranjos pitorescos de luas, anéis e sombras. Uma dessas visões impressionantes ocorreu em 2005 e foi capturada pela então nave espacial Cassini, em órbita de Saturno. Na imagem apresentada, as luas Mimas (esquerda) e Tethys (direita) são visíveis em ambos os lados dos finos anéis de Saturno, que são vistos quase de lado.  No topo de Saturno há sombras escuras dos anéis largos, exibindo a sua impressionante complexidade. A imagem em luz violeta traz à tona a textura do pano de fundo: as nuvens de Saturno. A Cassini orbitou Saturno de 2004 até meados de 2017, quando a espaçonave robótica foi orientada a mergulhar em Saturno para evitar que contaminasse qualquer lua.    Explore o Universo: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-06-14",
     "title": {
       "en": "10 Days of Venus and Jupiter",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg",
     "copyright": "Luc Perrot, (TWAN)"
-  },
-  {
-    "date": "2026-05-09",
-    "title": {
-      "en": "Messier Craters in Stereo",
-      "pt": "Crateras Messier em estéreo"
-    },
-    "explanation": {
-      "en": "Many bright nebulae and star clusters in planet Earth's sky are associated with the name of astronomer Charles Messier from his famous 18th century catalog. His name is also given to these two large and remarkable craters on the Moon. Standouts in the dark, smooth lunar Sea of Fertility or Mare Fecunditatis, Messier (left) and Messier A have dimensions of 15 by 8 and 16 by 11 kilometers respectively. Their elongated shapes are explained by the extremely shallow-angle trajectory followed by an impactor, moving left to right, that gouged out the craters. The shallow impact also resulted in two bright rays of material extending along the surface to the right, beyond the picture. Intended to be viewed with red/blue glasses (red for the left eye), this striking stereo picture of the crater pair was recently created from high resolution scans of two images (AS11-42-6304, AS11-42-6305) taken during the Apollo 11 mission to the Moon.",
-      "pt": "Muitas nebulosas brilhantes e aglomerados de estrelas no céu do planeta Terra estão associados ao nome do astrônomo Charles Messier em seu famoso catálogo do século XVIII. Seu nome também é dado a essas duas grandes e notáveis ​​crateras na Lua. Destaques no escuro e suave Mar da Fertilidade lunar ou Mare Fecunditatis, Messier (à esquerda) e Messier A têm dimensões de 15 por 8 e 16 por 11 quilômetros, respectivamente. Suas formas alongadas são explicadas pela trajetória em ângulo extremamente raso seguida por um impactador, movendo-se da esquerda para a direita, que abriu as crateras. O impacto superficial também resultou em dois raios brilhantes de material estendendo-se ao longo da superfície para a direita, além da imagem. Destinada a ser vista com óculos vermelhos/azuis (vermelho para o olho esquerdo), esta impressionante imagem estéreo do par de crateras foi recentemente criada a partir de digitalizações de alta resolução de duas imagens (AS11-42-6304, AS11-42-6305) obtidas durante a missão Apollo 11 à Lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne1024c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/MessierCrater3d_vantuyne.jpg",
-    "copyright": null
   }
 ]
