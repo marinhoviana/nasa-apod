@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-17",
+    "title": {
+      "en": "Longmore 8: The Hamster Wheel Nebula",
+      "pt": "Longmore 8: A Nebulosa da Roda do Hamster"
+    },
+    "explanation": {
+      "en": "How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deeper and fainter objects on plates that were examined by eye and catalogued. The featured image, taken at Observatorio El Sauce in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a dying star and ionized by the leftover white dwarf. This structure was barely visible on the original plate, emphasizing the power of modern telescopes and cameras. Two opposing clumps of red hydrogen gas encased in the blue veil of ionized oxygen hint at the presence of a companion to the bright white dwarf at the wheel’s center!",
+      "pt": "Como uma roda de hamster chegou ao espaço? A Nebulosa da Roda do Hamster (Longmore 8) foi descoberta por Andrew Longmore em 1976 como parte de um levantamento maior do céu meridional. Esta pesquisa empregou diversas melhorias na tecnologia fotográfica, incluindo o uso de filme altamente sensível, para capturar objetos mais profundos e mais tênues em placas que foram examinadas a olho nu e catalogadas. A imagem em destaque, tirada no Observatório El Sauce, no Chile, mostra uma intrincada estrutura de roda de hidrogênio brilhante que foi lançada ao espaço por uma estrela moribunda e ionizada pela anã branca que sobrou. Esta estrutura era pouco visível na placa original, enfatizando o poder dos telescópios e câmeras modernos. Dois aglomerados opostos de gás hidrogênio vermelho envoltos no véu azul de oxigênio ionizado sugerem a presença de uma companheira da anã branca brilhante no centro da roda!"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/hamster.jpg",
+    "copyright": "Mazlin, Parker, Forman, Magill, Hanson, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-06-16",
     "title": {
       "en": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
@@ -433,20 +448,5 @@
     "url": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
     "hdurl": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
     "copyright": "El Cielo de Canarias"
-  },
-  {
-    "date": "2026-05-10",
-    "title": {
-      "en": "Comet R3 PanSTARRS and Orion",
-      "pt": "Cometa R3 PanSTARRS e Orion"
-    },
-    "explanation": {
-      "en": "Orion never had a sword like this. As Comet C/2025 R3 (PanSTARRS) heads out of the inner Solar System, it is putting on quite a show for long exposure cameras.  Currently seen toward the constellation of Orion the Hunter, the distant Orion Nebula is visible on the upper right. Comet R3 PanSTARRS is now showing two distinct tails: a short dust tail pointing toward the top of the image and a long and wavy ion tail trailing off toward the upper left.  The ion tail points away from the Sun and glows blue from excited carbon monoxide.  Large particles in the dust tail somewhat resist the radiation pressure that push them away from the Sun and so retain a bit of the comet's orbit.  The dust tail shines by reflected sunlight. The featured image was taken a few days ago from France's Reunion Island in the southern Indian Ocean.   Growing Gallery: Comet R3 PanSTARRS in 2026",
-      "pt": "Orion nunca teve uma espada como esta. À medida que o cometa C/2025 R3 (PanSTARRS) sai do interior do Sistema Solar, ele está dando um show e tanto para câmeras de longa exposição.  Atualmente vista em direção à constelação de Órion, o Caçador, a distante Nebulosa de Órion é visível no canto superior direito. O cometa R3 PanSTARRS mostra agora duas caudas distintas: uma curta cauda de poeira apontando para o topo da imagem e uma longa e ondulada cauda de íons saindo para o canto superior esquerdo.  A cauda do íon aponta para longe do Sol e brilha em azul devido ao monóxido de carbono excitado.  Partículas grandes na cauda de poeira resistem um pouco à pressão da radiação que as afasta do Sol e, assim, retêm um pouco da órbita do cometa.  A cauda de poeira brilha pela luz solar refletida. A imagem em destaque foi tirada há alguns dias na Ilha da Reunião, na França, no sul do Oceano Índico.   Galeria em crescimento: Cometa R3 PanSTARRS em 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960_annotated.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometOrion_Perrot_960.jpg",
-    "copyright": "Luc Perrot, (TWAN)"
   }
 ]
