@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-18",
+    "title": {
+      "en": "Possible Supernova Remnant in Galactic Center",
+      "pt": "Possível remanescente de supernova no centro galáctico"
+    },
+    "explanation": {
+      "en": "Do you see that blue blob to the lower right of the image center?   Astronomers think that it shows where a massive star exploded as a supernova whose light reached Earth 1,700 years ago.   The image combines optical data from the PanSTARRS telescopes in Hawaii (background stars in red, green, and blue), radio from the MeerKAT telescope in South Africa (large red cloud) and X-rays from NASA's Chandra X-ray Observatory and ESA’s XMM-Newton (shown in blue).   The large cloud is a star forming region called Sagittarius C, which is approximately 50 light-years in extent and about 26,000 light-years from Earth.   It is located only about 260 light-years from the supermassive black hole in the center of the Galaxy (off to the left of the image).   If the blue blob is confirmed to be a supernova remnant, it would be one of the closest ever discovered to the Galactic Center.   In this dense region, the deaths of massive stars are connected to the birth of new stars through gas and magnetic fields in a complex way.",
+      "pt": "Você vê aquela bolha azul no canto inferior direito do centro da imagem?   Os astrónomos pensam que isto mostra onde uma estrela massiva explodiu como uma supernova cuja luz atingiu a Terra há 1.700 anos.   A imagem combina dados ópticos dos telescópios PanSTARRS no Havaí (estrelas de fundo em vermelho, verde e azul), rádio do telescópio MeerKAT na África do Sul (grande nuvem vermelha) e raios X do Observatório de Raios X Chandra da NASA e do XMM-Newton da ESA (mostrados em azul).   A grande nuvem é uma região de formação de estrelas chamada Sagitário C, que tem aproximadamente 50 anos-luz de extensão e cerca de 26.000 anos-luz da Terra.   Está localizado a apenas cerca de 260 anos-luz do buraco negro supermassivo no centro da Galáxia (à esquerda da imagem).   Se for confirmado que a bolha azul é um remanescente de supernova, seria uma das mais próximas já descobertas do Centro Galáctico.   Nesta região densa, as mortes de estrelas massivas estão ligadas ao nascimento de novas estrelas através de gás e campos magnéticos de uma forma complexa."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg",
+    "copyright": "X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-06-17",
     "title": {
       "en": "Longmore 8: The Hamster Wheel Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
     "copyright": "Julien De Winter, Sascha Ebeler, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-05-11",
-    "title": {
-      "en": "Moon Setting Behind Teide Volcano",
-      "pt": "Lua se pondo atrás do vulcão Teide"
-    },
-    "explanation": {
-      "en": "These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands of Spain  off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon sets just when the Sun rises because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during a full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.",
-      "pt": "Essas pessoas não estão em perigo. O que vem da esquerda é apenas a Lua, ao longe. Luna parece tão grande aqui porque está sendo fotografada através de uma lente telescópica.  O que se move é principalmente a Terra, cujo giro faz com que a Lua desapareça lentamente atrás do Monte Teide, um vulcão nas Ilhas Canárias, na Espanha, na costa noroeste da África. As pessoas retratadas estão a 16 quilômetros de distância e muitas estão de frente para a câmera porque observam o Sol nascer atrás do fotógrafo. Não é uma coincidência que a lua cheia se ponha exatamente quando o Sol nasce, porque o Sol está sempre no lado oposto do céu à lua cheia. O vídeo em destaque foi feito em 2018 durante uma lua cheia de leite.  O vídeo não é um lapso de tempo - era realmente o quão rápido a Lua estava se pondo."
-    },
-    "media_type": "video",
-    "url": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
-    "hdurl": "https://www.youtube.com/embed/afHfMMC-MJE?rel=0",
-    "copyright": "El Cielo de Canarias"
   }
 ]
