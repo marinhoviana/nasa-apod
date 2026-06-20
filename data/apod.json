@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-20",
+    "title": {
+      "en": "Daytime Moon Meets Evening Star",
+      "pt": "A lua diurna encontra a estrela vespertina"
+    },
+    "explanation": {
+      "en": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.",
+      "pt": "Vênus está agora aparecendo no palco celestial como a brilhante estrela vespertina da Terra, atuando com a Lua, outros planetas errantes e estrelas brilhantes nos céus ocidentais. Para os observadores do céu noturno em 17 de junho, o farol celestial surgiu após o pôr do sol perto de uma lua jovem e esguia e crescente. Mas em alguns locais a Lua pode ser vista ocultando-se ou passando na frente de Vênus. E a partir de um observatório de quintal no sul da Colúmbia Britânica, Canadá, a ocultação lunar ocorreu à luz do dia. Esta impressionante fotografia telescópica capturou uma cena num céu dramaticamente nublado, após o desaparecimento de uma hora de Vénus, à medida que a estrela vespertina emergia para além do brilhante limbo lunar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg",
+    "copyright": "Debra Ceravolo"
+  },
+  {
     "date": "2026-06-18",
     "title": {
       "en": "Possible Supernova Remnant in Galactic Center",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/Polarissima.jpg",
     "copyright": "Neven Krcmarek"
-  },
-  {
-    "date": "2026-05-12",
-    "title": {
-      "en": "The Conjunction of Comet R3 PanSTARRS and the Orion Nebula",
-      "pt": "A conjunção do cometa R3 PanSTARRS e da nebulosa de Órion"
-    },
-    "explanation": {
-      "en": "Today’s composite image features something old, something new, something borrowed, and something blue! Comet R3 PanSTARRS, streaking across the right of the image, likely originated from the Oort Cloud, meaning it is an old Solar System relic from billions of years ago. It’s bright extended ion tail glows blue  as the gas escaping the comet’s core is ionized by sunlight. Astronomers are fascinated by comets for all sorts of reasons: comet compositions are untouched time capsules containing the building blocks of Solar System planets; comets may have delivered water to the young Earth; the behavior of cometary tails shed light on solar wind and radiation interactions. The background mosaic, featuring the Orion Nebula (M42), was taken over two nights of observation with the comet captured on the third night. The Orion Nebula is our nearest stellar nursery and, at about 2 million years old, is our something (relatively) new! Now at around 127.5 million kilometers from Earth, we wave goodbye to the borrowed Comet R3 PanSTARRS as it leaves the Solar System.   Growing Gallery: Comet R3 in 2026",
-      "pt": "A imagem composta de hoje apresenta algo antigo, algo novo, algo emprestado e algo azul! O cometa R3 PanSTARRS, que aparece à direita da imagem, provavelmente se originou na Nuvem de Oort, o que significa que é uma antiga relíquia do Sistema Solar de bilhões de anos atrás. Sua cauda de íons estendida e brilhante brilha em azul enquanto o gás que escapa do núcleo do cometa é ionizado pela luz solar. Os astrônomos são fascinados por cometas por vários motivos: as composições dos cometas são cápsulas do tempo intocadas que contêm os blocos de construção dos planetas do Sistema Solar; os cometas podem ter fornecido água à jovem Terra; o comportamento das caudas cometárias lança luz sobre as interações do vento solar e da radiação. O mosaico de fundo, apresentando a Nebulosa de Orion (M42), foi obtido durante duas noites de observação com o cometa capturado na terceira noite. A Nebulosa de Órion é o nosso berçário estelar mais próximo e, com cerca de 2 milhões de anos, é algo (relativamente) novo! Agora, a cerca de 127,5 milhões de quilómetros da Terra, damos adeus ao cometa R3 PanSTARRS emprestado ao sair do Sistema Solar.   Galeria em crescimento: Cometa R3 em 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/CometR3_Orion.jpg",
-    "copyright": "Julien De Winter, Sascha Ebeler, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
