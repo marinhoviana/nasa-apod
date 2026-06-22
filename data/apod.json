@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-22",
+    "title": {
+      "en": "M27: The Dumbbell Nebula",
+      "pt": "M27: A Nebulosa do Haltere"
+    },
+    "explanation": {
+      "en": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors enhanced by red for  hydrogen and blue for oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.",
+      "pt": "Será isto o que será do nosso Sol? Muito possivelmente.  A primeira pista do futuro do nosso Sol foi descoberta inadvertidamente em 1764. Naquela época, Charles Messier estava compilando uma lista de objetos difusos que não deveriam ser confundidos com cometas. O 27º objeto da lista de Messier, agora conhecido como M27 ou Nebulosa do Haltere, é uma nebulosa planetária, uma das nebulosas planetárias mais brilhantes do céu e visível com binóculos em direção à constelação da Raposa (Vulpecula). A luz leva cerca de 1000 anos para chegar até nós vinda da M27, apresentada aqui em cores realçadas pelo vermelho para o hidrogênio e pelo azul para o oxigênio. Sabemos agora que dentro de cerca de 6 mil milhões de anos, o nosso Sol libertará os seus gases exteriores numa nebulosa planetária como M27, enquanto o seu centro restante se tornará uma estrela anã branca quente de raios X.  No entanto, compreender a física e o significado do M27 estava muito além da ciência do século XVIII. Ainda hoje, muitas coisas permanecem misteriosas sobre as nebulosas planetárias, incluindo a forma como as suas formas complexas são criadas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg",
+    "copyright": "Francesco Antonucci"
+  },
+  {
     "date": "2026-06-20",
     "title": {
       "en": "Daytime Moon Meets Evening Star",
@@ -418,21 +433,6 @@
     "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg",
     "copyright": "Chester Hall-Fernandez"
-  },
-  {
-    "date": "2026-05-13",
-    "title": {
-      "en": "NGC 188: Old Cluster in the New General Catalog",
-      "pt": "NGC 188: Antigo Cluster no Novo Catálogo Geral"
-    },
-    "explanation": {
-      "en": "The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its \"NGC\" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.",
-      "pt": "O Novo Catálogo Geral de aglomerados de estrelas e nebulosas não é tão novo assim. Na verdade, foi publicado em 1888 - um esforço de J. L. E. Dreyer para consolidar o trabalho dos astrônomos William, Caroline e John Herschel, juntamente com outros, em um catálogo útil, único e completo de descobertas e medições astronômicas. O trabalho de Dreyer foi amplamente bem-sucedido e ainda é importante hoje, já que este famoso catálogo continua a emprestar seu “NGC” a aglomerados brilhantes, galáxias e nebulosas. Tomemos por exemplo o aglomerado estelar conhecido como NGC 188 (item número 188 na compilação NGC). Situa-se a cerca de 6.000 anos-luz de distância, na constelação norte de Cepheus, e representa um aglomerado estelar galáctico ou aberto. Com uma idade de cerca de 7 mil milhões de anos, NGC 188 é antigo para ser um aglomerado aberto. Suas antigas e evoluídas estrelas gigantes vermelhas têm tons amarelados nesta vista colorida e profunda do céu. NGC 188 também goza da designação Caldwell 1 em uma compilação moderna de objetos do céu profundo. Localizado bem acima do plano da Via Láctea e visto na direção do pólo celeste norte do planeta Terra, o antigo grupo estelar é conhecido por alguns como Aglomerado Polarissima."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/Polarissima.jpg",
-    "copyright": "Neven Krcmarek"
   },
   {
     "date": "2026-05-13",
