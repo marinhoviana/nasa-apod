@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-23",
+    "title": {
+      "en": "Flying Past Neptune's Moon Triton",
+      "pt": "Voando além da Lua Tritão de Netuno"
+    },
+    "explanation": {
+      "en": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator",
+      "pt": "Como seria passar por Tritão, a maior lua do planeta Netuno?  Apenas uma nave espacial conseguiu fazer isto – e as imagens deste encontro dramático foram reunidas num vídeo.  Em 1989, a espaçonave robótica Voyager 2 disparou através do sistema de Netuno com câmeras em chamas.  Tritão é ligeiramente menor que a Lua da Terra, mas tem vulcões de gelo e uma superfície rica em nitrogênio congelado.  A primeira sequência do vídeo mostra a aproximação da Voyager a Tritão, que, com exceção de uma falsa tonalidade verde geral, aparece em cores aproximadamente verdadeiras.  O misterioso terreno de melão visto sob a espaçonave logo mudou de claro para escuro, com o terminador da travessia noturna embaixo.  Após a maior aproximação, a Voyager girou para ver a lua partindo, agora visível como um crescente decrescente.  Em 2015, a nave robótica New Horizons passou por Plutão, um orbe de tamanho semelhante a Tritão.   Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-06-22",
     "title": {
       "en": "M27: The Dumbbell Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg",
     "copyright": "Chester Hall-Fernandez"
-  },
-  {
-    "date": "2026-05-13",
-    "title": {
-      "en": "NGC 188: Old Cluster in the New General Catalog",
-      "pt": "NGC 188: Antigo Cluster no Novo Catálogo Geral"
-    },
-    "explanation": {
-      "en": "The New General Catalog of star clusters and nebulae really isn't so new. In fact, it was published in 1888 - an effort by J. L. E. Dreyer to consolidate the work of astronomers William, Caroline, and John Herschel along with others into a useful single, complete catalog of astronomical discoveries and measurements. Dreyer's work was largely successful and is still important today, as this famous catalog continues to lend its \"NGC\" to bright clusters, galaxies, and nebulae. Take for example the star cluster known as NGC 188 (item number 188 in the NGC compilation). It lies about 6,000 light-years distant in the northern constellation Cepheus and represents a galactic or open star cluster. With an age of about 7 billion years, NGC 188 is old for an open cluster. Its old, evolved red giant stars have yellowish hues in this colorful, deep sky view. NGC 188 also enjoys the designation Caldwell 1 in a modern compilation of deep sky objects. Located well above the plane of the Milky Way and seen in the direction of planet Earth's north celestial pole, the ancient stellar group is known to some as the Polarissima Cluster.",
-      "pt": "O Novo Catálogo Geral de aglomerados de estrelas e nebulosas não é tão novo assim. Na verdade, foi publicado em 1888 - um esforço de J. L. E. Dreyer para consolidar o trabalho dos astrônomos William, Caroline e John Herschel, juntamente com outros, em um catálogo útil, único e completo de descobertas e medições astronômicas. O trabalho de Dreyer foi amplamente bem-sucedido e ainda é importante hoje, já que este famoso catálogo continua a emprestar seu “NGC” a aglomerados brilhantes, galáxias e nebulosas. Tomemos por exemplo o aglomerado estelar conhecido como NGC 188 (item número 188 na compilação NGC). Situa-se a cerca de 6.000 anos-luz de distância, na constelação norte de Cepheus, e representa um aglomerado estelar galáctico ou aberto. Com uma idade de cerca de 7 mil milhões de anos, NGC 188 é antigo para ser um aglomerado aberto. Suas antigas e evoluídas estrelas gigantes vermelhas têm tons amarelados nesta vista colorida e profunda do céu. NGC 188 também goza da designação Caldwell 1 em uma compilação moderna de objetos do céu profundo. Localizado bem acima do plano da Via Láctea e visto na direção do pólo celeste norte do planeta Terra, o antigo grupo estelar é conhecido por alguns como Aglomerado Polarissima."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/Polarissima1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/Polarissima.jpg",
-    "copyright": "Neven Krcmarek"
   }
 ]
