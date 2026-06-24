@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-24",
+    "title": {
+      "en": "SDO Observes a Coronal Mass Ejection",
+      "pt": "SDO observa uma ejeção de massa coronal"
+    },
+    "explanation": {
+      "en": "Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 hours on April 24th, 2026 by the Solar Dynamics Observatory, shows what happens when those magnetic fields become too stressed: they snap and expel billions of tons (trillions of kilograms) of plasma into space at millions of miles (or kilometers) per hour in what is called a coronal mass ejection (CME). The Sun releases a few CMEs each day when it is at the peak of its activity cycle, which passed in 2025. Some of these eruptions hit Earth and can disrupt power grids, disable satellites, and endanger astronauts, which is why space weather monitoring is so important.",
+      "pt": "Por que o Sol joga coisas em nós? A superfície do Sol é uma sopa agitada de elétrons e íons energéticos chamada plasma. O movimento dessas partículas carregadas cria loops de campo magnético maiores que a Terra. Esses loops torcem, giram e prendem o plasma. O lapso de tempo apresentado, obtido ao longo de 2 horas em 24 de abril de 2026 pelo Solar Dynamics Observatory, mostra o que acontece quando esses campos magnéticos ficam muito estressados: eles se rompem e expelem bilhões de toneladas (trilhões de quilogramas) de plasma para o espaço a milhões de milhas (ou quilômetros) por hora, no que é chamado de ejeção de massa coronal (CME). O Sol liberta algumas CME todos os dias quando está no pico do seu ciclo de atividade, que passou em 2025. Algumas destas erupções atingiram a Terra e podem perturbar redes elétricas, desativar satélites e colocar astronautas em perigo, razão pela qual a monitorização do clima espacial é tão importante."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-06-23",
     "title": {
       "en": "Flying Past Neptune's Moon Triton",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-15",
-    "title": {
-      "en": "R3 PanSTARRS: An Orion Comet",
-      "pt": "R3 PanSTARRS: Um cometa Orion"
-    },
-    "explanation": {
-      "en": "Comet R3 PanSTARRS might be best remembered as an Orion comet.  A key reason is because Comet C/2025 R3 (PanSTARRS) was near its most spectacular -- in terms of tail visibility -- when passing in front of the iconic constellation.  Although rare, other bright comets, too, have ventured across Orion, including  Lovejoy in 2015, Hale-Bopp in 1997, and the Great Comet of 1264.  Best visible in long duration exposures, the featured image was captured last week from the Craigieburn Mountain Range in New Zealand.  Visible in the deep background image are the Orion Nebula, Barnard's Loop, and through R3's tail, the bright star Saiph, the sixth brightest star in the constellation of Orion. Comet R3 PanSTARRS continues to fade as it moves further south, passing into the constellation of the Unicorn (Monoceros) in the next few days.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "O cometa R3 PanSTARRS pode ser mais lembrado como um cometa Orion.  Uma das principais razões é porque o cometa C/2025 R3 (PanSTARRS) estava próximo do seu ponto mais espectacular - em termos de visibilidade da cauda - ao passar em frente da icónica constelação.  Embora raros, outros cometas brilhantes também se aventuraram por Orion, incluindo Lovejoy em 2015, Hale-Bopp em 1997, e o Grande Cometa de 1264. Melhor visível em exposições de longa duração, a imagem em destaque foi capturada na semana passada na Cordilheira Craigieburn, na Nova Zelândia.  Visíveis na imagem de fundo profundo estão a Nebulosa de Órion, o Loop de Barnard e, através da cauda de R3, a estrela brilhante Saiph, a sexta estrela mais brilhante da constelação de Órion. O cometa R3 PanSTARRS continua a desaparecer à medida que se move mais para sul, passando pela constelação do Unicórnio (Monoceros) nos próximos dias.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/R3Orion_Hall_2870.jpg",
-    "copyright": "Chester Hall-Fernandez"
   }
 ]
