@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-26",
+    "title": {
+      "en": "Milky Way Urban Style",
+      "pt": "Estilo urbano da Via Láctea"
+    },
+    "explanation": {
+      "en": "In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.",
+      "pt": "Em uma vista cósmica que você nunca pode ver, a Via Láctea forma um arco noturno acima de Seul, na Coreia do Sul. Notavelmente, esta paisagem urbana noturna revela a região central fracamente luminosa da nossa galáxia e nuvens de poeira escuras e obscuras, apesar das brilhantes luzes da cidade. Para superar a extrema poluição luminosa da área metropolitana e registrar detalhes cósmicos tênues, um filtro infravermelho foi usado para capturar a cena noturna em uma única exposição. Embora o filtro transmita predominantemente luz infravermelha, ele ainda deixa passar alguma luz visível para dar à cena uma aparência natural. A vista é do Parque Ttukseom Hangang de Seul, com o rio Han e uma ponte ferroviária bem iluminada em primeiro plano. A Lotte World Tower, de 123 andares, surge à distância, o edifício mais alto da Coreia do Sul."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee.jpg",
+    "copyright": "Shingoo Lee"
+  },
+  {
     "date": "2026-06-24",
     "title": {
       "en": "SDO Observes a Coronal Mass Ejection",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-16",
-    "title": {
-      "en": "Aurora Slathers Up the Sky",
-      "pt": "Aurora cobre o céu"
-    },
-    "explanation": {
-      "en": "Like salsa verde on your favorite burrito, a green aurora slathers up the sky in this 2017 June 25 snapshot from the International Space Station. About 400 kilometers (250 miles) above Earth, the orbiting station is itself within the upper realm of the auroral displays. Aurorae have the signature colors of excited molecules and atoms at the low densities found at extreme altitudes. Emission from atomic oxygen dominates this view. The tantalizing glow is green at lower altitudes, but rarer reddish bands extend above the space station's horizon. The orbital scene was captured while passing over a point south and east of Australia, with stars above the horizon at the right belonging to the constellation Canis Major, Orion's big dog. Sirius, alpha star of Canis Major, is the brightest star near the Earth's limb.",
-      "pt": "Como salsa verde em seu burrito favorito, uma aurora verde cobre o céu nesta foto de 25 de junho de 2017 da Estação Espacial Internacional. A cerca de 400 quilómetros (250 milhas) acima da Terra, a estação orbital está ela própria dentro do reino superior das exibições aurorais. Aurorae tem as cores características de moléculas e átomos excitados nas baixas densidades encontradas em altitudes extremas. A emissão do oxigênio atômico domina esta visão. O brilho tentador é verde em altitudes mais baixas, mas faixas avermelhadas mais raras estendem-se acima do horizonte da estação espacial. A cena orbital foi capturada ao passar sobre um ponto ao sul e leste da Austrália, com estrelas acima do horizonte à direita pertencentes à constelação do Cão Maior, o grande cachorro de Órion. Sirius, estrela alfa de Canis Major, é a estrela mais brilhante perto do bordo da Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/aurora_iss052e007857.jpg",
     "copyright": null
   }
 ]
