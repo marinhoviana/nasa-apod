@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-27",
+    "title": {
+      "en": "Mars Marathon by Perseverance",
+      "pt": "Maratona de Marte por Perseverança"
+    },
+    "explanation": {
+      "en": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta.",
+      "pt": "Nesta visão recente da HiRISE da Mars Reconnaissance Orbiter, o pequeno ponto verde indicado na superfície do grande Planeta Vermelho é o rover Perseverance Mars. Gravado em 13 de junho, o robô de seis rodas do tamanho de um carro foi fotografado um dia antes de completar uma maratona marciana, percorrendo uma distância total de 26,218 milhas (42,195 quilômetros) desde que começou a explorar a superfície de Marte. Essa distância equivalente à maratona foi alcançada pelo Perseverance em sua missão Sol (dia marciano) 1.890, após cerca de 5 anos terrestres e 4 meses terrestres de condução. O Perseverance continua em busca de bioassinaturas. Na imagem HiRISE, os rastros do rover de Marte podem ser vistos levando à sua localização em uma área a oeste de seu local de pouso na cratera de Jezero, perto de um antigo delta de rio."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/PIA26726.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-06-26",
     "title": {
       "en": "Milky Way Urban Style",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg",
     "copyright": "Simone Curzi"
-  },
-  {
-    "date": "2026-05-17",
-    "title": {
-      "en": "NGC 1300: Barred Spiral Galaxy",
-      "pt": "NGC 1300: Galáxia Espiral Barrada"
-    },
-    "explanation": {
-      "en": "Across the center of this spiral galaxy is a bar.  And at the center of this bar is smaller spiral.  And at the center of that spiral is a supermassive black hole.  This all happens in the big, beautiful, barred spiral galaxy cataloged as NGC 1300, a galaxy that lies some 70 million light-years away toward the constellation of the river Eridanus. This Hubble Space Telescope composite view of the gorgeous island universe is one of the most detailed Hubble images ever made of a complete galaxy.  NGC 1300 spans over 100,000 light-years and the Hubble image reveals striking details of the galaxy's dominant central bar and majestic spiral arms. How the giant bar formed, how it remains, and how it affects star formation remains an active topic of research.   Jigsaw Universe: Astronomy Puzzle of the Day",
-      "pt": "No centro desta galáxia espiral há uma barra.  E no centro desta barra está uma espiral menor.  E no centro dessa espiral está um buraco negro supermassivo.  Tudo isso acontece na grande, bela e barrada galáxia espiral catalogada como NGC 1300, uma galáxia que fica a cerca de 70 milhões de anos-luz de distância, na direção da constelação do rio Eridanus. Esta imagem composta do Telescópio Espacial Hubble do lindo universo insular é uma das imagens mais detalhadas já feitas pelo Hubble de uma galáxia completa.  NGC 1300 abrange mais de 100.000 anos-luz e a imagem do Hubble revela detalhes impressionantes da barra central dominante da galáxia e dos majestosos braços espirais. Como a barra gigante se formou, como ela permanece e como afeta a formação de estrelas continua sendo um tópico ativo de pesquisa.   Universo Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/NGC1300_HST_6637.jpg",
-    "copyright": null
   }
 ]
