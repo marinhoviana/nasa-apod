@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-06-29",
+    "title": {
+      "en": "M82: Galaxy with a Supergalactic Wind",
+      "pt": "M82: Galáxia com Vento Supergaláctico"
+    },
+    "explanation": {
+      "en": "Why is the Cigar Galaxy billowing red smoke?  M82, as this starburst galaxy is also known, was stirred up by a recent pass near large spiral galaxy M81.  This doesn't fully explain the source of the red-glowing outwardly expanding gas and dust, however.  Evidence indicates that this gas and dust is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind.  The dust particles are thought to originate in M82's interstellar medium and are actually similar in size to particles in cigar smoke.  The featured photographic mosaic combines images taken in visible light from the Hubble Space Telescope and images taken in infrared light from James Webb Space Telescope.  It shows the light-colored central galaxy nearly edge on across the image center with tremendous orange and red colored filaments of gas and dust extending both up and down.  The filaments extend for over 10,000 light years. The 12-million light-year distant Cigar Galaxy is the brightest galaxy in the sky in infrared light and can be seen in visible light with a small telescope towards the constellation of the Great Bear (Ursa Major).",
+      "pt": "Por que o Cigar Galaxy está soltando fumaça vermelha?  M82, como também é conhecida esta galáxia estelar, foi estimulada por uma passagem recente perto da grande galáxia espiral M81.  No entanto, isso não explica completamente a origem do gás e da poeira que brilham em vermelho e se expandem para fora.  As evidências indicam que este gás e poeira estão sendo expulsos pelos ventos combinados de partículas emergentes de muitas estrelas, criando juntos um supervento galáctico.  Pensa-se que as partículas de poeira se originam no meio interestelar de M82 e são, na verdade, semelhantes em tamanho às partículas da fumaça do charuto.  O mosaico fotográfico apresentado combina imagens obtidas em luz visível pelo Telescópio Espacial Hubble e imagens obtidas em luz infravermelha pelo Telescópio Espacial James Webb.  Ela mostra a galáxia central de cor clara quase na borda do centro da imagem, com enormes filamentos de gás e poeira de cor laranja e vermelha estendendo-se para cima e para baixo.  Os filamentos se estendem por mais de 10.000 anos-luz. A Galáxia do Charuto, distante 12 milhões de anos-luz, é a galáxia mais brilhante no céu em luz infravermelha e pode ser vista em luz visível com um pequeno telescópio em direção à constelação da Ursa Maior (Ursa Maior)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-06-27",
     "title": {
       "en": "Mars Marathon by Perseverance",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg",
     "copyright": "Jason Marriott"
-  },
-  {
-    "date": "2026-05-18",
-    "title": {
-      "en": "Unraveling NGC 3169",
-      "pt": "Desvendando NGC 3169"
-    },
-    "explanation": {
-      "en": "Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 to the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.",
-      "pt": "A galáxia espiral NGC 3169 parece estar se desfazendo como um novelo de lã cósmica. Situa-se a cerca de 70 milhões de anos-luz de distância, ao sul da brilhante estrela Regulus, em direção à tênue constelação Sextans. Os braços espirais enrolados são puxados para fora em caudas de maré enquanto NGC 3169 (esquerda) e a vizinha NGC 3166 interagem gravitacionalmente. Eventualmente, as galáxias se fundirão em uma só, um destino comum mesmo para galáxias brilhantes no universo local. Arcos estelares e plumas estelares são indicações claras das interações gravitacionais em curso através da foto profunda e colorida do grupo de galáxias. A estrutura telescópica abrange cerca de 20 minutos de arco ou cerca de 400.000 anos-luz na distância estimada do grupo, e inclui NGC 3165, menor e azulada, à direita. NGC 3169 também é conhecido por brilhar em todo o espectro do rádio aos raios X, abrigando um núcleo galáctico ativo que é o local de um buraco negro supermassivo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165px1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/ngc3169_ngc3166_ngc3165.jpg",
-    "copyright": "Simone Curzi"
   }
 ]
