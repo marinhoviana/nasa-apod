@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-03",
+    "title": {
+      "en": "Three Galaxies in Pavo",
+      "pt": "Três galáxias em Pavo"
+    },
+    "explanation": {
+      "en": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.",
+      "pt": "A cerca de 190 milhões de anos-luz de distância, muito além das estrelas brilhantes e das nebulosas da Via Láctea, estas três galáxias são unidas pela gravidade numa hipnotizante dança cósmica. Claramente distorcidas pelas interações gravitacionais em escala galáctica, as grandes galáxias espirais NGC6769 e NGC6770 são vistas de frente, com discos galácticos luminosos marcados por obscuras faixas de poeira interestelar. Seus jovens aglomerados de estrelas azuis ao longo de longos braços espirais são gerados em regiões de formação de estrelas que resultam de colisões de nuvens moleculares massivas. Abaixo, a espiral NGC6771 apresenta uma perspectiva mais lateral, com sua protuberância central quadrada devido aos fluxos estelares das marés. É claro que, num futuro distante, a fusão das três galáxias será inevitável. À distância estimada deste trio de galáxias, conhecido por alguns como Máscara do Diabo, a nítida estrutura telescópica abrange mais de 300 mil anos-luz, dentro dos limites da constelação do extremo sul, Pavo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg",
+    "copyright": "Mike Selby"
+  },
+  {
     "date": "2026-06-29",
     "title": {
       "en": "M82: Galaxy with a Supergalactic Wind",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg",
     "copyright": "William Vrbasso, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-05-19",
-    "title": {
-      "en": "NGC 2170: The Angel Nebula",
-      "pt": "NGC 2170: A Nebulosa do Anjo"
-    },
-    "explanation": {
-      "en": "Is this a painting or a photograph? In this celestial abstract art composed with a cosmic brush, dusty nebula NGC 2170, also known as the Angel Nebula, shines just above the image center. Reflecting the light of nearby hot stars, NGC 2170 is joined by other bluish reflection nebulae, a red emission region, many dark absorption nebulae, and a backdrop of colorful stars. Like the common household items that abstract painters often choose for their subjects, the clouds of gas, dust, and hot stars featured here are also commonly found in a setting like this one --  a massive, star-forming molecular cloud in the constellation of the Unicorn (Monoceros). The giant molecular cloud Mon R2, is impressively close, estimated to be only 2,400 light-years or so away. At that distance, this canvas would be over 60 light-years across.   Almost Hyperspace: Random APOD Generator",
-      "pt": "Isto é uma pintura ou uma fotografia? Nesta arte abstrata celestial composta com um pincel cósmico, a nebulosa empoeirada NGC 2170, também conhecida como Nebulosa do Anjo, brilha logo acima do centro da imagem. Refletindo a luz de estrelas quentes próximas, NGC 2170 é acompanhada por outras nebulosas de reflexão azuladas, uma região de emissão vermelha, muitas nebulosas de absorção escuras e um cenário de estrelas coloridas. Tal como os utensílios domésticos comuns que os pintores abstratos escolhem frequentemente para os seus temas, as nuvens de gás, poeira e estrelas quentes apresentadas aqui também são comumente encontradas num cenário como este - uma enorme nuvem molecular formadora de estrelas na constelação do Unicórnio (Monoceros). A gigante nuvem molecular Mon R2 está impressionantemente próxima, estimada em apenas 2.400 anos-luz de distância. A essa distância, esta tela teria mais de 60 anos-luz de diâmetro.   Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/Angel_Marriott_1707.jpg",
-    "copyright": "Jason Marriott"
   }
 ]
