@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-04",
+    "title": {
+      "en": "Pathfinder on Mars",
+      "pt": "Desbravador em Marte"
+    },
+    "explanation": {
+      "en": "On July 4th, 1997, using its own array of fireworks, a parachute, and a cocoon of airbags, the Mars Pathfinder spacecraft bounced like a giant beach ball at least 15 times before it came to rest on the surface of Mars at 10:07 AM Pacific Daylight Time. After its then novel airbag-assisted landing sequence was completed, Pathfinder transmitted this color mosaic to mission operators on Earth. In the scene from another world, the Mars Sojourner robot rover is visible in the foreground, crouched on top of the unfolded Pathfinder.  About the size of a large house cat, the six-wheeled, solar-powered Sojourner became the first successful Martian rover. Surrounding Pathfinder are deflated airbags and the rock-strewn terrain of the Ares Vallis floodplain. In the distance Martian hills appear against a dusty brownish sky. The Pathfinder lander was subsequently renamed the Carl Sagan Memorial Station.",
+      "pt": "Em 4 de julho de 1997, usando seu próprio conjunto de fogos de artifício, um pára-quedas e um casulo de airbags, a espaçonave Mars Pathfinder saltou como uma bola de praia gigante pelo menos 15 vezes antes de pousar na superfície de Marte às 10h07, horário de verão do Pacífico. Depois que sua nova sequência de pouso assistida por airbag foi concluída, a Pathfinder transmitiu esse mosaico colorido aos operadores da missão na Terra. Na cena de outro mundo, o robô rover Mars Sojourner é visível em primeiro plano, agachado em cima do Pathfinder desdobrado.  Mais ou menos do tamanho de um grande gato doméstico, o Sojourner de seis rodas movido a energia solar tornou-se o primeiro veículo espacial marciano de sucesso. Ao redor do Pathfinder estão airbags vazios e o terreno rochoso da planície de inundação de Ares Vallis. Ao longe, colinas marcianas aparecem contra um céu empoeirado e acastanhado. O módulo de pouso Pathfinder foi posteriormente renomeado como Estação Memorial Carl Sagan."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/PIA00621.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-03",
     "title": {
       "en": "Three Galaxies in Pavo",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-20",
-    "title": {
-      "en": "The Dark Wolf Nebula",
-      "pt": "A Nebulosa do Lobo Negro"
-    },
-    "explanation": {
-      "en": "A dark wolf lies in gum. No, this isn’t a riddle! Today's image features the Dark Wolf Nebula (Sandqvist–Lindroos 17), a spooky dust cloud embedded within the Gum 55 (RCW 113) Nebula in the Scorpius constellation. While dust is a pest to us, it serves a vital role in creating the necessary conditions for stars to be born. The Dark Wolf absorbs the intense ultraviolet and visible light emitted by young stars in Gum 55 and re-emits it at longer, mainly infrared, wavelengths. This prevents the higher energy light from heating up the gas in the region. When a region of gas is cool enough, gravity takes over and causes the gas to collapse into a star. Not only does dust act as an interstellar thermostat, but it is also the meet-cute for single hydrogen atoms forming molecular hydrogen, the building block for stars. The seemingly sinister Dark Wolf is actually a harbinger of cosmic life.",
-      "pt": "Um lobo escuro está em chiclete. Não, isso não é um enigma! A imagem de hoje mostra a Nebulosa do Lobo Negro (Sandqvist – Lindroos 17), uma nuvem de poeira assustadora embutida na Nebulosa Gum 55 (RCW 113) na constelação do Escorpião. Embora a poeira seja uma praga para nós, ela desempenha um papel vital na criação das condições necessárias para o nascimento de estrelas. O Dark Wolf absorve a intensa luz ultravioleta e visível emitida por estrelas jovens em Gum 55 e a reemite em comprimentos de onda mais longos, principalmente infravermelhos. Isso evita que a luz de maior energia aqueça o gás da região. Quando uma região de gás é fria o suficiente, a gravidade assume o controle e faz com que o gás entre em colapso e se transforme em uma estrela. A poeira não apenas atua como um termostato interestelar, mas também é o ponto de encontro para átomos de hidrogênio únicos que formam o hidrogênio molecular, o alicerce das estrelas. O aparentemente sinistro Dark Wolf é na verdade um arauto da vida cósmica."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/dark_wolf_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/dark_wolf.jpg",
-    "copyright": "William Vrbasso, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
