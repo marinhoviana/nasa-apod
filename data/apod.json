@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-05",
+    "title": {
+      "en": "Saturn's Iapetus: Painted Moon",
+      "pt": "Jápeto de Saturno: Lua Pintada"
+    },
+    "explanation": {
+      "en": "What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day",
+      "pt": "O que aconteceu com a lua de Saturno, Jápeto?  Vastas partes deste estranho mundo são escuras como carvão, enquanto outras são brilhantes como a neve.  Para ajudar a compreender melhor esta lua de cor incomum, em 2007 a NASA orientou a sonda robótica Cassini, que então orbitava Saturno, a fazer uma descida de 2.000 quilómetros.  Na imagem aqui, a cerca de 75.000 quilómetros de distância, está o hemisfério de Jápeto que está sempre atrás.  Uma grande cratera de impacto vista a sul estende-se por 500 quilómetros e aparece sobreposta a uma cratera mais antiga de tamanho semelhante.  O material escuro é visto cobrindo cada vez mais a parte oriental de Jápeto, escurecendo crateras e terras altas.  Uma hipótese principal é que o material escuro é principalmente uma forma de solo rico em carbono que sobrou da sublimação do gelo relativamente quente, mas sujo.  Uma camada inicial deste material escuro pode ter sido efetivamente pintada pelo acúmulo de detritos liberados por meteoros de outras luas.   Jigsaw Moon: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-04",
     "title": {
       "en": "Pathfinder on Mars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg",
     "copyright": "Luigi Morrone"
-  },
-  {
-    "date": "2026-05-21",
-    "title": {
-      "en": "A Collision of Galaxy Clusters",
-      "pt": "Uma colisão de aglomerados de galáxias"
-    },
-    "explanation": {
-      "en": "This big beautiful spiral shines in X-ray light. It is about 20 times larger than our Galaxy.   It belongs to Abell 2029, a galaxy cluster one billion light-years away.   (To see only the galaxies, hover your cursor over the image, or follow this link.)      Galaxy clusters are the largest structures in the universe that are supported by gravity.     Abell 2029 is formed by thousands of galaxies, surrounded by a huge cloud of hot gas and the equivalent of hundreds of trillions times the mass of the Sun in dark matter.     The spiral is made of gas, mostly hydrogen and helium, heated to tens of millions of degrees.     It was found in a recent study that used data from NASA's Chandra X-ray Observatory to show that Abell 2029 had a collision with a smaller cluster four billion years ago.     The collision affected the gravitational field and caused the intracluster gas to slosh, like wine moving in a wine glass, shaping the spiral.",
-      "pt": "Esta grande e bela espiral brilha na luz de raios X. É cerca de 20 vezes maior que a nossa Galáxia.   Pertence a Abell 2029, um aglomerado de galáxias a um bilhão de anos-luz de distância.   (Para ver apenas as galáxias, passe o cursor sobre a imagem ou siga este link.) Os aglomerados de galáxias são as maiores estruturas do universo sustentadas pela gravidade.     Abell 2029 é formada por milhares de galáxias, cercadas por uma enorme nuvem de gás quente e equivalente a centenas de trilhões de vezes a massa do Sol em matéria escura.     A espiral é feita de gás, principalmente hidrogênio e hélio, aquecido a dezenas de milhões de graus.     Foi descoberto num estudo recente que utilizou dados do Observatório de Raios-X Chandra da NASA para mostrar que Abell 2029 teve uma colisão com um aglomerado mais pequeno há quatro mil milhões de anos.     A colisão afetou o campo gravitacional e fez com que o gás intraenxame se agitasse, como o vinho se movendo em uma taça de vinho, moldando a espiral."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/a2029.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/a2029_lg.jpg",
-    "copyright": null
   }
 ]
