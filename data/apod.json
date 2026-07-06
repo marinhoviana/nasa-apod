@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-06",
+    "title": {
+      "en": "Dueling Bands over the Atacama Desert",
+      "pt": "Duelo de Bandas no Deserto do Atacama"
+    },
+    "explanation": {
+      "en": "What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.",
+      "pt": "Quais são essas duas faixas no céu?  A banda mais comumente vista está à esquerda e é a banda central da nossa galáxia, a Via Láctea.  Nosso Sol orbita no disco desta galáxia espiral de modo que, visto de dentro, ele aparece como uma faixa de brilho comparável em todo o céu.  A faixa menos comumente vista, à direita, é a luz zodiacal – luz solar refletida na poeira que orbita o Sol em nosso Sistema Solar.  A luz zodiacal é mais brilhante perto do Sol e, portanto, é melhor vista pouco antes do nascer do sol ou logo após o pôr do sol.  Em algumas noites, esta faixa de luz zodiacal pode parecer bastante proeminente.  Foi descoberto apenas neste século que a poeira zodiacal foi expelida principalmente por cometas que passaram perto de Júpiter.  A imagem em destaque foi capturada há cerca de um ano no deserto do Atacama, no Chile."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg",
+    "copyright": "Julien Looten"
+  },
+  {
     "date": "2026-07-05",
     "title": {
       "en": "Saturn's Iapetus: Painted Moon",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-22",
-    "title": {
-      "en": "The Nebulous Realm of WR 134",
-      "pt": "O Reino Nebuloso de WR 134"
-    },
-    "explanation": {
-      "en": "This cosmic snapshot covers a field of view over twice as wide as the full Moon within the boundaries of the high-flying constellation Cygnus. Made using astronomical narrowband filters, the image highlights the bright edge of a ring-like nebula traced by the glow of ionized hydrogen and oxygen gas. Embedded in the region's expanse of interstellar clouds, the complex, glowing arcs are sections of shells of material swept up by the wind from Wolf-Rayet star WR 134, the brightest star near image center. Distance estimates put WR 134 about 6,000 light-years away, making this telescopic frame over 100 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end their final phase of massive star evolution in a spectacular supernova. Their stellar winds and final supernova explosion enrich the interstellar material with heavy elements to be incorporated in future generations of stars.",
-      "pt": "Este instantâneo cósmico cobre um campo de visão duas vezes maior que a Lua cheia, dentro dos limites da constelação de Cygnus. Feita com filtros astronômicos de banda estreita, a imagem destaca a borda brilhante de uma nebulosa em forma de anel traçada pelo brilho do hidrogênio ionizado e do gás oxigênio. Embutidos na extensão de nuvens interestelares da região, os arcos complexos e brilhantes são seções de conchas de material varridas pelo vento da estrela Wolf-Rayet WR 134, a estrela mais brilhante próxima ao centro da imagem. As estimativas de distância colocam WR 134 a cerca de 6.000 anos-luz de distância, fazendo com que esta estrutura telescópica tenha mais de 100 anos-luz de diâmetro. Libertando-se dos seus invólucros exteriores em poderosos ventos estelares, as massivas estrelas Wolf-Rayet queimaram o seu combustível nuclear a um ritmo prodigioso e terminaram a sua fase final de evolução estelar massiva numa espectacular supernova. Os seus ventos estelares e a explosão final da supernova enriquecem o material interestelar com elementos pesados ​​a serem incorporados nas futuras gerações de estrelas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/WR134morrone1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/WR134morrone2048.jpg",
-    "copyright": "Luigi Morrone"
   }
 ]
