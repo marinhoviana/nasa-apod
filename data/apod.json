@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-07",
+    "title": {
+      "en": "NGC 6188: Dragons of Ara",
+      "pt": "NGC 6188: Dragões de Ara"
+    },
+    "explanation": {
+      "en": "Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).",
+      "pt": "Onde você pode encontrar dragões lutando no céu noturno?  Na constelação meridional do Altar: Ara. Os dragões são, é claro, feitos de gás e poeira de formato sugestivo.  O lar celestial das feras mitológicas lutadoras está catalogado como NGC 6188 e localizado a cerca de 4.000 anos-luz de distância, perto da borda de uma grande nuvem molecular.  Estrelas jovens e massivas da associação Ara OB1 foram formadas ali há apenas alguns milhões de anos, esculpindo as formas escuras e alimentando o brilho nebular com ventos estelares e intensa radiação ultravioleta.  Juntando-se à NGC 6188 nesta tela cósmica, visível no canto inferior direito, está a incomum nebulosa de emissão NGC 6164, também criada por uma das estrelas massivas da região.  Esta imagem de campo impressionantemente ampla, capturada em Queensland, Austrália, abrange mais de 2 graus (quatro luas cheias)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg",
+    "copyright": "Rod Prazeres"
+  },
+  {
     "date": "2026-07-06",
     "title": {
       "en": "Dueling Bands over the Atacama Desert",
@@ -432,21 +447,6 @@
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-23",
-    "title": {
-      "en": "Messier 2",
-      "pt": "Messier 2"
-    },
-    "explanation": {
-      "en": "After the Crab Nebula, this giant star cluster is the second entry in 18th century astronomer Charles Messier's famous list of things that are not comets. M2 is one of the largest globular star clusters now known to roam the halo of our Milky Way galaxy. Though Messier originally described it as a nebula without stars, this stunning Hubble image resolves stars across the cluster's central 40 light-years. Its population of stars numbers close to 150,000, concentrated within a total diameter of around 175 light-years. About 55,000 light-years distant toward the constellation Aquarius, this ancient denizen of the Milky Way, also known as NGC 7089, is 13 billion years old. An extended stellar debris stream, a signature of past gravitational tidal disruption, was recently found to be associated with Messier 2.",
-      "pt": "Depois da Nebulosa do Caranguejo, este aglomerado de estrelas gigante é a segunda entrada na famosa lista do astrônomo Charles Messier do século XVIII de coisas que não são cometas. M2 é um dos maiores aglomerados estelares globulares agora conhecidos por percorrer o halo da nossa galáxia, a Via Láctea. Embora Messier a tenha descrito originalmente como uma nebulosa sem estrelas, esta impressionante imagem do Hubble identifica estrelas nos 40 anos-luz centrais do aglomerado. A sua população de estrelas chega a cerca de 150.000, concentradas num diâmetro total de cerca de 175 anos-luz. A cerca de 55.000 anos-luz de distância na direção da constelação de Aquário, este antigo habitante da Via Láctea, também conhecido como NGC 7089, tem 13 mil milhões de anos. Descobriu-se recentemente que um extenso fluxo de detritos estelares, uma assinatura de perturbações gravitacionais de marés passadas, está associado a Messier 2."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/potw1913aM2_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/potw1913aa.jpg",
     "copyright": null
   }
 ]
