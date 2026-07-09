@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-09",
+    "title": {
+      "en": "The Red Glow of the Cosmic Bat Nebula",
+      "pt": "O brilho vermelho da nebulosa cósmica do morcego"
+    },
+    "explanation": {
+      "en": "This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibrant birthplace for stars. A bit of young starlight peeks through the dense clouds of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The ultraviolet light from the young stars energizes the nebula’s hydrogen gas, causing it to glow an ominous red. The jet of glowing hydrogen gas emerging from the bat’s head hints at the star formation hidden within.",
+      "pt": "Este Morcego Cósmico deseja a você um feliz verão! Esta celebração do Halloween no meio do ano transcende os hemisférios, embora o verão no hemisfério Norte seja inverno no Sul. Ao contrário da sua aura misteriosa, a Nebulosa Cósmica do Morcego (LDN 43), que não deve ser confundida com a Nebulosa do Morcego (NGC 6995), é um vibrante local de nascimento de estrelas. Um pouco da jovem luz das estrelas espreita através das densas nuvens de gás e poeira que compõem a envergadura de 12 anos-luz do Morcego Cósmico. A luz ultravioleta das estrelas jovens energiza o gás hidrogénio da nebulosa, fazendo-a brilhar numa cor vermelha sinistra. O jato de gás hidrogênio brilhante emergindo da cabeça do morcego sugere a formação estelar escondida dentro dela."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg",
+    "copyright": "Humbert Cédric, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-07-07",
     "title": {
       "en": "NGC 6188: Dragons of Ara",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/ThackerayGlobs_Hayes_2664.jpg",
     "copyright": "John Hayes"
-  },
-  {
-    "date": "2026-05-24",
-    "title": {
-      "en": "A Martian Eclipse: Phobos Crosses the Sun",
-      "pt": "Um eclipse marciano: Fobos cruza o Sol"
-    },
-    "explanation": {
-      "en": "What's that passing in front of the Sun? It looks like a moon, but it can't be Earth's Moon, because it isn't round. It's the Martian moon Phobos.  The featured video was taken from the surface of Mars in 2022 by the Perseverance rover. Phobos, at 11.5 kilometers across, is 150 times smaller than Luna (our moon) in diameter, but also 50 times closer to its parent planet.  In fact, Phobos is so close to Mars that it is expected to break up and crash into Mars within the next 50 million years.  In the near term, the low orbit of Phobos results in more rapid solar eclipses than seen from Earth. The featured video is shown in real time -- the transit really took about 40 seconds, as shown. The videographer -- the robotic rover Perseverance (Percy) -- continues to explore Jezero Crater on Mars, searching not only for clues to the watery history of the now dry world, but evidence of ancient microbial life.",
-      "pt": "O que é isso passando na frente do Sol? Parece uma lua, mas não pode ser a Lua da Terra, porque não é redonda. É a lua marciana Fobos.  O vídeo apresentado foi feito da superfície de Marte em 2022 pelo rover Perseverance. Fobos, com 11,5 quilómetros de diâmetro, é 150 vezes menor que a Lua (nossa lua) em diâmetro, mas também 50 vezes mais próxima do seu planeta-mãe.  Na verdade, Fobos está tão perto de Marte que se espera que se separe e colida com Marte nos próximos 50 milhões de anos.  No curto prazo, a órbita baixa de Fobos resulta em eclipses solares mais rápidos do que os vistos da Terra. O vídeo apresentado é mostrado em tempo real – o trânsito durou cerca de 40 segundos, conforme mostrado. O cinegrafista – o rover robótico Perseverance (Percy) – continua a explorar a cratera Jezero em Marte, procurando não apenas pistas sobre a história aquosa do mundo agora seco, mas também evidências de vida microbiana antiga."
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/MarsEclipse_perseverance.mp4",
-    "copyright": null
   }
 ]
