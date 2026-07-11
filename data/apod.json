@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-11",
+    "title": {
+      "en": "Messier 24: Sagittarius Star Cloud",
+      "pt": "Messier 24: Nuvem Estelar de Sagitário"
+    },
+    "explanation": {
+      "en": "Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or a small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars stretch across this gorgeous interstellar scene.  Spanning over four full moons on the sky toward the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.",
+      "pt": "Ao contrário da maioria das entradas do famoso catálogo de objetos do céu profundo de Charles Messier, M24 não é uma galáxia brilhante, um aglomerado de estrelas ou uma nebulosa. É uma lacuna nas nuvens de poeira interestelar próximas e obscuras que permite a visão das estrelas distantes no braço espiral de Sagitário da nossa galáxia, a Via Láctea. Dirija o seu olhar através desta lacuna com binóculos ou um pequeno telescópio e você estará olhando através de uma janela com mais de 300 anos-luz de largura para estrelas a cerca de 10.000 anos-luz ou mais da Terra. Às vezes chamada de Pequena Nuvem Estelar de Sagitário, as estrelas luminosas de M24 se estendem por esta linda cena interestelar.  Abrangendo quatro luas cheias no céu em direção à constelação de Sagitário, o campo de visão telescópico inclui marcas escuras B92 e B93 perto do centro de M24, juntamente com outras nuvens de poeira e nebulosas brilhantes em direção ao centro da Via Láctea."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/M24_1088.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/M24.png",
+    "copyright": "Chuck Ayoub"
+  },
+  {
     "date": "2026-07-10",
     "title": {
       "en": "Western Moon, Eastern Sea",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg",
     "copyright": "Bernard Miller, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-05-26",
-    "title": {
-      "en": "NGC 3660 and Burçin's Galaxy",
-      "pt": "NGC 3660 e a Galáxia de Burçin"
-    },
-    "explanation": {
-      "en": "The upper galaxy might be more photogenic, but the lower galaxy is more unusual.  The galaxy up top is NGC 3660, a spiral galaxy similar to our own Milky Way galaxy in that it has several bright blue spiral arms and a central bar of stars, dust, and gas. Captured by chance in the featured deep and colorful image, surprisingly, is SN 2026cff, a supernova found just to the right of the central bar.  Farther in the distance is the bottom galaxy, known informally as Burçin’s galaxy, but formally cataloged as LEDA 1000714. The center of this galaxy appears to be an old elliptical galaxy, but it is strangely surrounded by not one but two rings of stars.  What created Burçin's galaxy is a mystery and remains a continuing topic of research, but it likely involves the accretion of one or more smaller galaxies.",
-      "pt": "A galáxia superior pode ser mais fotogênica, mas a galáxia inferior é mais incomum.  A galáxia no topo é NGC 3660, uma galáxia espiral semelhante à nossa Via Láctea, pois possui vários braços espirais azuis brilhantes e uma barra central de estrelas, poeira e gás. Capturada por acaso na imagem profunda e colorida apresentada, surpreendentemente, está SN 2026cff, uma supernova encontrada logo à direita da barra central.  Mais distante está a galáxia inferior, conhecida informalmente como galáxia de Burçin, mas formalmente catalogada como LEDA 1000714. O centro desta galáxia parece ser uma antiga galáxia elíptica, mas está estranhamente rodeada não por um, mas por dois anéis de estrelas.  O que criou a galáxia de Burçin é um mistério e continua a ser um tema contínuo de investigação, mas provavelmente envolve a acumulação de uma ou mais galáxias mais pequenas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/Ngc3660Burcin_Block_1176.jpg",
-    "copyright": "Adam Block, El Sauce Obs."
   }
 ]
