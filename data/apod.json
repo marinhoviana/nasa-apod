@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-12",
+    "title": {
+      "en": "Galaxy NGC 474: Shells and Star Streams",
+      "pt": "Galaxy NGC 474: Conchas e fluxos estelares"
+    },
+    "explanation": {
+      "en": "What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).",
+      "pt": "O que está acontecendo com a galáxia NGC 474?  As múltiplas camadas de emissão parecem estranhamente complexas, dada a aparência relativamente inexpressiva da galáxia elíptica em imagens menos profundas.  A causa das conchas é um tema de investigação, mas são possivelmente caudas de maré relacionadas com detritos que sobraram da absorção de numerosas pequenas galáxias nos últimos mil milhões de anos.  Alternativamente, as conchas podem ser como ondulações num lago, onde a colisão contínua com a galáxia espiral logo à direita da NGC 474 está a causar ondas de densidade ondulando através do gigante galáctico.  Independentemente da causa real, a imagem destaca dramaticamente a crescente evidência de que os halos de algumas galáxias elípticas são surpreendentemente complicados.  Da mesma forma, o halo da nossa galáxia, a Via Láctea, é um exemplo dessas complexidades inesperadas.  NGC 474 abrange cerca de 250.000 anos-luz e fica a cerca de 100 milhões de anos-luz de distância em direção à constelação do Peixe (Peixes)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-11",
     "title": {
       "en": "Messier 24: Sagittarius Star Cloud",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-05-27",
-    "title": {
-      "en": "PK 164 +31.1: The Headphone Nebula",
-      "pt": "PK 164 +31.1: A nebulosa do fone de ouvido"
-    },
-    "explanation": {
-      "en": "What is a pair of headphones doing in the sky? Today’s image features the Headphone Nebula, also known as PK 164 +31.1 or Jones-Emberson 1. This planetary nebula, the remnant of a dying Sun-like star, faintly occupies an angular region of the Lynx constellation about 1/5th the diameter of the full moon. The red and blue-ish green colors trace hydrogen and oxygen atoms, respectively, that have been excited and ionized by the nebula's central white dwarf. The headphone shape, where two lobes of hydrogen puncture the inner region of oxygen, adds this object to a long list of oddly shaped nebulae. The morphology of such strange nebulae hint at the presence of a stellar or planetary companion, which can stir the material flowing out from the dying star. You can listen to Hubble and JWST sonifications of planetary nebulae through your very own headphones!",
-      "pt": "O que um par de fones de ouvido está fazendo no céu? A imagem de hoje mostra a nebulosa Headphone, também conhecida como PK 164 +31.1 ou Jones-Emberson 1. Esta nebulosa planetária, o remanescente de uma estrela moribunda semelhante ao Sol, ocupa vagamente uma região angular da constelação do Lince com cerca de 1/5 do diâmetro da lua cheia. As cores vermelho e verde azulado traçam átomos de hidrogênio e oxigênio, respectivamente, que foram excitados e ionizados pela anã branca central da nebulosa. O formato do fone de ouvido, onde dois lóbulos de hidrogênio perfuram a região interna do oxigênio, adiciona este objeto a uma longa lista de nebulosas de formato estranho. A morfologia dessas estranhas nebulosas sugere a presença de uma companheira estelar ou planetária, que pode agitar o material que flui da estrela moribunda. Você pode ouvir as sonificações de nebulosas planetárias do Hubble e do JWST através de seus próprios fones de ouvido!"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/headphone_nebula_900.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/headphone_nebula.jpg",
-    "copyright": "Bernard Miller, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
