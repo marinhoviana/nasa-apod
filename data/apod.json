@@ -15,6 +15,21 @@
     "copyright": null
   },
   {
+    "date": "2026-07-12",
+    "title": {
+      "en": "Galaxy NGC 474: Shells and Star Streams",
+      "pt": "Galaxy NGC 474: Conchas e fluxos estelares"
+    },
+    "explanation": {
+      "en": "What's happening to galaxy NGC 474?  The multiple layers of emission appear strangely complex given the relatively featureless appearance of the elliptical galaxy in less deep images.  The cause of the shells is a topic of research, but they are possibly tidal tails related to debris left over from absorbing numerous small galaxies in the past billion years.  Alternatively, the shells may be like ripples in a pond, where the ongoing collision with the spiral galaxy just to the right of NGC 474 is causing density waves to ripple through the galactic giant.  Regardless of the actual cause, the featured image dramatically highlights the increasing evidence that the halos of some elliptical galaxies are surprisingly complicated.  Similarly, the halo of our own Milky Way Galaxy is one example of such unexpected intricacies.  NGC 474 spans about 250,000 light years and lies about 100 million light years distant toward the constellation of the Fish (Pisces).",
+      "pt": "O que está acontecendo com a galáxia NGC 474?  As múltiplas camadas de emissão parecem estranhamente complexas, dada a aparência relativamente inexpressiva da galáxia elíptica em imagens menos profundas.  A causa das conchas é um tema de investigação, mas são possivelmente caudas de maré relacionadas com detritos que sobraram da absorção de numerosas pequenas galáxias nos últimos mil milhões de anos.  Alternativamente, as conchas podem ser como ondulações num lago, onde a colisão contínua com a galáxia espiral logo à direita da NGC 474 está a causar ondas de densidade ondulando através do gigante galáctico.  Independentemente da causa real, a imagem destaca dramaticamente a crescente evidência de que os halos de algumas galáxias elípticas são surpreendentemente complicados.  Da mesma forma, o halo da nossa galáxia, a Via Láctea, é um exemplo dessas complexidades inesperadas.  NGC 474 abrange cerca de 250.000 anos-luz e fica a cerca de 100 milhões de anos-luz de distância em direção à constelação do Peixe (Peixes)."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC474_CfhtCoelum_1500.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-11",
     "title": {
       "en": "Messier 24: Sagittarius Star Cloud",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-28",
-    "title": {
-      "en": "NGC 1514: The Crystal Ball Nebula",
-      "pt": "NGC 1514: A Nebulosa da Bola de Cristal"
-    },
-    "explanation": {
-      "en": "What do you see in this crystal ball?   The featured image shows NGC 1514, known as the Crystal Ball Nebula, observed by the Gemini North telescope on Maunakea, in Hawai'i.   NGC 1514 is 1,500 light-years away and was discovered by William Herschel in 1790.   This planetary nebula is formed when a star becomes a red giant and ejects its outer gas layers.   The ejected shell of gas is heated up by the core of the star to temperatures hotter than the surface of our Sun: that makes the gas shine, creating beautiful images like this one.       The slightly asymmetrical shape of the Crystal Ball Nebula reveals a secret: the bright star in the center has a companion.   As the two stars orbit each other with a period of about nine years, they shape the gas around them.   In about 10,000 - 25,000 years the nebula will be dissipated by their stellar winds.",
-      "pt": "O que você vê nesta bola de cristal?   A imagem apresentada mostra NGC 1514, conhecida como Nebulosa da Bola de Cristal, observada pelo telescópio Gemini North em Maunakea, no Havaí.   NGC 1514 está a 1.500 anos-luz de distância e foi descoberta por William Herschel em 1790. Esta nebulosa planetária é formada quando uma estrela se torna uma gigante vermelha e ejeta suas camadas externas de gás.   A camada de gás ejetada é aquecida pelo núcleo da estrela a temperaturas mais altas que a superfície do nosso Sol: isso faz o gás brilhar, criando belas imagens como esta.       A forma ligeiramente assimétrica da Nebulosa Bola de Cristal revela um segredo: a estrela brilhante no centro tem uma companheira.   À medida que as duas estrelas orbitam uma à outra com um período de cerca de nove anos, elas moldam o gás ao seu redor.   Em cerca de 10.000 a 25.000 anos, a nebulosa será dissipada pelos ventos estelares."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/noirlab2613a.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/noirlab2613a_large.jpg",
     "copyright": null
   }
 ]
