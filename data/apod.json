@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-14",
+    "title": {
+      "en": "Double Lobed Asteroid Torifune",
+      "pt": "Asteroide Torifune com lóbulos duplos"
+    },
+    "explanation": {
+      "en": "Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.",
+      "pt": "Por que este asteróide é duplo?  No início deste mês, a espaçonave robótica japonesa Hayabusa2 passou pelo asteroide 98943 Torifune e capturou fotos. Embora observações anteriores da Terra distante indicassem que Torifune era oblongo, Hayabusa2 descobriu que Torifune na verdade tem dois lóbulos unidos.  Com cerca de quatro campos de futebol, esta rocha espacial aproxima-se frequentemente da Terra enquanto orbita o Sol, embora não seja uma ameaça.  Além dos dois lóbulos, Torifune mostra muitas pedras grandes, mas, surpreendentemente, nenhuma cratera óbvia, provavelmente porque a sua superfície é uma pilha de entulho.  Tal como o asteroide Arrokoth, parece que cada lóbulo se formou separadamente antes de colidir e ficar colado.  Hayabusa2 encontrou o famoso asteróide Ryugu em 2018, e agora se dirige para um encontro em 2031 com 1998 KY26, um asteróide menor que gira anormalmente rápido e pode ter reservatórios de gelo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg",
+    "copyright": "JAXA, U. of Tokyo, Chiba Tech, Tokyo U. of Science, AIST, Paris Obs., IAC"
+  },
+  {
     "date": "2026-07-12",
     "title": {
       "en": "Galaxy NGC 474: Shells and Star Streams",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-29",
-    "title": {
-      "en": "Messier 104",
-      "pt": "Mais Messier 104"
-    },
-    "explanation": {
-      "en": "A gorgeous spiral galaxy, Messier 104 is famous for its nearly edge-on profile featuring a broad ring of obscuring dust lanes. Seen in silhouette against an extensive central bulge of stars, the swath of cosmic dust lends a broad brimmed hat-like appearance to the galaxy suggesting a more popular moniker, the Sombrero Galaxy. Also known as NGC 4594, the Sombrero galaxy can be seen across the spectrum and is host to a central supermassive black hole. About 50,000 light-years across and 28 million light-years away, M104 is one of the largest galaxies at the southern edge of the Virgo Galaxy Cluster. Still, the spiky foreground stars in this field of view lie well within our own Milky Way. This broad view of the well-known galaxy was processed to reveal M104's extended halo, as well as a faint tidal stellar stream. It was captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the Cerro Tololo Inter-American Observatory.",
-      "pt": "Uma linda galáxia espiral, Messier 104 é famosa pelo seu perfil quase lateral, apresentando um amplo anel de faixas de poeira obscuras. Vista em silhueta contra um extenso bojo central de estrelas, a faixa de poeira cósmica confere à galáxia uma aparência de chapéu de abas largas, sugerindo um apelido mais popular, Galáxia do Sombrero. Também conhecida como NGC 4594, a galáxia Sombrero pode ser vista em todo o espectro e abriga um buraco negro supermassivo central. Com cerca de 50.000 anos-luz de diâmetro e 28 milhões de anos-luz de distância, M104 é uma das maiores galáxias na extremidade sul do Aglomerado de Galáxias de Virgem. Ainda assim, as estrelas pontiagudas em primeiro plano neste campo de visão situam-se bem dentro da nossa Via Láctea. Esta visão ampla da galáxia bem conhecida foi processada para revelar o halo estendido de M104, bem como uma tênue corrente estelar de maré. Foi capturado pela Dark Energy Camera (DECam) no telescópio Blanco de 4 metros no Observatório Interamericano Cerro Tololo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/M104noirlab2612a.jpg",
     "copyright": null
   }
 ]
