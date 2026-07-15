@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-15",
+    "title": {
+      "en": "Red Sprites in the Tatacoa Desert",
+      "pt": "Sprites Vermelhos no Deserto de Tatacoa"
+    },
+    "explanation": {
+      "en": "Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!",
+      "pt": "Existe um Sith furioso usando raios de força no deserto de Tatacoa? Isto não é ficção científica, mas um sprite vermelho com múltiplas serpentinas! Os relâmpagos comuns ocorrem quando as partículas das nuvens de trovoada colidem, perdem seus elétrons e acumulam carga negativa na parte inferior da nuvem. A carga negativa da nuvem repele a carga negativa mais profundamente na Terra, deixando a superfície da Terra carregada positivamente. As cargas opostas se atraem, aproximando-se uma da outra e superaquecendo o ar em um golpe branco de plasma. Sprites vermelhos são eventos de milissegundos desencadeados por relâmpagos positivos da nuvem para o solo. Eles se estendem até a mesosfera, onde o ar é rarefeito demais para trovões. Seu brilho vermelho vem do nitrogênio molecular aquecido. Existem várias causas potenciais para sprites vermelhos, incluindo que o relâmpago positivo anterior expõe o núcleo da nuvem com carga negativa à atmosfera superior com carga positiva, permitindo que essas cargas se conectem. Juno da NASA observou sprites em Júpiter, indicando que sprites ocorrem em outros planetas!"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sprite.jpg",
+    "copyright": "Mario Vargas, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-07-14",
     "title": {
       "en": "Double Lobed Asteroid Torifune",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_2786.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-30",
-    "title": {
-      "en": "Supermoon Versus Micromoon",
-      "pt": "Superlua versus Microlua"
-    },
-    "explanation": {
-      "en": "What is so micro about tonight's blue micromoon?  Just after sunset, a full moon will appear slightly smaller and dimmer than usual.  The reason is that the Moon's fully illuminated phase occurs within a short time of apogee - when the Moon is farthest from the Earth in its elliptical orbit.  In fact, tonight's micromoon will be the farthest, smallest, and dimmest Moon this year.  But tonight's micromoon is notable for yet another reason: it is also a blue moon, meaning that it is the second full moon in the same month (moon-th).  Pictured here, a supermoon -- when the full moon appears near its largest -- is compared to a micromoon as photographed from Kolkata, India in May and December of 2021.  Although the next micromoon occurs next month, and the next blue moon at the end of 2028, the next blue micromoon will not occur until 2053.",
-      "pt": "O que há de tão micro na microlua azul desta noite?  Logo após o pôr do sol, a lua cheia parecerá um pouco menor e mais escura do que o normal.  A razão é que a fase totalmente iluminada da Lua ocorre logo após o apogeu – quando a Lua está mais distante da Terra em sua órbita elíptica.  Na verdade, a microlua desta noite será a Lua mais distante, menor e mais escura deste ano.  Mas a microlua desta noite é notável por outro motivo: também é uma lua azul, o que significa que é a segunda lua cheia no mesmo mês (lua-ésima).  Na foto aqui, uma superlua - quando a lua cheia aparece perto de seu maior tamanho - é comparada a uma microlua fotografada em Calcutá, na Índia, em maio e dezembro de 2021. Embora a próxima microlua ocorra no próximo mês e a próxima lua azul no final de 2028, a próxima microlua azul não ocorrerá até 2053."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/SuperMicroMoon_Mukherjee_3000.jpg",
     "copyright": null
   }
 ]
