@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-16",
+    "title": {
+      "en": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
+      "pt": "NGC 300: uma pedra preciosa cósmica com estrelas e nuvens de gás"
+    },
+    "explanation": {
+      "en": "This sparkling, colorful gemstone is a spiral galaxy, NGC 300.   It is one of the closest spiral galaxies to Earth, only about 6 million light-years away.     But does it really look like this?   Here is a more standard portrait of it.   This unusual image combines the light from the stars and dust within the galaxy with the light from ionized clouds of interstellar gas shown in red (Sulphur), green (Hydrogen) and blue (Oxygen).   Combining red and green light in different proportions makes yellow or orange light, most visible in the image.   Light from other ionized gases is also at work in neon signs, fluorescent tubes and street lights.   These massive clouds of ionized gas are typically created by young, massive stars that produce high-energy ultraviolet radiation capable of ionizing the gas.   Massive stars are short-lived, compared with lighter stars like our sun, and explode as supernovas at the end of their lives.   Some of the colorful clouds in the image could be hiding supernova remnants.",
+      "pt": "Esta pedra preciosa brilhante e colorida é uma galáxia espiral, NGC 300. É uma das galáxias espirais mais próximas da Terra, a apenas cerca de 6 milhões de anos-luz de distância.     Mas será que realmente se parece com isso?   Aqui está um retrato mais padrão disso.   Esta imagem incomum combina a luz das estrelas e da poeira dentro da galáxia com a luz das nuvens ionizadas de gás interestelar mostradas em vermelho (Enxofre), verde (Hidrogênio) e azul (Oxigênio).   A combinação da luz vermelha e verde em diferentes proporções torna a luz amarela ou laranja mais visível na imagem.   A luz de outros gases ionizados também atua em letreiros de néon, lâmpadas fluorescentes e luzes de rua.   Estas nuvens massivas de gás ionizado são normalmente criadas por estrelas jovens e massivas que produzem radiação ultravioleta de alta energia capaz de ionizar o gás.   Estrelas massivas têm vida curta, em comparação com estrelas mais leves como o nosso Sol, e explodem como supernovas no final das suas vidas.   Algumas das nuvens coloridas na imagem podem estar escondendo restos de supernovas."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/ngc300.jpg",
+    "copyright": "Team Ciel Austral,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-07-15",
     "title": {
       "en": "Red Sprites in the Tatacoa Desert",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/buckyballs.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-05-31",
-    "title": {
-      "en": "Eagle Nebula Pillars in Infrared from Hubble",
-      "pt": "Pilares da Nebulosa da Águia em infravermelho do Hubble"
-    },
-    "explanation": {
-      "en": "Newborn stars are forming in the Eagle Nebula.  They are gravitationally contracting in pillars of dense gas and dust.  The intense radiation of these newly-formed bright stars is causing surrounding material to boil away. This image, taken with the Hubble Space Telescope in near infrared light, allows the viewer to see through much of the thick dust that makes the pillars opaque in visible light.  The giant structures are light years in length and dubbed informally the Pillars of Creation.  Associated with the open star cluster M16, the Eagle Nebula lies about 6,500 light years away.  The Eagle Nebula is a satisfying target for small telescopes in a nebula-rich part of the sky toward the split constellation Serpens Cauda (the tail of the snake).    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "Estrelas recém-nascidas estão se formando na Nebulosa da Águia.  Eles estão se contraindo gravitacionalmente em pilares de gás denso e poeira.  A intensa radiação destas estrelas brilhantes recém-formadas está a causar a evaporação do material circundante. Esta imagem, obtida com o Telescópio Espacial Hubble em luz infravermelha próxima, permite ao observador ver através de grande parte da poeira espessa que torna os pilares opacos na luz visível.  As estruturas gigantescas têm anos-luz de comprimento e são apelidadas informalmente de Pilares da Criação.  Associada ao aglomerado estelar aberto M16, a Nebulosa da Águia fica a cerca de 6.500 anos-luz de distância.  A Nebulosa da Águia é um alvo satisfatório para pequenos telescópios numa parte do céu rica em nebulosas, em direção à constelação dividida de Serpens Cauda (a cauda da cobra).    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2605/M16Ir_HubbleRomero_2786.jpg",
     "copyright": null
   }
 ]
