@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-17",
+    "title": {
+      "en": "The Dust Trail of Comet Tempel 2",
+      "pt": "A trilha de poeira do cometa Tempel 2"
+    },
+    "explanation": {
+      "en": "Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.",
+      "pt": "O cometa 10P/Tempel 2 orbita o Sol uma vez a cada 5,4 anos. Atualmente visível com binóculos ou pequenos telescópios em direção à constelação de Capricórnio, o cometa periódico é capturado nesta imagem telescópica nítida de 11 de julho, exibindo uma região nuclear brilhante e um coma bastante esverdeado. Notavelmente, um fino rasto de poeira, e não uma típica cauda de poeira, também é visto estendendo-se tanto a leste como a oeste do núcleo do Tempel 2. Ao contrário da cauda de poeira de um cometa, que tende a espalhar-se temporariamente numa direção oposta ao Sol, este rasto de poeira é devido à poeira residual libertada durante muitas órbitas passadas ao longo do plano orbital deste antigo cometa periódico. Na verdade, o rasto de poeira do Tempel 2 pode ficar um pouco mais estreito e mais brilhante da nossa perspectiva à medida que a Terra atravessa o plano orbital do cometa em 20 de julho. O cometa 10P/Tempel 2 alcançará um periélio em 2 de agosto e fará a sua maior aproximação à Terra em 3 de agosto."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg",
+    "copyright": "Dan Bartlett"
+  },
+  {
     "date": "2026-07-16",
     "title": {
       "en": "NGC 300: A Cosmic Gemstone with Stars and Gas Clouds",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg",
     "copyright": "Rafael Sampaio"
-  },
-  {
-    "date": "2026-06-04",
-    "title": {
-      "en": "A Planetary Nebula with Cosmic Buckyballs",
-      "pt": "Uma nebulosa planetária com fulerenos cósmicos"
-    },
-    "explanation": {
-      "en": "What is happening inside this unusual nebula?   Planetary nebula Tc 1, captured here in exquisite detail by the James Webb Space Telescope, is the celestial site where buckyballs were first identified in 2010.     Buckminsterfullerene — as buckyballs are officially called — is a molecule with 60 carbon atoms (C60) arranged in the shape of a soccer ball.   The molecule is named for architect Buckminster Fuller because of its resemblance to the geodesic dome he helped popularize.   Webb’s new data reveal where the C60 molecules live in this nebula, and the geometry is striking: they populate a thin spherical shell around the central star, visible here as the bright edge of the nebula’s glowing orange central region.   Look closely near the nebula’s heart and a more perplexing feature emerges: a delicate structure shaped uncannily like an upside-down question mark, fitting punctuation for the many questions this nebula still poses.",
-      "pt": "O que está acontecendo dentro desta nebulosa incomum?   A nebulosa planetária Tc 1, capturada aqui com detalhes requintados pelo Telescópio Espacial James Webb, é o local celestial onde as fulerenos foram identificadas pela primeira vez em 2010. Buckminsterfulereno - como as fulerenos são oficialmente chamadas - é uma molécula com 60 átomos de carbono (C60) dispostos na forma de uma bola de futebol.   A molécula recebeu o nome do arquiteto Buckminster Fuller devido à sua semelhança com a cúpula geodésica que ele ajudou a popularizar.   Os novos dados de Webb revelam onde vivem as moléculas C60 nesta nebulosa, e a geometria é impressionante: elas povoam uma fina concha esférica em torno da estrela central, visível aqui como a borda brilhante da região central laranja brilhante da nebulosa.   Olhe atentamente para perto do coração da nebulosa e surge uma característica mais desconcertante: uma estrutura delicada com a forma estranha de um ponto de interrogação invertido, pontuação adequada para as muitas questões que esta nebulosa ainda coloca."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/buckyballs_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/buckyballs.jpg",
-    "copyright": null
   }
 ]
