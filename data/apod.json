@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-18",
+    "title": {
+      "en": "Shadow and Rainbow",
+      "pt": "Sombra e arco-íris"
+    },
+    "explanation": {
+      "en": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.",
+      "pt": "Ao pôr do sol, um alinhamento do arco-íris e da sombra da montanha foi capturado nesta fotografia notável. A vista deslumbrante foi registrada a partir de um vigia de incêndio em Smith Peak, na Floresta Nacional de Plumas, perto de Portola, Califórnia, em 13 de julho. Ainda assim, perto do pôr do sol, não é por acaso que a majestosa sombra da montanha parece apontar para o centro do gracioso arco do arco-íris. Devido à perspectiva e à longa linha de visão, a sombra da montanha forma naturalmente uma forma triangular afilada, com o seu vértice posicionado no ponto oposto ao Sol no horizonte. Após tempestades em toda a região, o arco-íris forma um arco no céu do início da noite, com seu colorido e característico arco de 42 graus formado à medida que a luz solar é refratada e refletida pelas gotículas de água atmosférica. O centro geométrico de um arco de arco-íris encontra-se no ponto anti-solar. E nesta cena da hora dourada no planeta Terra, isso também está oposto ao Sol poente ao longo do horizonte distante."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-17",
     "title": {
       "en": "The Dust Trail of Comet Tempel 2",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
     "copyright": "Marek Nikodem , (PPSAE)"
-  },
-  {
-    "date": "2026-06-05",
-    "title": {
-      "en": "The Hydra Cluster of Galaxies",
-      "pt": "O aglomerado de galáxias Hydra"
-    },
-    "explanation": {
-      "en": "Within our own Milky Way galaxy, two bright, spiky stars stand like sentinels in the foreground of this cosmic snapshot. Far beyond them are the galaxies of the Hydra Cluster. In fact, while the spiky foreground stars are hundreds of light-years distant, the Hydra Cluster galaxies are well over 100 million light-years away. Three large galaxies near the cluster center, two yellow ellipticals (NGC 3311, NGC 3309) and one prominent blue spiral (NGC 3312), are the dominant galaxies, each about 150,000 light-years in diameter. An intriguing overlapping galaxy pair cataloged as NGC 3314 lies above and left of NGC 3312. Also known as Abell 1060, the Hydra galaxy cluster is one of three large galaxy clusters within 200 million light-years of the Milky Way. In the nearby universe, galaxies are gravitationally bound into clusters which themselves are loosely bound into superclusters. Superclusters in turn are seen to align over even larger scales.",
-      "pt": "Dentro da nossa própria galáxia, a Via Láctea, duas estrelas brilhantes e pontiagudas permanecem como sentinelas no primeiro plano desta imagem cósmica. Muito além deles estão as galáxias do Aglomerado Hydra. Na verdade, enquanto as estrelas pontiagudas do primeiro plano estão a centenas de anos-luz de distância, as galáxias do aglomerado Hydra estão a bem mais de 100 milhões de anos-luz de distância. Três grandes galáxias perto do centro do aglomerado, duas elípticas amarelas (NGC 3311, NGC 3309) e uma espiral azul proeminente (NGC 3312), são as galáxias dominantes, cada uma com cerca de 150.000 anos-luz de diâmetro. Um intrigante par de galáxias sobrepostas catalogado como NGC 3314 fica acima e à esquerda de NGC 3312. Também conhecido como Abell 1060, o aglomerado de galáxias Hydra é um dos três grandes aglomerados de galáxias a 200 milhões de anos-luz da Via Láctea. No universo próximo, as galáxias estão ligadas gravitacionalmente em aglomerados, que por sua vez estão fracamente ligados em superaglomerados. Os superaglomerados, por sua vez, parecem se alinhar em escalas ainda maiores."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/HydraClusterSampaio.jpg",
-    "copyright": "Rafael Sampaio"
   }
 ]
