@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-19",
+    "title": {
+      "en": "Flying Saucer Crash Lands in Utah Desert",
+      "pt": "Disco voador cai no deserto de Utah"
+    },
+    "explanation": {
+      "en": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator",
+      "pt": "Um disco voador vindo do espaço fez um pouso forçado no deserto de Utah depois de ser rastreado por radar e perseguido por helicópteros.  O ano era 2004 e nenhum alienígena espacial estava envolvido.  O disco, retratado aqui, era a cápsula de retorno de amostras Genesis, parte de uma nave espacial Genesis robô feita pelo homem, lançada em 2001 pela própria NASA para estudar o Sol.  A aterrissagem inesperadamente forçada a mais de 300 quilômetros por hora ocorreu porque os pára-quedas não abriram conforme planejado.  A missão Genesis estava orbitando o Sol coletando partículas do vento solar que geralmente são desviadas pelo campo magnético da Terra. Apesar do pouso forçado, muitas amostras de retorno permaneceram em condições boas o suficiente para serem analisadas. As descobertas relacionadas ao Gênesis incluíram novos detalhes sobre a composição do Sol e como a abundância de alguns tipos de elementos difere no Sistema Solar. Estes resultados forneceram pistas intrigantes sobre detalhes de como o Sol e os planetas se formaram há milhares de milhões de anos.    Quase Hiperespaço: Gerador APOD Aleatório"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-18",
     "title": {
       "en": "Shadow and Rainbow",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg",
     "copyright": "Jakub Kuřák & , Martin Mašek , (FZU of the Czech Academy of Sciences)"
-  },
-  {
-    "date": "2026-06-07",
-    "title": {
-      "en": "Jupiter and Venus from Earth",
-      "pt": "Júpiter e Vênus da Terra"
-    },
-    "explanation": {
-      "en": "It was visible around the world. The sunset conjunction of Jupiter (left) and Venus (right) in 2012 was visible almost no matter where you lived on Earth.  Anyone on our planet with a clear western horizon at sunset could see them. That year, a creative photographer traveled away from the town lights of Szubin, Poland to photograph  a near closest approach of the two planets. The bright planets were then separated by only  three degrees and his daughter struck a humorous pose. A faint red sunset still glowed in the background. Jupiter and Venus are together again this week after sunset, passing within a degree of each other about two days from today.",
-      "pt": "Era visível em todo o mundo. A conjunção do pôr do sol de Júpiter (esquerda) e Vênus (direita) em 2012 era visível quase onde quer que você morasse na Terra.  Qualquer pessoa em nosso planeta com um horizonte ocidental claro ao pôr do sol poderia vê-los. Naquele ano, um fotógrafo criativo viajou para longe das luzes da cidade de Szubin, na Polônia, para fotografar a aproximação mais próxima dos dois planetas. Os planetas brilhantes foram então separados por apenas três graus e sua filha fez uma pose humorística. Um leve pôr do sol vermelho ainda brilhava ao fundo. Júpiter e Vênus estão juntos novamente esta semana após o pôr do sol, passando um grau um do outro cerca de dois dias a partir de hoje."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/JupiterPersonVenus_Nikodem_960.jpg",
-    "copyright": "Marek Nikodem , (PPSAE)"
   }
 ]
