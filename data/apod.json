@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-20",
+    "title": {
+      "en": "NGC 3576: The Statue of Liberty Nebula",
+      "pt": "NGC 3576: A Nebulosa da Estátua da Liberdade"
+    },
+    "explanation": {
+      "en": "What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day",
+      "pt": "O que está acontecendo na nebulosa da Estátua da Liberdade?  Estrelas brilhantes e moléculas interessantes estão se formando e sendo liberadas. A complexa nebulosa reside na região de formação estelar chamada RCW 57 e, além do monumento icônico, para alguns parece um super-herói voador ou um anjo chorão.  Esta imagem colorida reatribuída mostra densos nós de poeira interestelar escura, campos de gás hidrogênio brilhante ionizado por essas estrelas e grandes loops de gás expelidos por estrelas moribundas. Um estudo detalhado de NGC 3576, também conhecida como NGC 3582 e NGC 3584, descobriu pelo menos 33 estrelas massivas nos estágios finais de formação e a presença clara de moléculas complexas de carbono conhecidas como hidrocarbonetos aromáticos policíclicos (PAHs). Pensa-se que os PAH foram criados no gás de arrefecimento das regiões de formação estelar, e o seu desenvolvimento na nebulosa de formação do Sol, há cinco mil milhões de anos, pode ter sido um passo importante no desenvolvimento da vida na Terra.   Estátua da estrela Jigsaw: quebra-cabeça astronômico do dia"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg",
+    "copyright": "Logan Carpenter"
+  },
+  {
     "date": "2026-07-19",
     "title": {
       "en": "Flying Saucer Crash Lands in Utah Desert",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/Mermaid.jpg",
     "copyright": "Data acquisition: Sy Ming Wong; Processing: Guangyan Gao,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-06-08",
-    "title": {
-      "en": "Comet R3 PanSTARRS Through Time",
-      "pt": "Cometa R3 PanSTARRS através do tempo"
-    },
-    "explanation": {
-      "en": "What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026",
-      "pt": "O que acontece com um cometa ao deixar nosso Sistema Solar interno?  Agora, a chegada de um cometa ao interior do Sistema Solar é normalmente anunciada com grande alarde e grandes esperanças de que o cometa se torne brilhante e fotogénico. Mas na saída, o núcleo do cometa é menos aquecido pelo Sol, menos gás e poeira são expelidos, a cabeleira brilhante ao redor do núcleo encolhe e desaparece, e o comprimento da cauda diminui. Muitos cometas retornarão então ao Sistema Solar exterior e só retornarão daqui a centenas ou milhares de anos. Em contraste, alguns cometas – como o Cometa C/2025 R3 (PanSTARRS) – recebem um impulso gravitacional dos planetas e por isso nunca mais regressarão. Na foto, o cometa R3 PanSTARRs foi fotografado profundamente muitas noites do início a meados de maio, perto do Cerro Paranal, no Chile. Imagens posteriores aparecem mais próximas do topo e mostram claramente a cauda iônica cada vez menor.    Galeria do Cometa R3: Cometa R3 PanSTARRS em 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg",
-    "copyright": "Jakub Kuřák & , Martin Mašek , (FZU of the Czech Academy of Sciences)"
   }
 ]
