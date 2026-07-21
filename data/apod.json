@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-21",
+    "title": {
+      "en": "Turtle Rock on Mars",
+      "pt": "Rocha da Tartaruga em Marte"
+    },
+    "explanation": {
+      "en": "Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.",
+      "pt": "Esta é uma tartaruga fossilizada em Marte?  Não. Embora se assemelhe a uma grande tartaruga terrestre, este é um afloramento rochoso em camadas em Marte que se estima ter uma extensão de cerca de 15 metros, tornando-o muito maior do que as tartarugas na Terra. O rover robótico Curiosity da NASA encontrou este monte incomum, apelidado de Miraflores, no mês passado, durante seu 4.922º dia marciano explorando Marte.  O pequeno monte pode sobreviver porque era de alguma forma mais resistente à erosão do que a rocha circundante.  O vento mais recente cobriu agora o seu topo com areia laranja marciana.  Abaixo da camada superior, muitas camadas de rocha estratificada são visíveis, possivelmente indicando uma longa história de areia intermitente soprada pelo vento sendo depositada e depois endurecida pelas águas subterrâneas.  Formas de relevo em camadas semelhantes, erodidas pelo vento, como os yardangs no deserto de Qaidam, na China, existem aqui na Terra. O Curiosity e seu companheiro rover Perseverance continuam a investigar a história antiga de Marte, bem como a procurar sinais de vida primitiva."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-20",
     "title": {
       "en": "NGC 3576: The Statue of Liberty Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg",
     "copyright": "Josh Dury"
-  },
-  {
-    "date": "2026-06-11",
-    "title": {
-      "en": "The Mermaid Nebula Supernova Remnant",
-      "pt": "O remanescente da supernova da nebulosa da sereia"
-    },
-    "explanation": {
-      "en": "Could the Little Mermaid turn into stardust instead of seafoam?   It would seem so in this beautiful nebula.   The featured image shows the Mermaid Nebula, also known as the Betta Fish Nebula, which is part of the G296.5+10.0 Supernova Remnant.   The blue color visible here originates from doubly ionized oxygen (OIII), while the deep red is emitted by hydrogen gas.   \t\t\t\t\t\t\t\t\t\t\t\t Estimated to be located a few thousand light-years away and about 10,000 years old, this nebula was formed when a massive star exploded as a supernova. \t\t\t\t\t\t\t\t\t\t\t\t It left behind a peculiar pulsar, a young radio-quiet neutron star that spins around about twice every second.   The bright stars shown in the image are unassociated with the nebula.\t\t\t\t\t\t\t\t\t\t\t\t   The pulsar can be detected in the X-rays but it does not have a confirmed detection in the optical (visible light) so far.   As a result, the pulsar itself is not visible in this image.",
-      "pt": "A Pequena Sereia poderia se transformar em poeira estelar em vez de espuma do mar?   Parece que sim nesta bela nebulosa.   A imagem em destaque mostra a Nebulosa da Sereia, também conhecida como Nebulosa do Peixe Betta, que faz parte do Remanescente da Supernova G296.5+10.0.   A cor azul visível aqui origina-se do oxigênio duplamente ionizado (OIII), enquanto o vermelho profundo é emitido pelo gás hidrogênio.   \t\t\t\t\t\t\t\t\t\t\t\t Estima-se que esteja localizada a alguns milhares de anos-luz de distância e com cerca de 10.000 anos de idade, esta nebulosa foi formada quando uma estrela massiva explodiu como uma supernova. \t\t\t\t\t\t\t\t\t\t\t\t Deixou para trás um pulsar peculiar, uma jovem estrela de nêutrons silenciosa que gira cerca de duas vezes por segundo.   As estrelas brilhantes mostradas na imagem não estão associadas à nebulosa.\t\t\t\t\t\t\t\t\t\t\t\t   O pulsar pode ser detectado nos raios X, mas não tem detecção confirmada na óptica (luz visível) até o momento.   Como resultado, o pulsar em si não é visível nesta imagem."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/Mermaid_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/Mermaid.jpg",
-    "copyright": "Data acquisition: Sy Ming Wong; Processing: Guangyan Gao,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
