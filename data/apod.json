@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-22",
+    "title": {
+      "en": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
+      "pt": "A Nuvem Molecular Corona Australis e o Cluster Chandelier"
+    },
+    "explanation": {
+      "en": "The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.",
+      "pt": "A Coroa Austral (Corona Australis) deslumbra com jovens e antigas jóias celestiais. A Nuvem Corona Australis é uma colagem de nebulosas de reflexão e emissão à esquerda da imagem de hoje. A 430 anos-luz de distância, esta nuvem é uma das regiões de formação estelar mais próximas da Terra. Ele contém gás frio o suficiente (-260 Celsius ou -440 Fahrenheit) para colapsar em protoestrelas. Estrelas recentemente formadas pintam tons de azul na nuvem à medida que sua luz reflete no material circundante. A valsa do sistema binário R Coronae Australis agita a nebulosa NGC 6729. A mais jovem do par ioniza o gás próximo com sua luz ultravioleta, fazendo-o brilhar. O Aglomerado Candelabro (NGC 6723) oscila no canto superior direito, mas na verdade está dezenas de milhares de anos-luz mais distante do que seu aparente vizinho em formação de estrelas. Enquanto a NGC 6723 passou por múltiplos períodos de formação estelar criando estrelas ligeiramente mais jovens, o lustre brilha com estrelas quase tão antigas quanto o universo."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/corona_australis.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-07-21",
     "title": {
       "en": "Turtle Rock on Mars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
     "copyright": "Aditya Pawar"
-  },
-  {
-    "date": "2026-06-12",
-    "title": {
-      "en": "Venus and Jupiter: Conjunction from Avebury",
-      "pt": "Vênus e Júpiter: Conjunção de Avebury"
-    },
-    "explanation": {
-      "en": "To see Venus and Jupiter together this month, you won't need binoculars or even a telescope. Just look up after sunset and you'll find them emerging as the sky grows dark near the western horizon. In fact, on June 9 the two brightest planets were in close conjunction, separated on the sky by less than 2 degrees from our perspective. Since (brighter) inner planet Venus orbits the Sun faster than outer planet Jupiter, it catches up with and passes the outer planet along the ecliptic roughly every 13 months. But every three years or so their resulting conjunction can be viewed far enough from the Sun to be easily seen in Earth's twilight skies. On June 9, the two celestial beacon's close \"cosmic kiss\" was captured here next to the two large standing stones at the cove within a 4,000 year old stone circle at Avebury, UK. Larger than Stonehenge, the Avebury henge and stone circle complex is also recognized as one of the most significant neolithic ceremonial sites on planet Earth.",
-      "pt": "Para ver Vênus e Júpiter juntos este mês, você não precisará de binóculos ou mesmo de telescópio. Basta olhar para cima após o pôr do sol e você os verá emergindo à medida que o céu escurece próximo ao horizonte oeste. Na verdade, no dia 9 de junho, os dois planetas mais brilhantes estavam em estreita conjunção, separados no céu por menos de 2 graus da nossa perspectiva. Como o planeta interno (mais brilhante) Vênus orbita o Sol mais rápido do que o planeta externo Júpiter, ele alcança e passa o planeta externo ao longo da eclíptica aproximadamente a cada 13 meses. Mas a cada três anos ou mais, a conjunção resultante pode ser vista a uma distância suficiente do Sol para ser facilmente vista no céu crepuscular da Terra. Em 9 de junho, o próximo \"beijo cósmico\" dos dois faróis celestiais foi capturado aqui próximo às duas grandes pedras eretas na enseada dentro de um círculo de pedras de 4.000 anos em Avebury, Reino Unido. Maior que Stonehenge, o complexo henge e círculo de pedras de Avebury também é reconhecido como um dos locais cerimoniais neolíticos mais importantes do planeta Terra."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/CosmicKissTheCoveAveburyDury.jpg",
-    "copyright": "Josh Dury"
   }
 ]
