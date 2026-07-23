@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-23",
+    "title": {
+      "en": "The Large Magellanic Cloud",
+      "pt": "A Grande Nuvem de Magalhães"
+    },
+    "explanation": {
+      "en": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.",
+      "pt": "Você já viu outra galáxia com seus próprios olhos?   A imagem em destaque mostra a Grande Nuvem de Magalhães (LMC), uma das vizinhas mais próximas da nossa Via Láctea.     Se você estiver em qualquer lugar ao sul da latitude 20° N (mas quanto mais ao sul, melhor), você poderá ver a olho nu se for para um local com céu escuro, longe de grandes cidades e da poluição luminosa.   É uma galáxia anã irregular a cerca de 163.000 anos-luz de distância e membro do nosso Grupo Local de galáxias.   Apesar de ser pequena, com uma massa total aproximadamente equivalente a 10% - 20% da massa da Via Láctea, a GNM está formando estrelas de forma muito ativa.   Isto provavelmente se deve em parte ao impulso gravitacional das marés causado pela Via Láctea na GNM.   Alguns astrônomos previram que ele colidirá com a Via Láctea dentro de cerca de 2 bilhões de anos."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
+    "copyright": "Monica Mesa,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-07-22",
     "title": {
       "en": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-06-14",
-    "title": {
-      "en": "10 Days of Venus and Jupiter",
-      "pt": "10 dias de Vênus e Júpiter"
-    },
-    "explanation": {
-      "en": "Venus and Jupiter may have caught your attention lately.  The  recent close conjunction of the two brightest planets in recent evening skies has been hard to miss. With Jupiter at the top, starting on May 30 and ending on June 8, their close approach was chronicled daily, left to right, in the featured panels from Maharashtra, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. At their closest on June 9, the celestial pair appeared to be only about three times the width of a full moon apart. Of course, on that date, the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days, Jupiter will slowly settle into the sunset glare, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Gallery: Venus - Jupiter Conjunction of 2026 June",
-      "pt": "Vênus e Júpiter podem ter chamado sua atenção ultimamente.  A recente conjunção próxima dos dois planetas mais brilhantes nos céus noturnos recentes tem sido difícil de perder. Com Júpiter no topo, começando em 30 de maio e terminando em 8 de junho, a sua aproximação foi narrada diariamente, da esquerda para a direita, nos painéis em destaque de Maharashtra, na Índia. Perto do horizonte oeste, as cores do céu noturno e as exposições usadas para cada painel dependem das condições locais próximas ao pôr do sol. No seu ponto mais próximo, em 9 de junho, o par celeste parecia estar separado apenas cerca de três vezes a largura de uma lua cheia. É claro que, nessa data, os dois planetas estavam fisicamente separados por mais de 600 milhões de quilómetros nas suas órbitas em torno do Sol. Nos próximos dias, Júpiter irá lentamente se acomodar no brilho do pôr do sol, mas Vênus continuará a se afastar do Sol no céu ocidental para se destacar em seu papel atual como a brilhante estrela da noite.   Galeria: Conjunção Vênus - Júpiter de junho de 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/VenusJupiter10_Pawar_1080.jpg",
-    "copyright": "Aditya Pawar"
   }
 ]
