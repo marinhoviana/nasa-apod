@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-24",
+    "title": {
+      "en": "RCW 86: Historical Supernova Remnant",
+      "pt": "RCW 86: Remanescente Histórico de Supernova"
+    },
+    "explanation": {
+      "en": "In 185 AD, Chinese astronomers recorded the appearance of a new star in the Nanmen asterism. That part of the sky is identified with part of the southern constellation Centaurus on modern star charts. In fact, the new star was reported to be visible to the naked-eye for months before it faded from view, and is now thought to be the earliest recorded supernova. In this 21st century telescopic image, the wispy outlines of a faint emission nebula recognized as the remnant of that historical stellar explosion can be traced against a starry background. The ragged but roughly circular extent of the nebula, cataloged as RCW 86, represents interstellar gas ionized by the supernova's still expanding shock wave. Space-based images indicate an abundance of the element iron in RCW 86 and the absence of a neutron star or pulsar within the remnant, suggesting that the original supernova was Type Ia. Unlike the core collapse supernova explosion of a massive star, a Type Ia supernova is a thermonuclear detonation on a white dwarf star that has accreted material from its companion in a binary star system. Near the plane of our Milky Way galaxy and larger than the full moon on the sky this supernova remnant is too faint to be seen by eye though. RCW 86 is some 8,000 light-years distant and around 100 light-years across.",
+      "pt": "Em 185 DC, astrônomos chineses registraram o aparecimento de uma nova estrela no asterismo Nanmen. Essa parte do céu é identificada com parte da constelação meridional de Centauro nas cartas estelares modernas. Na verdade, foi relatado que a nova estrela era visível a olho nu durante meses antes de desaparecer de vista, e agora é considerada a primeira supernova registrada. Nesta imagem telescópica do século XXI, os contornos finos de uma tênue nebulosa de emissão reconhecida como o remanescente daquela histórica explosão estelar podem ser traçados contra um fundo estrelado. A extensão irregular, mas aproximadamente circular, da nebulosa, catalogada como RCW 86, representa o gás interestelar ionizado pela onda de choque ainda em expansão da supernova. Imagens baseadas no espaço indicam uma abundância do elemento ferro em RCW 86 e a ausência de uma estrela de nêutrons ou pulsar dentro do remanescente, sugerindo que a supernova original era do Tipo Ia. Ao contrário da explosão de supernova de colapso do núcleo de uma estrela massiva, uma supernova Tipo Ia é uma detonação termonuclear em uma estrela anã branca que acretou material de sua companheira em um sistema estelar binário. Perto do plano da nossa galáxia, a Via Láctea, e maior que a lua cheia no céu, este remanescente de supernova é demasiado ténue para ser visto a olho nu. RCW 86 está a cerca de 8.000 anos-luz de distância e tem cerca de 100 anos-luz de diâmetro."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg",
+    "copyright": "Chinese astronomers"
+  },
+  {
     "date": "2026-07-23",
     "title": {
       "en": "The Large Magellanic Cloud",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/hamster.jpg",
     "copyright": "Mazlin, Parker, Forman, Magill, Hanson, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-06-16",
-    "title": {
-      "en": "Moons, Rings, Shadows, Clouds: Saturn (Cassini)",
-      "pt": "Luas, Anéis, Sombras, Nuvens: Saturno (Cassini)"
-    },
-    "explanation": {
-      "en": "While cruising around Saturn, be on the lookout for picturesque arrangements of moons, rings, and shadows. One such striking sight occurred in 2005 and was captured by the then Saturn-orbiting Cassini spacecraft. In the featured image, moons Mimas (left) and Tethys (right) are visible on either side of Saturn's thin rings, which are seen nearly edge-on.  Across the top of Saturn are dark shadows of the wide rings, exhibiting their impressive complexity. The violet-light image brings up the texture of the backdrop: Saturn's clouds. Cassini orbited Saturn from 2004 until mid-2017, when the robotic spacecraft was directed to dive into Saturn to keep it from contaminating any moons.    Explore the Universe: Random APOD Generator",
-      "pt": "Ao navegar por Saturno, fique atento aos arranjos pitorescos de luas, anéis e sombras. Uma dessas visões impressionantes ocorreu em 2005 e foi capturada pela então nave espacial Cassini, em órbita de Saturno. Na imagem apresentada, as luas Mimas (esquerda) e Tethys (direita) são visíveis em ambos os lados dos finos anéis de Saturno, que são vistos quase de lado.  No topo de Saturno há sombras escuras dos anéis largos, exibindo a sua impressionante complexidade. A imagem em luz violeta traz à tona a textura do pano de fundo: as nuvens de Saturno. A Cassini orbitou Saturno de 2004 até meados de 2017, quando a espaçonave robótica foi orientada a mergulhar em Saturno para evitar que contaminasse qualquer lua.    Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/SaturnRingsMoons_Cassini_960.jpg",
-    "copyright": null
   }
 ]
