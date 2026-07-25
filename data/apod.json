@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-25",
+    "title": {
+      "en": "Tranquility and Serenity",
+      "pt": "Tranquilidade e Serenidade"
+    },
+    "explanation": {
+      "en": "The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar \"seas\" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.",
+      "pt": "Os Mares da Tranquilidade e da Serenidade estão calmos hoje. Eles ficam calmos quase todos os dias, já que na verdade são mares lunares, antigos fluxos de lava que preenchem grandes bacias de impacto na Lua. Também conhecidos pelos nomes latinos Mare Tranquillitatis (à direita) e Mare Serenitatis, os \"mares\" lunares escuros e suaves contrastam fortemente com as brilhantes crateras lunares das terras altas que os rodeiam nesta visão telescópica. É claro que seus nomes são baseados nas designações históricas e pré-telescópicas dos mares lunares. Facilmente visíveis a olho nu, as grandes formações do lado próximo da Lua foram imaginadas como sendo como os vastos oceanos do planeta Terra. Em 20 de julho de 1969, o módulo lunar Eagle da Apollo 11 pousou no Mare Tranquillitatis (no canto inferior direito), estabelecendo a base Tranquility e a primeira presença humana na Lua."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg",
+    "copyright": "Tranquility"
+  },
+  {
     "date": "2026-07-24",
     "title": {
       "en": "RCW 86: Historical Supernova Remnant",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/sgrc.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/sgrc_lg.jpg",
     "copyright": "X-ray: NASA/CXC/UCLA/Z. Zhu et al.; ESA/XMM-Newton; Optical: PanSTARRS; Radio: MeerKAT; Image Processing: NASA/CXC/SAO/L. Frattare and P. Edmonds,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-06-17",
-    "title": {
-      "en": "Longmore 8: The Hamster Wheel Nebula",
-      "pt": "Longmore 8: A Nebulosa da Roda do Hamster"
-    },
-    "explanation": {
-      "en": "How did a hamster wheel get into space? The Hamster Wheel Nebula (Longmore 8) was discovered by Andrew Longmore in 1976 as a part of a larger survey of the southern sky. This survey employed several improvements in photographic technology, including the use of highly sensitive film, to capture deeper and fainter objects on plates that were examined by eye and catalogued. The featured image, taken at Observatorio El Sauce in Chile, depicts an intricate wheel structure of glowing hydrogen that was thrown out into space by a dying star and ionized by the leftover white dwarf. This structure was barely visible on the original plate, emphasizing the power of modern telescopes and cameras. Two opposing clumps of red hydrogen gas encased in the blue veil of ionized oxygen hint at the presence of a companion to the bright white dwarf at the wheel’s center!",
-      "pt": "Como uma roda de hamster chegou ao espaço? A Nebulosa da Roda do Hamster (Longmore 8) foi descoberta por Andrew Longmore em 1976 como parte de um levantamento maior do céu meridional. Esta pesquisa empregou diversas melhorias na tecnologia fotográfica, incluindo o uso de filme altamente sensível, para capturar objetos mais profundos e mais tênues em placas que foram examinadas a olho nu e catalogadas. A imagem em destaque, tirada no Observatório El Sauce, no Chile, mostra uma intrincada estrutura de roda de hidrogênio brilhante que foi lançada ao espaço por uma estrela moribunda e ionizada pela anã branca que sobrou. Esta estrutura era pouco visível na placa original, enfatizando o poder dos telescópios e câmeras modernos. Dois aglomerados opostos de gás hidrogênio vermelho envoltos no véu azul de oxigênio ionizado sugerem a presença de uma companheira da anã branca brilhante no centro da roda!"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/hamster_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/hamster.jpg",
-    "copyright": "Mazlin, Parker, Forman, Magill, Hanson, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
