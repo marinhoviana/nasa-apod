@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-27",
+    "title": {
+      "en": "NGC 7635: The Bubble Nebula",
+      "pt": "NGC 7635: A Nebulosa da Bolha"
+    },
+    "explanation": {
+      "en": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.",
+      "pt": "O que criou esta enorme bolha espacial? Soprada pelo vento de uma estrela, esta tentadora aparição em forma de cabeça é catalogada como NGC 7635, mas conhecida simplesmente como Nebulosa da Bolha. Retirada de Cracóvia, na Polónia, a imagem apresentada utiliza uma longa exposição para revelar os detalhes intrincados desta bolha cósmica e do seu ambiente. Embora pareça delicada, a bolha com 10 anos-luz de diâmetro oferece evidências de processos violentos em ação. Vista aqui, à direita do centro da bolha, uma estrela quente e brilhante está incrustada na poeira refletora da nebulosa. Um forte vento estelar e uma radiação intensa da estrela, que provavelmente tem uma massa 10 a 20 vezes maior que a do Sol, explodiram a estrutura do gás brilhante contra o material mais denso numa nuvem molecular circundante. A intrigante Nebulosa da Bolha fica a apenas 11.000 anos-luz de distância, em direção à presunçosa constelação de Cassiopeia."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg",
+    "copyright": "Paweł Piechnik"
+  },
+  {
     "date": "2026-07-26",
     "title": {
       "en": "Simulation TNG50: A Galaxy Cluster Forms",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg",
     "copyright": "Francesco Antonucci"
-  },
-  {
-    "date": "2026-06-20",
-    "title": {
-      "en": "Daytime Moon Meets Evening Star",
-      "pt": "A lua diurna encontra a estrela vespertina"
-    },
-    "explanation": {
-      "en": "Venus is now appearing on the celestial stage as Earth's brilliant evening star, performing with the Moon, other wandering planets, and bright stars in western skies. For evening sky gazers on June 17, the celestial beacon rose after sunset close by a young, slender, crescent Moon. But from some locations the Moon could be seen to occult or pass in front of Venus. And from a backyard observatory in southern British Columbia, Canada, the lunar occultation was played out in daylight. This stunning telescopic snapshot captured a scene in dramatically cloudy skies, following Venus' hour long disappearance, as the evening star emerged beyond the bright lunar limb.",
-      "pt": "Vênus está agora aparecendo no palco celestial como a brilhante estrela vespertina da Terra, atuando com a Lua, outros planetas errantes e estrelas brilhantes nos céus ocidentais. Para os observadores do céu noturno em 17 de junho, o farol celestial surgiu após o pôr do sol perto de uma lua jovem e esguia e crescente. Mas em alguns locais a Lua pode ser vista ocultando-se ou passando na frente de Vênus. E a partir de um observatório de quintal no sul da Colúmbia Britânica, Canadá, a ocultação lunar ocorreu à luz do dia. Esta impressionante fotografia telescópica capturou uma cena num céu dramaticamente nublado, após o desaparecimento de uma hora de Vénus, à medida que a estrela vespertina emergia para além do brilhante limbo lunar."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/Venus_Moon_2026_06_17.jpg",
-    "copyright": "Debra Ceravolo"
   }
 ]
