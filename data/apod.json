@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-28",
+    "title": {
+      "en": "Barnards Loop over Twin Volcanoes",
+      "pt": "Barnards Loop sobre vulcões gêmeos"
+    },
+    "explanation": {
+      "en": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "O que está conectando esses dois vulcões? No folclore antigo, os dois vulcões, Parinacota (esquerda) e Pomerape (direita), estão ligados por representarem um príncipe e uma princesa míticos que se envolveram em um romance proibido.  Abaixo do solo, não se sabe que os dois picos estejam ligados por uma piscina comum de magma quente, e nenhum dos vulcões entrou em erupção nos últimos 1000 anos.  Acima do solo, geralmente não há nada no céu que os conecte – exceto se você usar o tempo com cuidado e olhar de um local específico.  A imagem bem planejada foi capturada na Bolívia em meados de abril com uma série de exposições de câmera tiradas no mesmo dia e no mesmo local.  Então, o Loop de Barnard apareceu para conectar os picos vulcânicos. Também visível na imagem está a Nebulosa de Orion no centro, a estrela Betelgeuse à direita e a Nebulosa Roseta no canto superior direito.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg",
+    "copyright": "Gonzalo Laserna Vargas"
+  },
+  {
     "date": "2026-07-27",
     "title": {
       "en": "NGC 7635: The Bubble Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-06-22",
-    "title": {
-      "en": "M27: The Dumbbell Nebula",
-      "pt": "M27: A Nebulosa do Haltere"
-    },
-    "explanation": {
-      "en": "Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors enhanced by red for  hydrogen and blue for oxygen. We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.",
-      "pt": "Será isto o que será do nosso Sol? Muito possivelmente.  A primeira pista do futuro do nosso Sol foi descoberta inadvertidamente em 1764. Naquela época, Charles Messier estava compilando uma lista de objetos difusos que não deveriam ser confundidos com cometas. O 27º objeto da lista de Messier, agora conhecido como M27 ou Nebulosa do Haltere, é uma nebulosa planetária, uma das nebulosas planetárias mais brilhantes do céu e visível com binóculos em direção à constelação da Raposa (Vulpecula). A luz leva cerca de 1000 anos para chegar até nós vinda da M27, apresentada aqui em cores realçadas pelo vermelho para o hidrogênio e pelo azul para o oxigênio. Sabemos agora que dentro de cerca de 6 mil milhões de anos, o nosso Sol libertará os seus gases exteriores numa nebulosa planetária como M27, enquanto o seu centro restante se tornará uma estrela anã branca quente de raios X.  No entanto, compreender a física e o significado do M27 estava muito além da ciência do século XVIII. Ainda hoje, muitas coisas permanecem misteriosas sobre as nebulosas planetárias, incluindo a forma como as suas formas complexas são criadas."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/M27_antonucci_3090.jpg",
-    "copyright": "Francesco Antonucci"
   }
 ]
