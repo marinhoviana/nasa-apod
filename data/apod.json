@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-29",
+    "title": {
+      "en": "Psyche Receives Gravity Assist from Mars",
+      "pt": "Psyche recebe assistência gravitacional de Marte"
+    },
+    "explanation": {
+      "en": "Solar System bodies make deep space exploration more fuel efficient! Today’s video shows the Psyche spacecraft gaining speed and changing its trajectory with minimal fuel spent due to a gravity assist from Mars in May 2026. Mars has an average orbital speed of almost 87,000 km/h (54,000 mph) around the Sun. Its orbital motion and its gravity allowed Mars to pull Psyche along with it, increasing the spacecraft’s speed. Gravity assists have been used since 1959’s Luna 3 mission to allow for spacecraft (the Voyagers, Cassini) to reach farther than they could with fuel alone. This assist helped the Psyche spacecraft on its journey to the Psyche asteroid, which it will reach in 2029. While passing Mars, the spacecraft tested instruments that will analyze the asteroid’s composition and magnetic field. This is the first mission to an asteroid thought to be largely made of metal, an essential building block for planets, rather than rock or ice.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!",
+      "pt": "Os corpos do Sistema Solar tornam a exploração do espaço profundo mais eficiente em termos de combustível! O vídeo de hoje mostra a sonda Psyche ganhando velocidade e mudando sua trajetória com o mínimo gasto de combustível devido à assistência gravitacional de Marte em maio de 2026. Marte tem uma velocidade orbital média de quase 87.000 km/h (54.000 mph) ao redor do Sol. Seu movimento orbital e sua gravidade permitiram que Marte puxasse Psyche consigo, aumentando a velocidade da espaçonave. A assistência gravitacional tem sido usada desde a missão Luna 3 de 1959 para permitir que as naves espaciais (as Voyagers, Cassini) cheguem mais longe do que conseguiriam apenas com combustível. Esta assistência ajudou a sonda Psyche na sua viagem até ao asteróide Psyche, que alcançará em 2029. Ao passar por Marte, a sonda testou instrumentos que irão analisar a composição e o campo magnético do asteróide. Esta é a primeira missão a um asteróide que se pensa ser em grande parte feito de metal, um bloco de construção essencial para os planetas, em vez de rocha ou gelo.   Encontre céus escuros e olhe para cima neste mês de agosto para testemunhar a chuva de meteoros Perseidas desinibida pela Lua!"
+    },
+    "media_type": "video",
+    "url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
+    "hdurl": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
+    "copyright": null
+  },
+  {
     "date": "2026-07-28",
     "title": {
       "en": "Barnards Loop over Twin Volcanoes",
@@ -432,21 +447,6 @@
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/sdo_cme.mp4",
-    "copyright": null
-  },
-  {
-    "date": "2026-06-23",
-    "title": {
-      "en": "Flying Past Neptune's Moon Triton",
-      "pt": "Voando além da Lua Tritão de Netuno"
-    },
-    "explanation": {
-      "en": "What would it look like to fly past Triton, the largest moon of planet Neptune?  Only one spacecraft has ever done this -- and the images of this dramatic encounter have been gathered into a video.  In 1989, the Voyager 2 robotic spacecraft shot through the Neptune system with cameras blazing.  Triton is slightly smaller than Earth's Moon but has ice volcanoes and a surface rich in frozen nitrogen.  The first sequence in the video shows Voyager's approach to Triton, which, with the exception of an overall false green tint, appears in approximately true color.  The mysterious cantaloupe terrain seen under the spacecraft soon changed from light to dark, with the terminator of night crossing underneath.  After closest approach, Voyager pivoted to see the departing moon, now visible as a diminishing crescent.  In 2015, the robotic New Horizons spacecraft famously flew past Pluto, an orb of similar size to Triton.   Almost Hyperspace: Random APOD Generator",
-      "pt": "Como seria passar por Tritão, a maior lua do planeta Netuno?  Apenas uma nave espacial conseguiu fazer isto – e as imagens deste encontro dramático foram reunidas num vídeo.  Em 1989, a espaçonave robótica Voyager 2 disparou através do sistema de Netuno com câmeras em chamas.  Tritão é ligeiramente menor que a Lua da Terra, mas tem vulcões de gelo e uma superfície rica em nitrogênio congelado.  A primeira sequência do vídeo mostra a aproximação da Voyager a Tritão, que, com exceção de uma falsa tonalidade verde geral, aparece em cores aproximadamente verdadeiras.  O misterioso terreno de melão visto sob a espaçonave logo mudou de claro para escuro, com o terminador da travessia noturna embaixo.  Após a maior aproximação, a Voyager girou para ver a lua partindo, agora visível como um crescente decrescente.  Em 2015, a nave robótica New Horizons passou por Plutão, um orbe de tamanho semelhante a Tritão.   Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/TritonPass_voyager2.mp4",
     "copyright": null
   }
 ]
