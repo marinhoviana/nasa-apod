@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-07-31",
+    "title": {
+      "en": "NGC 4372 and the Dark Doodad",
+      "pt": "NGC 4372 e o Dark Doodad"
+    },
+    "explanation": {
+      "en": "The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.",
+      "pt": "A Nebulosa Dark Doodad flutua pelos céus do sul, um alvo tentador para binóculos em direção à pequena constelação de Musca, A Mosca. Uma nuvem interestelar empoeirada, vista contra ricos campos estelares logo ao sul da Nebulosa do Saco de Carvão e do Cruzeiro do Sul. Estendendo-se por cerca de 3 graus através deste campo de visão telescópico, o Dark Doodad é pontuado perto de sua ponta sul (canto superior direito) pelo aglomerado estelar globular amarelado NGC 4372. É claro que NGC 4372 percorre o halo de nossa galáxia, a Via Láctea, um objeto de fundo a cerca de 20.000 anos-luz de distância e apenas por acaso ao longo de nossa linha de visão até o Dark Doodad. A cerca de 700 anos-luz de distância e com mais de 30 anos-luz de comprimento, a silhueta bem definida do Dark Doodad pertence à nuvem molecular Musca, potencialmente formadora de estrelas. O apelido deliciosamente aliterativo do empoeirado Dark Doodad foi cunhado pela primeira vez pelo astroimagem e escritor Dennis di Cicco em 1986, enquanto observava o cometa Halley no interior australiano."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
+    "copyright": "Alessandro Cipolat Bares"
+  },
+  {
     "date": "2026-07-30",
     "title": {
       "en": "Red Sun through Wildfire Smoke",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/PIA26726.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-06-26",
-    "title": {
-      "en": "Milky Way Urban Style",
-      "pt": "Estilo urbano da Via Láctea"
-    },
-    "explanation": {
-      "en": "In a cosmic vista you can never see, the Milky Way arcs through the night above Seoul, South Korea. Remarkably, this urban night skyscape reveals our galaxy's faintly luminous central region and dark obscuring dust clouds in spite of the brilliant city lights. To overcome the extreme light pollution of the metropolitan area and record faint cosmic details, an infrared filter was used to capture the night scene in a single exposure. While the filter transmits predominately infrared light, it still passes some visible light to give the scene a natural appearance. The view is from Seoul's Ttukseom Hangang Park, with the Han River and a well lit railway bridge across the foreground. The 123 story Lotte World Tower looms in the distance, the tallest building in South Korea.",
-      "pt": "Em uma vista cósmica que você nunca pode ver, a Via Láctea forma um arco noturno acima de Seul, na Coreia do Sul. Notavelmente, esta paisagem urbana noturna revela a região central fracamente luminosa da nossa galáxia e nuvens de poeira escuras e obscuras, apesar das brilhantes luzes da cidade. Para superar a extrema poluição luminosa da área metropolitana e registrar detalhes cósmicos tênues, um filtro infravermelho foi usado para capturar a cena noturna em uma única exposição. Embora o filtro transmita predominantemente luz infravermelha, ele ainda deixa passar alguma luz visível para dar à cena uma aparência natural. A vista é do Parque Ttukseom Hangang de Seul, com o rio Han e uma ponte ferroviária bem iluminada em primeiro plano. A Lotte World Tower, de 123 andares, surge à distância, o edifício mais alto da Coreia do Sul."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/MilkyWaySeoulShingooLee.jpg",
-    "copyright": "Shingoo Lee"
   }
 ]
