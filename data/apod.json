@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-01",
+    "title": {
+      "en": "Buck Moon and Belt of Venus",
+      "pt": "Buck Moon e Cinturão de Vênus"
+    },
+    "explanation": {
+      "en": "The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.",
+      "pt": "The Buck Moon é um nome tradicional para a lua cheia de julho. Nesta colorida paisagem do mar Adriático e do céu capturada em 28 de julho na Ilha de Krk, ao longo da costa da Croácia, uma Buck Moon cheia surge sobre montanhas distantes. Como a lua cheia nasce quando o Sol se põe, a sombra da Terra também surge na cena crepuscular, uma faixa cinzenta difusa que se estende acima do horizonte montanhoso do sudeste. Acima da faixa de sombra da Terra está o arco rosado anti-crepúsculo. Essa faixa sutilmente colorida de luz solar retroespalhada é mais conhecida como Cinturão de Vênus. Mas como partilha o horizonte oriental com a sombra atmosférica da Terra e do Cinturão de Vénus, esta Lua Cheia de Buck parece preparar o terreno para a Lua Nova que está por vir. A Lua Nova de 12 de agosto lançará sua sombra no planeta Terra em um eclipse solar total muito aguardado."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg",
+    "copyright": "Branko Nadj"
+  },
+  {
     "date": "2026-07-31",
     "title": {
       "en": "NGC 4372 and the Dark Doodad",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2606/M82_HubbleWebb_5000.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-06-27",
-    "title": {
-      "en": "Mars Marathon by Perseverance",
-      "pt": "Maratona de Marte por Perseverança"
-    },
-    "explanation": {
-      "en": "In this recent HiRISE view from the Mars Reconnaissance Orbiter, the little green dot indicated on the surface of the big Red Planet is the Perseverance Mars rover. Recorded on June 13, the car-sized, six-wheeled robot was imaged a day before completing a Martian marathon, traveling a total distance of 26.218 miles (42.195 kilometers) since it began exploring the surface of Mars. That equivalent marathon distance was achieved by Perseverance on its mission sol (Martian day) 1,890, after about 5 Earth years and 4 Earth months of driving. Perseverance is continuing to hunt for biosignatures. In the HiRISE image, the Mars rover's tracks can be seen leading to its location in an area west of its landing site in Jezero crater near an ancient river delta.",
-      "pt": "Nesta visão recente da HiRISE da Mars Reconnaissance Orbiter, o pequeno ponto verde indicado na superfície do grande Planeta Vermelho é o rover Perseverance Mars. Gravado em 13 de junho, o robô de seis rodas do tamanho de um carro foi fotografado um dia antes de completar uma maratona marciana, percorrendo uma distância total de 26,218 milhas (42,195 quilômetros) desde que começou a explorar a superfície de Marte. Essa distância equivalente à maratona foi alcançada pelo Perseverance em sua missão Sol (dia marciano) 1.890, após cerca de 5 anos terrestres e 4 meses terrestres de condução. O Perseverance continua em busca de bioassinaturas. Na imagem HiRISE, os rastros do rover de Marte podem ser vistos levando à sua localização em uma área a oeste de seu local de pouso na cratera de Jezero, perto de um antigo delta de rio."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2606/PIA26726_figA1024c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2606/PIA26726.jpg",
     "copyright": null
   }
 ]
