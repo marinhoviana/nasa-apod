@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-03",
+    "title": {
+      "en": "Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "pt": "Vaporização de meteoros fotobombas na nebulosa Lacerta"
+    },
+    "explanation": {
+      "en": "What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
+      "pt": "O que está acontecendo com este meteoro? Esta brilhante faixa de meteoro apareceu e desapareceu rapidamente durante uma longa exposição da Grande Nebulosa Lacerta, vista fracamente em vermelho no centro da imagem. O meteoróide, provavelmente um pequeno seixo, cria o seu brilho em parte aquecendo e excitando o ar circundante na atmosfera da Terra, mas ele próprio vaporiza e deixa gás e poeira soprados pelo vento com cores que dão pistas sobre a sua composição.  A imagem em destaque foi capturada no mês passado nos Observatórios do Vale da Morte em Nevada, EUA.  Este mês, porém, é particularmente bom para ver meteoros. Atualmente há três chuvas de meteoros em andamento, embora elas estejam atualmente competindo pela visibilidade com o brilho de uma Lua gibosa e brilhante.  A mais ativa dessas chuvas, as Perseidas, estará mais movimentada em cerca de 10 dias – depois que a Lua tiver escurecido consideravelmente.  Este ano, o pico das Perseidas quase coincide não apenas com uma Lua nova, mas, em alguns locais, com uma que eclipsa totalmente o Sol.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg",
+    "copyright": "Tom Burnett"
+  },
+  {
     "date": "2026-08-02",
     "title": {
       "en": "A Fire Rainbow over West Virginia",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/PIA00621_1080CWb.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/PIA00621.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-07-03",
-    "title": {
-      "en": "Three Galaxies in Pavo",
-      "pt": "Três galáxias em Pavo"
-    },
-    "explanation": {
-      "en": "Some 190 million light-years away, far beyond the bright stars and nebulae of the Milky Way, these three galaxies are drawn together by gravity in a mesmerizing cosmic dance. Clearly distorted by galactic-scale gravitational interactions, large spiral galaxies NGC6769 and NGC6770 are seen face-on, with luminous galactic disks scarred by obscuring interstellar dust lanes. Their young blue star clusters along drawn out spiral arms are spawned in star forming regions that result from collisions of massive molecular clouds. Below, spiral NGC6771 presents a more edge-on perspective, its boxy central bulge due to tidal star streams. Of course, in the distant future a merger of the three galaxies is inevitable. At the estimated distance of this galaxy trio, known to some as the Devil's Mask, the sharp telescopic frame spans over 300 thousand light-years within the boundaries of the far southern constellation Pavo.",
-      "pt": "A cerca de 190 milhões de anos-luz de distância, muito além das estrelas brilhantes e das nebulosas da Via Láctea, estas três galáxias são unidas pela gravidade numa hipnotizante dança cósmica. Claramente distorcidas pelas interações gravitacionais em escala galáctica, as grandes galáxias espirais NGC6769 e NGC6770 são vistas de frente, com discos galácticos luminosos marcados por obscuras faixas de poeira interestelar. Seus jovens aglomerados de estrelas azuis ao longo de longos braços espirais são gerados em regiões de formação de estrelas que resultam de colisões de nuvens moleculares massivas. Abaixo, a espiral NGC6771 apresenta uma perspectiva mais lateral, com sua protuberância central quadrada devido aos fluxos estelares das marés. É claro que, num futuro distante, a fusão das três galáxias será inevitável. À distância estimada deste trio de galáxias, conhecido por alguns como Máscara do Diabo, a nítida estrutura telescópica abrange mais de 300 mil anos-luz, dentro dos limites da constelação do extremo sul, Pavo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026-1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/NGC6769LRGBcropAZ-1500-20-May-2026.jpg",
-    "copyright": "Mike Selby"
   }
 ]
