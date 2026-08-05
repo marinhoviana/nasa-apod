@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-05",
+    "title": {
+      "en": "Spokes on Saturn's B Ring",
+      "pt": "Raios no Anel B de Saturno"
+    },
+    "explanation": {
+      "en": "Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!",
+      "pt": "Não se assuste com os raios fantasmagóricos de Saturno! Hoje apresentamos um timelapse de quase duas horas de Saturno e seus anéis girando para frente e para trás. Um dia em Saturno dura apenas 10 horas, então duas horas de observação cobrem uma boa parte de sua rotação. Se você olhar de perto, uma sombra macabra aparece e desaparece enquanto o anel B de Saturno gira. Décadas de observação com a Voyager 2, Cassini e Hubble mostram que a aparência dos raios de Saturno varia de acordo com as estações do planeta. Tal como a Terra, o eixo de rotação de Saturno é inclinado em comparação com o plano da sua órbita em torno do Sol. Durante o equinócio de Saturno, os anéis estão menos inclinados em relação ao Sol e o planeta recebe luz solar e vento solar distribuídos de forma mais uniforme. Embora a sua origem ainda seja incerta, os raios de Saturno podem ser sombras e reflexos de poeira e gelo levitando acima dos anéis, causados ​​por interações eletromagnéticas entre o vento solar e o campo magnético do planeta.   Encontre céus escuros e olhe para cima neste mês de agosto para testemunhar a chuva de meteoros Perseidas desinibida pela Lua!"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
+    "copyright": "Brad Croslin, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-08-04",
     "title": {
       "en": "Curious Cometary Knots in the Helix Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg",
     "copyright": "Julien Looten"
-  },
-  {
-    "date": "2026-07-05",
-    "title": {
-      "en": "Saturn's Iapetus: Painted Moon",
-      "pt": "Jápeto de Saturno: Lua Pintada"
-    },
-    "explanation": {
-      "en": "What has happened to Saturn's moon Iapetus?  Vast sections of this strange world are dark as coal, while others are as bright as snow.  To help better understand this unusually tinted moon, in 2007 NASA directed the robotic Cassini spacecraft then orbiting Saturn to swoop within 2,000 kilometers.  Pictured here, from about 75,000 kilometers out, is the hemisphere of Iapetus that is always trailing.  A large impact crater seen in the south spans 500 kilometers and appears superposed on an older crater of similar size.  The dark material is seen increasingly coating the easternmost part of Iapetus, darkening craters and highlands alike.  A leading hypothesis is that the dark material is mostly a form of carbon-rich soil leftover from when relatively warm but dirty ice sublimates.  An initial coating of this dark material may have been effectively painted on by the accretion of meteor-liberated debris from other moons.   Jigsaw Moon: Astronomy Puzzle of the Day",
-      "pt": "O que aconteceu com a lua de Saturno, Jápeto?  Vastas partes deste estranho mundo são escuras como carvão, enquanto outras são brilhantes como a neve.  Para ajudar a compreender melhor esta lua de cor incomum, em 2007 a NASA orientou a sonda robótica Cassini, que então orbitava Saturno, a fazer uma descida de 2.000 quilómetros.  Na imagem aqui, a cerca de 75.000 quilómetros de distância, está o hemisfério de Jápeto que está sempre atrás.  Uma grande cratera de impacto vista a sul estende-se por 500 quilómetros e aparece sobreposta a uma cratera mais antiga de tamanho semelhante.  O material escuro é visto cobrindo cada vez mais a parte oriental de Jápeto, escurecendo crateras e terras altas.  Uma hipótese principal é que o material escuro é principalmente uma forma de solo rico em carbono que sobrou da sublimação do gelo relativamente quente, mas sujo.  Uma camada inicial deste material escuro pode ter sido efetivamente pintada pelo acúmulo de detritos liberados por meteoros de outras luas.   Jigsaw Moon: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/iapetus4_cassini_4100.jpg",
-    "copyright": null
   }
 ]
