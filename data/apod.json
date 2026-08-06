@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-06",
+    "title": {
+      "en": "New Sharpest Image of the Sun Uncovers Instability",
+      "pt": "Nova imagem mais nítida do Sol revela instabilidade"
+    },
+    "explanation": {
+      "en": "What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.",
+      "pt": "O que mostra a nova imagem mais nítida do nosso Sol? Instabilidade. Para ser claro, um certo tipo de processo interativo denominado instabilidade Kelvin-Helmholtz (KHI). Esta instabilidade pode criar ondas e redemoinhos quando duas correntes passam uma pela outra - neste caso, correntes variáveis ​​de plasma magnético solar. Há muito tempo hipotetizado que ocorreria na superfície do Sol, as listras e redemoinhos KHI foram confirmados em imagens dramáticas de alta resolução recém-lançadas, tiradas recentemente pelo Telescópio Solar Inouye no Havaí, EUA.  A imagem em falso amarelo apresentada, na verdade tirada em azul profundo, é a imagem de maior resolução do Sol em luz visível. Ela se estende pelo raio da Terra, mas seus detalhes mais finos são do tamanho de uma cidade.  São visíveis vários topos lisos de grânulos solares mutáveis, enquanto descobriu-se que as bordas das estruturas semelhantes a flores abrigam vários redemoinhos KHI.  Pesquisas futuras podem investigar como o KHI ajuda a mover energia, campos magnéticos e pode até aquecer a coroa solar circundante."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-08-05",
     "title": {
       "en": "Spokes on Saturn's B Ring",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg",
     "copyright": "Rod Prazeres"
-  },
-  {
-    "date": "2026-07-06",
-    "title": {
-      "en": "Dueling Bands over the Atacama Desert",
-      "pt": "Duelo de Bandas no Deserto do Atacama"
-    },
-    "explanation": {
-      "en": "What are these two bands in the sky?  The more commonly seen band is on the left and is the central band of our Milky Way galaxy.  Our Sun orbits in the disk of this spiral galaxy so that from inside, it appears as a band of comparable brightness all the way around the sky.  The less commonly seen band, on the right, is zodiacal light -- sunlight reflected from dust orbiting the Sun in our Solar System.  Zodiacal light is brightest near the Sun and so is best seen just before sunrise or just after sunset.  On some evenings, this ribbon of zodiacal light can appear quite prominent.  It was discovered only in this century that zodiacal dust was mostly expelled by comets that have passed near Jupiter.  The featured image was captured about a year ago from the Atacama Desert in Chile.",
-      "pt": "Quais são essas duas faixas no céu?  A banda mais comumente vista está à esquerda e é a banda central da nossa galáxia, a Via Láctea.  Nosso Sol orbita no disco desta galáxia espiral de modo que, visto de dentro, ele aparece como uma faixa de brilho comparável em todo o céu.  A faixa menos comumente vista, à direita, é a luz zodiacal – luz solar refletida na poeira que orbita o Sol em nosso Sistema Solar.  A luz zodiacal é mais brilhante perto do Sol e, portanto, é melhor vista pouco antes do nascer do sol ou logo após o pôr do sol.  Em algumas noites, esta faixa de luz zodiacal pode parecer bastante proeminente.  Foi descoberto apenas neste século que a poeira zodiacal foi expelida principalmente por cometas que passaram perto de Júpiter.  A imagem em destaque foi capturada há cerca de um ano no deserto do Atacama, no Chile."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/ZodiMw_Looten_6125.jpg",
-    "copyright": "Julien Looten"
   }
 ]
