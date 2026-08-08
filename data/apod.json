@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-08",
+    "title": {
+      "en": "A Messier Moment for Tempel 2",
+      "pt": "Um momento mais confuso para o Tempel 2"
+    },
+    "explanation": {
+      "en": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.",
+      "pt": "Qual destes não é um cometa? Você adivinhou – o da direita é um aglomerado de estrelas globulares. O coma esverdeado difuso do cometa periódico 10P/Tempel 2 está à esquerda do quadro. Na verdade, o aglomerado globular de estrelas é Messier 30, também conhecido como M30, ou a 30ª entrada no catálogo do astrônomo Charles Messier de coisas que não são cometas. O conhecido astrônomo do século XVIII manteve uma lista de objetos que observou, agora seu famoso Catálogo Messier de Nebulosas e Aglomerados de Estrelas, que não se moviam noite a noite contra as estrelas de fundo e, portanto, não eram os cometas que ele procurava. Assim, o famoso caçador de cometas também obteria a resposta correta, embora o seu telescópio mostrasse tanto o 10P/Tempel 2 como o aglomerado estelar distante como objetos tênues e difusos de aparência semelhante no seu campo de visão. Gravada em 29 de julho, esta imagem telescópica moderna captura o cometa periódico Tempel 2 enquanto ele se aproximava brevemente do céu até M30. Embora o rastro fraco e estreito de poeira orbital do cometa periódico pareça perfurar o aglomerado globular de estrelas, o Tempel 2 estava a apenas 3,5 minutos-luz de distância. Messier 30 está a cerca de 28.000 anos-luz de distância."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
+    "copyright": "Dan Bartlett"
+  },
+  {
     "date": "2026-08-06",
     "title": {
       "en": "New Sharpest Image of the Sun Uncovers Instability",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg",
     "copyright": "Humbert Cédric, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-07-07",
-    "title": {
-      "en": "NGC 6188: Dragons of Ara",
-      "pt": "NGC 6188: Dragões de Ara"
-    },
-    "explanation": {
-      "en": "Where can you find dragons fighting in the night sky?  In the southern constellation of the Altar: Ara. The dragons are, of course, actually made of suggestively shaped gas and dust.  The celestial home of the mythological battling beasts is cataloged as NGC 6188 and located about 4,000 light years away near the edge of a large molecular cloud.  Massive, young stars of the embedded Ara OB1 association were formed there only a few million years ago, sculpting the dark shapes and powering the nebular glow with stellar winds and intense ultraviolet radiation.  Joining NGC 6188 on this cosmic canvas, visible toward the lower right, is unusual emission nebula NGC 6164, also created by one of the region's massive stars.  This impressively wide field picture, captured from Queensland, Australia, spans over 2 degrees (four full Moons).",
-      "pt": "Onde você pode encontrar dragões lutando no céu noturno?  Na constelação meridional do Altar: Ara. Os dragões são, é claro, feitos de gás e poeira de formato sugestivo.  O lar celestial das feras mitológicas lutadoras está catalogado como NGC 6188 e localizado a cerca de 4.000 anos-luz de distância, perto da borda de uma grande nuvem molecular.  Estrelas jovens e massivas da associação Ara OB1 foram formadas ali há apenas alguns milhões de anos, esculpindo as formas escuras e alimentando o brilho nebular com ventos estelares e intensa radiação ultravioleta.  Juntando-se à NGC 6188 nesta tela cósmica, visível no canto inferior direito, está a incomum nebulosa de emissão NGC 6164, também criada por uma das estrelas massivas da região.  Esta imagem de campo impressionantemente ampla, capturada em Queensland, Austrália, abrange mais de 2 graus (quatro luas cheias)."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/AraDragons_Prazeres_7200.jpg",
-    "copyright": "Rod Prazeres"
   }
 ]
