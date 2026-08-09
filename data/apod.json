@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-09",
+    "title": {
+      "en": "Contemplating the Sun",
+      "pt": "Contemplando o Sol"
+    },
+    "explanation": {
+      "en": "Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.",
+      "pt": "Você contemplou sua estrela natal recentemente?  Em destaque aqui, um Sol parcialmente eclipsado no canto superior esquerdo pela Lua também é visto eclipsado por terráqueos contemplando o eclipse abaixo.  Este espetacular conjunto de silhuetas foi tirado em 2012 da Área de Recreação Nacional de Glen Canyon, perto de Page, Arizona, EUA, onde guardas florestais e astrônomos expuseram o evento incomum para colecionadores interessados.  Além disso, vagamente visível no disco do Sol, logo na parte inferior direita do disco escuro da Lua, está um grupo de manchas solares.  Um novo eclipse solar ocorrerá esta semana e dará a muitas pessoas no norte da América do Norte, na Europa e no noroeste da África uma nova chance de contemplar um Sol parcialmente eclipsado. Uma fina faixa da Terra, da Groenlândia a Portugal, experimentará ainda mais um eclipse solar total. Uma questão em aberto é se algum meteoro do pico das Perseidas será visível durante a totalidade."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg",
+    "copyright": "Steven Gilbert"
+  },
+  {
     "date": "2026-08-08",
     "title": {
       "en": "A Messier Moment for Tempel 2",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/C14MareOrientaleGuyBardon.jpg",
     "copyright": "The Mare Orientale"
-  },
-  {
-    "date": "2026-07-09",
-    "title": {
-      "en": "The Red Glow of the Cosmic Bat Nebula",
-      "pt": "O brilho vermelho da nebulosa cósmica do morcego"
-    },
-    "explanation": {
-      "en": "This Cosmic Bat wishes you a happy Summerween! This mid-year celebration of Halloween transcends hemispheres, even though summer in the Northern hemisphere is winter in the South. Contrary to its eery aura, the Cosmic Bat Nebula (LDN 43), not to be confused with the Bat Nebula (NGC 6995), is a vibrant birthplace for stars. A bit of young starlight peeks through the dense clouds of gas and dust that make up the Cosmic Bat’s 12 lightyear wingspan. The ultraviolet light from the young stars energizes the nebula’s hydrogen gas, causing it to glow an ominous red. The jet of glowing hydrogen gas emerging from the bat’s head hints at the star formation hidden within.",
-      "pt": "Este Morcego Cósmico deseja a você um feliz verão! Esta celebração do Halloween no meio do ano transcende os hemisférios, embora o verão no hemisfério Norte seja inverno no Sul. Ao contrário da sua aura misteriosa, a Nebulosa Cósmica do Morcego (LDN 43), que não deve ser confundida com a Nebulosa do Morcego (NGC 6995), é um vibrante local de nascimento de estrelas. Um pouco da jovem luz das estrelas espreita através das densas nuvens de gás e poeira que compõem a envergadura de 12 anos-luz do Morcego Cósmico. A luz ultravioleta das estrelas jovens energiza o gás hidrogénio da nebulosa, fazendo-a brilhar numa cor vermelha sinistra. O jato de gás hidrogênio brilhante emergindo da cabeça do morcego sugere a formação estelar escondida dentro dela."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_halpha_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/cosmic_bat_1024.jpg",
-    "copyright": "Humbert Cédric, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
