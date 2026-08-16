@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-16",
+    "title": {
+      "en": "Milky Way over Yellowstone",
+      "pt": "Via Láctea sobre Yellowstone"
+    },
+    "explanation": {
+      "en": "The Milky Way was not created by an evaporating lake.  The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA.  Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring.  Steam rises off the spring, heated by underground magma associated with the Yellowstone Hotspot.  Unrelated and far in the distance, the central band of our Milky Way Galaxy arches high overhead, a band lit by billions of stars.  The picture features a 16-image panorama taken in 2014.  If the Yellowstone Hotspot causes another supervolcanic eruption as it did about 640,000 years ago, a large part of North America would be affected.",
+      "pt": "A Via Láctea não foi criada por um lago em evaporação.  A colorida piscina de água, com cerca de 10 metros de diâmetro, é conhecida como Silex Spring e está localizada no Parque Nacional de Yellowstone, em Wyoming, EUA.  Iluminadas artificialmente, as cores são causadas por camadas de bactérias que crescem nas fontes termais.  O vapor sobe da nascente, aquecido pelo magma subterrâneo associado ao Hotspot de Yellowstone.  Não relacionada e distante, a faixa central da nossa Galáxia, a Via Láctea, forma um arco bem acima, uma faixa iluminada por bilhões de estrelas.  A imagem apresenta um panorama de 16 imagens tiradas em 2014. Se o hotspot de Yellowstone causar outra erupção supervulcânica como aconteceu há cerca de 640 mil anos, uma grande parte da América do Norte seria afetada."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg",
+    "copyright": "Dave Lane"
+  },
+  {
     "date": "2026-08-15",
     "title": {
       "en": "Bright Perseids from Sweden",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/ngc300_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/ngc300.jpg",
     "copyright": "Team Ciel Austral,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-07-15",
-    "title": {
-      "en": "Red Sprites in the Tatacoa Desert",
-      "pt": "Sprites Vermelhos no Deserto de Tatacoa"
-    },
-    "explanation": {
-      "en": "Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!",
-      "pt": "Existe um Sith furioso usando raios de força no deserto de Tatacoa? Isto não é ficção científica, mas um sprite vermelho com múltiplas serpentinas! Os relâmpagos comuns ocorrem quando as partículas das nuvens de trovoada colidem, perdem seus elétrons e acumulam carga negativa na parte inferior da nuvem. A carga negativa da nuvem repele a carga negativa mais profundamente na Terra, deixando a superfície da Terra carregada positivamente. As cargas opostas se atraem, aproximando-se uma da outra e superaquecendo o ar em um golpe branco de plasma. Sprites vermelhos são eventos de milissegundos desencadeados por relâmpagos positivos da nuvem para o solo. Eles se estendem até a mesosfera, onde o ar é rarefeito demais para trovões. Seu brilho vermelho vem do nitrogênio molecular aquecido. Existem várias causas potenciais para sprites vermelhos, incluindo que o relâmpago positivo anterior expõe o núcleo da nuvem com carga negativa à atmosfera superior com carga positiva, permitindo que essas cargas se conectem. Juno da NASA observou sprites em Júpiter, indicando que sprites ocorrem em outros planetas!"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/red_sprite_700.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sprite.jpg",
-    "copyright": "Mario Vargas, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
