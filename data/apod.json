@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-19",
+    "title": {
+      "en": "The Case of the Mysterious Maybe Meteor",
+      "pt": "The Case of the Mysterious Maybe Meteor"
+    },
+    "explanation": {
+      "en": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!",
+      "pt": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-08-18",
     "title": {
       "en": "Perseids from Perseus",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-07-17",
-    "title": {
-      "en": "The Dust Trail of Comet Tempel 2",
-      "pt": "A trilha de poeira do cometa Tempel 2"
-    },
-    "explanation": {
-      "en": "Comet 10P/Tempel 2 orbits the Sun once every 5.4 years. Currently visible in binoculars or small telescopes toward the constellation Capricornus, the periodic comet is captured in this sharp telescopic image from July 11 sporting a bright nuclear region and pretty greenish coma. Remarkably, a thin dust trail, not a typical dust tail, is also seen extending both east and west of the Tempel 2 nucleus. Unlike a comet dust tail, which tends to temporarily fan out in a direction away from the Sun, this dust trail is due to the residual dust shed during many past orbits along this ancient periodic comet's orbital plane. In fact, Tempel 2's dust trail may get a little narrower and brighter from our perspective as Earth crosses through the comet's orbital plane on July 20. Comet 10P/Tempel 2 will reach a perihelion on August 2, and make its closest approach to Earth on August 3.",
-      "pt": "O cometa 10P/Tempel 2 orbita o Sol uma vez a cada 5,4 anos. Atualmente visível com binóculos ou pequenos telescópios em direção à constelação de Capricórnio, o cometa periódico é capturado nesta imagem telescópica nítida de 11 de julho, exibindo uma região nuclear brilhante e um coma bastante esverdeado. Notavelmente, um fino rasto de poeira, e não uma típica cauda de poeira, também é visto estendendo-se tanto a leste como a oeste do núcleo do Tempel 2. Ao contrário da cauda de poeira de um cometa, que tende a espalhar-se temporariamente numa direção oposta ao Sol, este rasto de poeira é devido à poeira residual libertada durante muitas órbitas passadas ao longo do plano orbital deste antigo cometa periódico. Na verdade, o rasto de poeira do Tempel 2 pode ficar um pouco mais estreito e mais brilhante da nossa perspectiva à medida que a Terra atravessa o plano orbital do cometa em 20 de julho. O cometa 10P/Tempel 2 alcançará um periélio em 2 de agosto e fará a sua maior aproximação à Terra em 3 de agosto."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/10P_Tempel2_20260711_DEBartlett2048.jpg",
-    "copyright": "Dan Bartlett"
   }
 ]
