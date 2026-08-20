@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-20",
+    "title": {
+      "en": "The Elephant's Trunk in Cepheus",
+      "pt": "A Tromba do Elefante em Cepheus"
+    },
+    "explanation": {
+      "en": "Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.",
+      "pt": "Como uma ilustração em uma Just So Story galáctica, a Nebulosa da Tromba do Elefante serpenteia pela região de emissão e pelo complexo de aglomerados estelares jovens IC 1396, na alta e distante constelação de Cepheus. Também conhecida como vdB 142, a tromba deste elefante cósmico tem mais de 20 anos-luz de comprimento. A visão telescópica detalhada mostra as cristas brilhantes e bolsões de poeira e gás interestelar frio que abundam na região. Mas as nuvens escuras em forma de gavinha contêm a matéria-prima para a formação de estrelas e escondem protoestrelas em seu interior. A quase 3.000 anos-luz de distância, o relativamente fraco complexo IC 1396 cobre uma grande região no céu, abrangendo mais de 5 graus. No entanto, de cima para baixo, esta versão semelhante à proboscídica alcança um campo de visão de quase 1 grau de largura. Isso é um pouco menos que o tamanho angular de 2 luas cheias."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa.jpeg",
+    "copyright": "Eddie Sgarbossa"
+  },
+  {
     "date": "2026-08-19",
     "title": {
       "en": "The Case of the Mysterious Maybe Meteor",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-07-18",
-    "title": {
-      "en": "Shadow and Rainbow",
-      "pt": "Sombra e arco-íris"
-    },
-    "explanation": {
-      "en": "At sunset, an alignment of rainbow and mountain shadow was captured in this remarkable snapshot. The stunning view was recorded from a fire lookout on Smith Peak in the Plumas National Forest near Portola, California on July 13.  Still, near sunset it's no accident that the majestic mountain shadow seems to point to the center of the graceful rainbow arc. Due to perspective and the long line of sight the mountain shadow naturally forms a tapering triangular shape, its apex positioned at the point opposite the Sun on the horizon. Following thunderstorms across the region, the rainbow arcs across the early evening sky, with its colorful and characteristic 42 degree arc formed as sunlight is refracted and reflected by the atmospheric water droplets. The geometric center of a rainbow arc lies at the antisolar point. And in this scene from the golden hour on planet Earth, that's also oposite the setting Sun along the distant horizon.",
-      "pt": "Ao pôr do sol, um alinhamento do arco-íris e da sombra da montanha foi capturado nesta fotografia notável. A vista deslumbrante foi registrada a partir de um vigia de incêndio em Smith Peak, na Floresta Nacional de Plumas, perto de Portola, Califórnia, em 13 de julho. Ainda assim, perto do pôr do sol, não é por acaso que a majestosa sombra da montanha parece apontar para o centro do gracioso arco do arco-íris. Devido à perspectiva e à longa linha de visão, a sombra da montanha forma naturalmente uma forma triangular afilada, com o seu vértice posicionado no ponto oposto ao Sol no horizonte. Após tempestades em toda a região, o arco-íris forma um arco no céu do início da noite, com seu colorido e característico arco de 42 graus formado à medida que a luz solar é refratada e refletida pelas gotículas de água atmosférica. O centro geométrico de um arco de arco-íris encontra-se no ponto anti-solar. E nesta cena da hora dourada no planeta Terra, isso também está oposto ao Sol poente ao longo do horizonte distante."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/ShadowandRainbow_Loschiavo.jpg",
     "copyright": null
   }
 ]
