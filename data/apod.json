@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-21",
+    "title": {
+      "en": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
+      "pt": "Lapso de tempo da estrela S301 orbitando o buraco negro no centro da galáxia"
+    },
+    "explanation": {
+      "en": "What does it feel like to zoom around a spinning supermassive black hole?   The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy.   S301 was discovered in 2023 with the Very Large Telescope Interferometer of the European Southern Observatory, located in the Atacama Desert in Chile.   Astronomers recently found that S301 takes approximately 8.7 years to go around the black hole and reaches speeds of 25,000 km/s.   It comes closer to the black hole than any other stars detected before, at a distance similar to that from Saturn to the Sun.   Because it comes so close to Sagittarius A*, S301 could be used to directly measure how fast the black hole spins and test Einstein's theory of general relativity.   According to the theory, a spinning black hole drags the fabric of spacetime around itself, affecting the orbits of close-by objects.",
+      "pt": "Qual é a sensação de dar um zoom em torno de um buraco negro supermassivo em rotação?   O vídeo apresentado é uma animação que mostra um lapso de tempo de 4 anos de observações da estrela S301 orbitando Sagitário A*, o buraco negro de 4 milhões de massa solar no centro da nossa Galáxia.   S301 foi descoberto em 2023 com o Interferômetro do Very Large Telescope do Observatório Europeu do Sul, localizado no deserto do Atacama, no Chile.   Os astrónomos descobriram recentemente que o S301 demora aproximadamente 8,7 anos a dar a volta ao buraco negro e atinge velocidades de 25.000 km/s.   Ela chega mais perto do buraco negro do que qualquer outra estrela detectada antes, a uma distância semelhante à de Saturno ao Sol.   Por estar tão próximo de Sagitário A*, o S301 poderia ser usado para medir diretamente a velocidade de rotação do buraco negro e testar a teoria da relatividade geral de Einstein.   De acordo com a teoria, um buraco negro giratório arrasta a estrutura do espaço-tempo em torno de si, afetando as órbitas de objetos próximos."
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-08-20",
     "title": {
       "en": "The Elephant's Trunk in Cepheus",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg",
     "copyright": "Logan Carpenter"
-  },
-  {
-    "date": "2026-07-19",
-    "title": {
-      "en": "Flying Saucer Crash Lands in Utah Desert",
-      "pt": "Disco voador cai no deserto de Utah"
-    },
-    "explanation": {
-      "en": "A flying saucer from outer space crash-landed in the Utah desert after being tracked by radar and chased by helicopters.  The year was 2004, and no space aliens were involved.  The saucer, pictured here, was the Genesis sample return capsule, part of a human-made robot Genesis spaceship launched in 2001 by NASA itself to study the Sun.  The unexpectedly hard landing at over 300 kilometers per hour occurred because the parachutes did not open as planned.  The Genesis mission had been orbiting the Sun collecting solar wind particles that are usually deflected away by Earth's magnetic field. Despite the crash landing, many return samples remained in good enough condition to analyze. Genesis-related discoveries included new details about the composition of the Sun and how the abundance of some types of elements differ across the Solar System. These results have provided intriguing clues into details of how the Sun and planets formed billions of years ago.    Almost Hyperspace: Random APOD Generator",
-      "pt": "Um disco voador vindo do espaço fez um pouso forçado no deserto de Utah depois de ser rastreado por radar e perseguido por helicópteros.  O ano era 2004 e nenhum alienígena espacial estava envolvido.  O disco, retratado aqui, era a cápsula de retorno de amostras Genesis, parte de uma nave espacial Genesis robô feita pelo homem, lançada em 2001 pela própria NASA para estudar o Sol.  A aterrissagem inesperadamente forçada a mais de 300 quilômetros por hora ocorreu porque os pára-quedas não abriram conforme planejado.  A missão Genesis estava orbitando o Sol coletando partículas do vento solar que geralmente são desviadas pelo campo magnético da Terra. Apesar do pouso forçado, muitas amostras de retorno permaneceram em condições boas o suficiente para serem analisadas. As descobertas relacionadas ao Gênesis incluíram novos detalhes sobre a composição do Sol e como a abundância de alguns tipos de elementos difere no Sistema Solar. Estes resultados forneceram pistas intrigantes sobre detalhes de como o Sol e os planetas se formaram há milhares de milhões de anos.    Quase Hiperespaço: Gerador APOD Aleatório"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/Genesisimpact_nasa_960.jpg",
-    "copyright": null
   }
 ]
