@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-22",
+    "title": {
+      "en": "Mostly Perseids",
+      "pt": "Principalmente Perseidas"
+    },
+    "explanation": {
+      "en": "Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their overwhelming numbers make them easy to spot. Quite convincingly, perseid trails all trace back to a single radiant on the sky at the upper right, a region in the annual shower's eponymous constellation Perseus. But meteors belonging to other much less active showers can also revealed by finding their radiants too. For example, seen crossing the perseid trails are meteors from a shower whose radiant lies in Cygnus, known as Kappa Cygnids. The antihelion complex, a general region near Aquarius and opposite the Sun in the sky, is also identifiable as a weak source for meteors.",
+      "pt": "Gravadas na noite de 12 para 13 de agosto, imagens de quatro câmaras dedicadas à monitorização de meteoros num observatório astronómico na República Checa foram alinhadas e combinadas para criar esta visão de todo o céu e noite inteira. Naquela noite, a contagem total chegou a 1.706 meteoros. E como isso coincidiu com o pico de atividade da Chuva de Meteoros Perseidas de 2026, a maioria são Perseidas. Seu número esmagador os torna fáceis de detectar. De forma bastante convincente, todas as trilhas das Perseidas remontam a um único radiante no céu no canto superior direito, uma região na constelação de mesmo nome da chuva anual, Perseu. Mas meteoros pertencentes a outras chuvas muito menos ativas também podem ser revelados ao encontrar seus radiantes. Por exemplo, são vistos cruzando as trilhas das Perseidas meteoros de uma chuva cujo radiante está em Cygnus, conhecida como Kappa Cygnids. O complexo anti-hélio, uma região geral próxima de Aquário e oposta ao Sol no céu, também é identificável como uma fonte fraca de meteoros."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/allsky_CEMeNt_Aug12-13final_pretty_8bit.jpg",
+    "copyright": "Valašské Meziříčí Observatory"
+  },
+  {
     "date": "2026-08-21",
     "title": {
       "en": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-07-20",
-    "title": {
-      "en": "NGC 3576: The Statue of Liberty Nebula",
-      "pt": "NGC 3576: A Nebulosa da Estátua da Liberdade"
-    },
-    "explanation": {
-      "en": "What's happening in the Statue of Liberty nebula?  Bright stars and interesting molecules are forming and being liberated. The complex nebula resides in the star forming region called RCW 57, and besides the iconic monument, to some looks like a flying superhero or a weeping angel.  This re-assigned color image showcases dense knots of dark interstellar dust, fields of glowing hydrogen gas ionized by these stars, and great loops of gas expelled by dying stars. A detailed study of NGC 3576, also known as NGC 3582 and NGC 3584, uncovered at least 33 massive stars in the end stages of formation, and the clear presence of the complex carbon molecules known as polycyclic aromatic hydrocarbons (PAHs). PAHs are thought to be created in the cooling gas of star forming regions, and their development in the Sun's formation nebula five billion years ago may have been an important step in the development of life on Earth.   Jigsaw Star Statue: Astronomy Puzzle of the Day",
-      "pt": "O que está acontecendo na nebulosa da Estátua da Liberdade?  Estrelas brilhantes e moléculas interessantes estão se formando e sendo liberadas. A complexa nebulosa reside na região de formação estelar chamada RCW 57 e, além do monumento icônico, para alguns parece um super-herói voador ou um anjo chorão.  Esta imagem colorida reatribuída mostra densos nós de poeira interestelar escura, campos de gás hidrogênio brilhante ionizado por essas estrelas e grandes loops de gás expelidos por estrelas moribundas. Um estudo detalhado de NGC 3576, também conhecida como NGC 3582 e NGC 3584, descobriu pelo menos 33 estrelas massivas nos estágios finais de formação e a presença clara de moléculas complexas de carbono conhecidas como hidrocarbonetos aromáticos policíclicos (PAHs). Pensa-se que os PAH foram criados no gás de arrefecimento das regiões de formação estelar, e o seu desenvolvimento na nebulosa de formação do Sol, há cinco mil milhões de anos, pode ter sido um passo importante no desenvolvimento da vida na Terra.   Estátua da estrela Jigsaw: quebra-cabeça astronômico do dia"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/LibertyNeb_Carpenter_1830.jpg",
-    "copyright": "Logan Carpenter"
   }
 ]
