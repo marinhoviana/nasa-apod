@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-23",
+    "title": {
+      "en": "Cassini Approaches Saturn",
+      "pt": "Cassini se aproxima de Saturno"
+    },
+    "explanation": {
+      "en": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Como seria se aproximar do grande planeta Saturno? Não é preciso apenas imaginar – a sonda Cassini fez exatamente isso em 2004, registrando milhares de imagens ao longo do caminho, e centenas de milhares mais desde que entrou em órbita. Algumas das primeiras imagens da Cassini foram ajustadas digitalmente, cortadas e compiladas no vídeo inspirador que faz parte de um projeto maior de filme IMAX chamado In Saturn's Rings.  Na sequência final, Saturno se aproxima cada vez mais à medida que o nublado Titã desce abaixo. Com Saturno girando ao fundo, Cassini é a seguir retratada voando sobre Mimas, com a grande cratera Herschel claramente visível. Os majestosos anéis de Saturno então assumem o controle enquanto a Cassini cruza o fino plano dos anéis de Saturno. Sombras escuras do anel aparecem no próprio Saturno. Finalmente, a enigmática lua do gêiser de gelo Enceladus aparece à distância e é abordada assim que o videoclipe termina. Depois de mais de uma década de exploração e descoberta, a sonda Cassini ficou sem combustível em 2017 e foi direcionada para entrar na atmosfera de Saturno, onde certamente derreteu.    O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "video",
+    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "hdurl": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
+    "copyright": "Cassini Imaging Team,, ISS,, JPL,, NASA,, ESA,, S. Van Vuuren et al.;, Music:, Adagio for Strings , (NY Philharmonic)"
+  },
+  {
     "date": "2026-08-22",
     "title": {
       "en": "Mostly Perseids",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/corona_australis.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-07-21",
-    "title": {
-      "en": "Turtle Rock on Mars",
-      "pt": "Rocha da Tartaruga em Marte"
-    },
-    "explanation": {
-      "en": "Is this a fossilized turtle on Mars?  No.  Although resembling a large Earth tortoise, this is a layered rock outcrop on Mars that is estimated to span about 15 meters, making it much larger than turtles on Earth. NASA’s robotic Curiosity rover came across this unusual mound, dubbed Miraflores, last month during its 4922nd Martian day exploring Mars.  The small butte may survive because it was somehow more resistant to erosion than surrounding rock.  More recent wind has now covered its top with orange Martian sand.  Below the top shell, many layers of stratified rock are visible, possibly indicating a long history of intermittent wind-blown sand being deposited and then hardened by ground water.  Similar wind-eroded layered landforms, such as yardangs in the Qaidam Desert of China, exist here on Earth. Curiosity and its companion rover Perseverance continue to investigate the ancient history of Mars as well as searching for signs of primeval life.",
-      "pt": "Esta é uma tartaruga fossilizada em Marte?  Não. Embora se assemelhe a uma grande tartaruga terrestre, este é um afloramento rochoso em camadas em Marte que se estima ter uma extensão de cerca de 15 metros, tornando-o muito maior do que as tartarugas na Terra. O rover robótico Curiosity da NASA encontrou este monte incomum, apelidado de Miraflores, no mês passado, durante seu 4.922º dia marciano explorando Marte.  O pequeno monte pode sobreviver porque era de alguma forma mais resistente à erosão do que a rocha circundante.  O vento mais recente cobriu agora o seu topo com areia laranja marciana.  Abaixo da camada superior, muitas camadas de rocha estratificada são visíveis, possivelmente indicando uma longa história de areia intermitente soprada pelo vento sendo depositada e depois endurecida pelas águas subterrâneas.  Formas de relevo em camadas semelhantes, erodidas pelo vento, como os yardangs no deserto de Qaidam, na China, existem aqui na Terra. O Curiosity e seu companheiro rover Perseverance continuam a investigar a história antiga de Marte, bem como a procurar sinais de vida primitiva."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/TurtleRock_Curiosity_2048.jpg",
     "copyright": null
   }
 ]
