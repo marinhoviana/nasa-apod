@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-24",
+    "title": {
+      "en": "Comet 220P in Outburst",
+      "pt": "Cometa 220P em explosão"
+    },
+    "explanation": {
+      "en": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "O cometa 220P é inesperadamente brilhante. Normalmente, o cometa periódico 220P/McNaught é tão escuro que para vê-lo é necessário um telescópio. Duas explosões surpreendentes este ano, no entanto, tornaram-no cerca de 20.000 vezes mais brilhante do que o normal, de modo que agora é visível com binóculos e exposições de câmaras de longa duração. Como esperado, o Cometa 220P continua a orbitar o Sol entre Marte e Júpiter com um período de mais de 5 anos.  A exposição de longa duração apresentada, tirada há 10 dias na África do Sul, mostra a cabeça verde brilhante do cometa e a curta cauda de poeira.  As razões para as impressionantes explosões do cometa 220P são desconhecidas, mas podem ser causadas pela liberação de gás acumulado no subsolo ou por terremotos cometários.  O cometa 220P passará a cerca de uma distância Terra-Sol da Terra em Outubro, após o que se espera que desapareça rapidamente à medida que inicia o seu regresso à parte mais distante da sua órbita.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg",
+    "copyright": "Spilios Asimakopoulos"
+  },
+  {
     "date": "2026-08-23",
     "title": {
       "en": "Cassini Approaches Saturn",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
     "copyright": "Monica Mesa,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-07-22",
-    "title": {
-      "en": "The Corona Australis Molecular Cloud and the Chandelier Cluster",
-      "pt": "A Nuvem Molecular Corona Australis e o Cluster Chandelier"
-    },
-    "explanation": {
-      "en": "The Southern Crown (Corona Australis) dazzles with young and ancient celestial jewels. The Corona Australis Cloud is a collage of reflection and emission nebulae on the left of today’s image. At 430 light years away, this cloud is one of the closest star-forming regions to Earth. It contains gas cool enough (-260 Celsius or -440 Fahrenheit) to collapse into protostars. Recently formed stars paint blue hues across the cloud as their light reflects off surrounding material. The waltz of the R Coronae Australis binary system stirs up the nebula NGC 6729. The younger of the pair ionizes nearby gas with its ultraviolet light, causing it to glow. The Chandelier Cluster (NGC 6723) dangles from the top right, but is actually tens of thousands of light years farther away than its apparent star-forming neighbor. While NGC 6723 experienced multiple periods of star formation creating slightly younger stars, the chandelier twinkles with stars almost as old as the universe.",
-      "pt": "A Coroa Austral (Corona Australis) deslumbra com jovens e antigas jóias celestiais. A Nuvem Corona Australis é uma colagem de nebulosas de reflexão e emissão à esquerda da imagem de hoje. A 430 anos-luz de distância, esta nuvem é uma das regiões de formação estelar mais próximas da Terra. Ele contém gás frio o suficiente (-260 Celsius ou -440 Fahrenheit) para colapsar em protoestrelas. Estrelas recentemente formadas pintam tons de azul na nuvem à medida que sua luz reflete no material circundante. A valsa do sistema binário R Coronae Australis agita a nebulosa NGC 6729. A mais jovem do par ioniza o gás próximo com sua luz ultravioleta, fazendo-o brilhar. O Aglomerado Candelabro (NGC 6723) oscila no canto superior direito, mas na verdade está dezenas de milhares de anos-luz mais distante do que seu aparente vizinho em formação de estrelas. Enquanto a NGC 6723 passou por múltiplos períodos de formação estelar criando estrelas ligeiramente mais jovens, o lustre brilha com estrelas quase tão antigas quanto o universo."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/corona_australis_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/corona_australis.jpg",
-    "copyright": null
   }
 ]
