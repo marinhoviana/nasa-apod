@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-25",
+    "title": {
+      "en": "Earth's Shadow Visualized with Lunar Eclipses",
+      "pt": "Sombra da Terra visualizada com eclipses lunares"
+    },
+    "explanation": {
+      "en": "What’s creating this giant hole in space? This is not a black hole — it’s a shadow.  It’s Earth’s shadow.  Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle.  Using modern digital technology, though, the images of multiple lunar eclipses can be combined to show Earth's complete shadow.  The featured image compilation by a perseistent astrophotographer is constructed from 22 years of lunar eclipses.  The Moon is not eclipsed every month (moon-th) because the Moon's orbit is slightly tilted relative to Earth's orbit.  Close inspection of some lunar eclipse images shows a faint blue band where  Earth’s atmosphere filters out more red sunlight than blue.  Later this week, a new lunar eclipse will occur and will be best visible in parts of North and South America, Europe, and Africa.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "O que está criando esse buraco gigante no espaço? Este não é um buraco negro – é uma sombra.  É a sombra da Terra.  Pelo menos desde a época de Aristóteles, as pessoas notaram que a sombra escura da Terra na Lua durante um eclipse lunar parcial é circular - embora nunca um círculo inteiro.  Usando tecnologia digital moderna, porém, as imagens de múltiplos eclipses lunares podem ser combinadas para mostrar a sombra completa da Terra.  A compilação de imagens em destaque por um astrofotógrafo persistente é construída a partir de 22 anos de eclipses lunares.  A Lua não é eclipsada todos os meses (lua-ésima) porque a órbita da Lua está ligeiramente inclinada em relação à órbita da Terra.  Uma inspeção minuciosa de algumas imagens do eclipse lunar mostra uma tênue faixa azul onde a atmosfera da Terra filtra mais luz solar vermelha do que azul.  No final desta semana, um novo eclipse lunar ocorrerá e será melhor visível em partes da América do Norte e do Sul, Europa e África.    O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg",
+    "copyright": "Tim Martin"
+  },
+  {
     "date": "2026-08-24",
     "title": {
       "en": "Comet 220P in Outburst",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/RCW86Final1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/RCW86Final2048.jpg",
     "copyright": "Chinese astronomers"
-  },
-  {
-    "date": "2026-07-23",
-    "title": {
-      "en": "The Large Magellanic Cloud",
-      "pt": "A Grande Nuvem de Magalhães"
-    },
-    "explanation": {
-      "en": "Have you ever seen another galaxy with your own eyes?   The featured image shows the Large Magellanic Cloud (LMC), one of the closest neighbors of our Milky Way.     If you are anywhere south of latitude 20° N (but the further south, the better), you can see it with the unaided eye if you go to a dark sky location, away from big cities and light polution.   It is a dwarf irregular galaxy about 163,000 light-years away, and a member of our Local Group of galaxies.   Despite being small, with a total mass approximately equivalent to 10% - 20% of the mass of the Milky Way, the LMC is very actively forming stars.   This is likely due in part to the gravitational push and pull of tides caused by the Milky Way on the LMC.   Some astronomers have predicted that it will collide with the Milky Way in in about 2 billion years.",
-      "pt": "Você já viu outra galáxia com seus próprios olhos?   A imagem em destaque mostra a Grande Nuvem de Magalhães (LMC), uma das vizinhas mais próximas da nossa Via Láctea.     Se você estiver em qualquer lugar ao sul da latitude 20° N (mas quanto mais ao sul, melhor), você poderá ver a olho nu se for para um local com céu escuro, longe de grandes cidades e da poluição luminosa.   É uma galáxia anã irregular a cerca de 163.000 anos-luz de distância e membro do nosso Grupo Local de galáxias.   Apesar de ser pequena, com uma massa total aproximadamente equivalente a 10% - 20% da massa da Via Láctea, a GNM está formando estrelas de forma muito ativa.   Isto provavelmente se deve em parte ao impulso gravitacional das marés causado pela Via Láctea na GNM.   Alguns astrônomos previram que ele colidirá com a Via Láctea dentro de cerca de 2 bilhões de anos."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/LMC_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/LMC.jpg",
-    "copyright": "Monica Mesa,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
