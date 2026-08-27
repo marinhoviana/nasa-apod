@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-27",
+    "title": {
+      "en": "Colorful Aurora over Icelandic Waterfall",
+      "pt": "Aurora colorida sobre a cachoeira da Islândia"
+    },
+    "explanation": {
+      "en": "What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Que espetáculo de se ver, quando o céu noturno ficou cheio de cores que pareciam chover sobre a cachoeira Skógafoss, na Islândia.     Esta imagem foi tirada em uma única exposição de 5 segundos pelo fotógrafo em abril de 2025. Ver uma aurora está na lista de desejos de muitas pessoas.   Mas não é fácil.   Requer alta atividade solar, céus escuros e claros e geralmente um local de observação em alta latitude.   Isso faz com que as luzes do norte sejam mais facilmente vistas do que as luzes do sul correspondentes, simplesmente porque há menos massa de terra no Hemisfério Sul, especialmente em torno do Círculo Antártico.   As auroras são causadas por partículas carregadas do vento solar que são capturadas pela magnetosfera terrestre e guiadas pelo campo magnético até uma região próxima a um dos pólos, onde colidem com partículas de gás na atmosfera.   Cores diferentes indicam interações com gases diferentes em altitudes diferentes, como oxigênio (vermelho e verde) e nitrogênio (azul e rosa).        O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg",
+    "copyright": "Victor Lima,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-08-26",
     "title": {
       "en": "JWST Images The Lion's Head Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-07-25",
-    "title": {
-      "en": "Tranquility and Serenity",
-      "pt": "Tranquilidade e Serenidade"
-    },
-    "explanation": {
-      "en": "The Seas of Tranquility and Serenity are calm today. They're calm most every day though, since they are actually lunar maria, ancient lava flows filling in large impact basins on the Moon. Also known by Latin names Mare Tranquillitatis (right) and Mare Serenitatis, the smooth dark lunar \"seas\" are in stark contrast to the bright cratered lunar highlands surrounding them in this telescopic view. Of course their names are based on the historical, pre-telescopic designations of lunar maria. Easily visible to the unaided eye, the broad features on the Moon's near side were imagined to be like the expansive oceans of planet Earth. On July 20, 1969, the Apollo 11 lunar module Eagle touched down on the Mare Tranquillitatis (at lower right), establishing Tranquility base and the first human presence on the Moon.",
-      "pt": "Os Mares da Tranquilidade e da Serenidade estão calmos hoje. Eles ficam calmos quase todos os dias, já que na verdade são mares lunares, antigos fluxos de lava que preenchem grandes bacias de impacto na Lua. Também conhecidos pelos nomes latinos Mare Tranquillitatis (à direita) e Mare Serenitatis, os \"mares\" lunares escuros e suaves contrastam fortemente com as brilhantes crateras lunares das terras altas que os rodeiam nesta visão telescópica. É claro que seus nomes são baseados nas designações históricas e pré-telescópicas dos mares lunares. Facilmente visíveis a olho nu, as grandes formações do lado próximo da Lua foram imaginadas como sendo como os vastos oceanos do planeta Terra. Em 20 de julho de 1969, o módulo lunar Eagle da Apollo 11 pousou no Mare Tranquillitatis (no canto inferior direito), estabelecendo a base Tranquility e a primeira presença humana na Lua."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity1024c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/TranquilitySerenity2048.jpg",
-    "copyright": "Tranquility"
   }
 ]
