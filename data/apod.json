@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-28",
+    "title": {
+      "en": "The Sky Turns Above Paranal",
+      "pt": "O céu fica acima do Paranal"
+    },
+    "explanation": {
+      "en": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Na latitude do Observatório do Paranal do ESO, no Chile, cerca de 25 graus sul, a rotação da Terra move a superfície do planeta para leste a mais de 1.500 quilómetros por hora. E embora seja mais rápido que a velocidade do som ao nível do mar, o movimento é imperceptível. Ainda assim, esse movimento pode ser revelado na rotação aparente do céu noturno fotografando rastros de estrelas. Esta imagem do rastro estelar foi composta a partir de uma pilha digital de 300 exposições consecutivas de 25 segundos feitas com uma câmera fixada em um tripé para traçar os arcos do rastro estelar. Os arcos graciosos são concêntricos e centrados no pólo celeste sul, a extensão do hemisfério sul do eixo de rotação da Terra para o espaço. Um dos telescópios auxiliares de 1,8 metros em funcionamento do observatório, AT 3, aparece abaixo do pólo celeste sul, fracamente iluminado no primeiro plano desta cena bem planeada de um planeta em rotação.   Galeria crescente: Eclipse lunar de 2026, 28 de agosto O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg",
+    "copyright": "Osvaldo Castillo"
+  },
+  {
     "date": "2026-08-27",
     "title": {
       "en": "Colorful Aurora over Icelandic Waterfall",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg",
     "copyright": "Paweł Piechnik"
-  },
-  {
-    "date": "2026-07-26",
-    "title": {
-      "en": "Simulation TNG50: A Galaxy Cluster Forms",
-      "pt": "Simulação TNG50: Forma-se um aglomerado de galáxias"
-    },
-    "explanation": {
-      "en": "How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together, complete with stellar streams.  The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.   Explore the Universe: Random APOD Generator",
-      "pt": "Como se formam os aglomerados de galáxias?  Como o nosso universo se move muito lentamente para ser observado, simulações de computador mais rápidas são criadas para ajudar a descobrir.  Um esforço famoso é o TNG50 da IllustrisTNG, uma atualização do famoso Illustris Simulation. A primeira parte do vídeo em destaque rastreia o gás cósmico (principalmente hidrogênio) à medida que ele evolui em galáxias e aglomerados de galáxias desde o início do universo até hoje, com cores mais brilhantes marcando o gás em movimento mais rápido.  À medida que o universo amadurece, o gás cai em poços gravitacionais, as galáxias se formam, as galáxias giram, as galáxias colidem e se fundem, tudo isso enquanto os buracos negros se formam nos centros das galáxias e expelem o gás circundante em alta velocidade. A segunda metade do vídeo muda para o rastreamento de estrelas, mostrando um aglomerado de galáxias se unindo, completo com fluxos estelares.  A saída dos buracos negros no TNG50 é surpreendentemente complexa e os detalhes estão sendo comparados com o nosso universo real.  Estudar como o gás se uniu no universo primitivo ajuda a humanidade a entender melhor como a Terra, o Sol e o Sistema Solar se formaram originalmente.   Explore o Universo: Gerador APOD Aleatório"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/ClusterFormation_TNG50.mp4",
-    "copyright": null
   }
 ]
