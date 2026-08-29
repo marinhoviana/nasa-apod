@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-29",
+    "title": {
+      "en": "Eclipse Pair",
+      "pt": "Par Eclipse"
+    },
+    "explanation": {
+      "en": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "clipes tendem a vir em pares. Duas vezes por ano, durante uma temporada de eclipses que dura cerca de 34 dias, o Sol, a Lua e a Terra podem quase se alinhar. Então as fases nova e cheia da Lua, separadas por pouco mais de 14 dias, criam um eclipse solar e um lunar. Mas apenas raramente o alinhamento na lua nova e na lua cheia durante uma única temporada de eclipses é próximo o suficiente para produzir um par com eclipses solares e lunares totais. Mais frequentemente, os eclipses parciais fazem parte de qualquer temporada de eclipses. Mas, a última temporada de eclipses de 2026 produziu este emparelhamento separado por quinze dias de um eclipse solar total em 12 de agosto (topo) e um eclipse lunar quase total na noite de 27/28 de agosto. Na Lua Nova, o eclipse solar foi capturado em Peñafiel, Espanha, perto do início da totalidade nesta imagem composta HDR, revelando um flash das contas de Bailey e uma coroa solar dourada. Na Lua Cheia seguinte, o eclipse lunar parcial profundo foi registrado em Sèvres, França. Também uma composição HDR, a imagem mostra este eclipse parcial perto da metade da sua fase máxima de 93 por cento, de modo que cerca de metade do disco lunar visível parece escurecido e avermelhado dentro da sombra umbral da Terra. A próxima temporada de eclipses verá um eclipse solar anular em 6 de fevereiro de 2027, emparelhado com um eclipse lunar penumbral em 20/21 de fevereiro.   Galeria crescente: Eclipse lunar de 2026, 28 de agosto O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg",
+    "copyright": "Gwenaël Blanck"
+  },
+  {
     "date": "2026-08-28",
     "title": {
       "en": "The Sky Turns Above Paranal",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg",
     "copyright": "Gonzalo Laserna Vargas"
-  },
-  {
-    "date": "2026-07-27",
-    "title": {
-      "en": "NGC 7635: The Bubble Nebula",
-      "pt": "NGC 7635: A Nebulosa da Bolha"
-    },
-    "explanation": {
-      "en": "What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.",
-      "pt": "O que criou esta enorme bolha espacial? Soprada pelo vento de uma estrela, esta tentadora aparição em forma de cabeça é catalogada como NGC 7635, mas conhecida simplesmente como Nebulosa da Bolha. Retirada de Cracóvia, na Polónia, a imagem apresentada utiliza uma longa exposição para revelar os detalhes intrincados desta bolha cósmica e do seu ambiente. Embora pareça delicada, a bolha com 10 anos-luz de diâmetro oferece evidências de processos violentos em ação. Vista aqui, à direita do centro da bolha, uma estrela quente e brilhante está incrustada na poeira refletora da nebulosa. Um forte vento estelar e uma radiação intensa da estrela, que provavelmente tem uma massa 10 a 20 vezes maior que a do Sol, explodiram a estrutura do gás brilhante contra o material mais denso numa nuvem molecular circundante. A intrigante Nebulosa da Bolha fica a apenas 11.000 anos-luz de distância, em direção à presunçosa constelação de Cassiopeia."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg",
-    "copyright": "Paweł Piechnik"
   }
 ]
