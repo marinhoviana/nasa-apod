@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-08-30",
+    "title": {
+      "en": "M74: A Grand Design Spiral",
+      "pt": "M74: Uma Grande Espiral de Design"
+    },
+    "explanation": {
+      "en": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Se não for a mais grandiosa, então esta galáxia espiral é pelo menos uma das mais fotogênicas.  Um universo insular de cerca de 100 bilhões de estrelas, a 32 milhões de anos-luz de distância em direção à constelação de Peixes, M74 apresenta uma vista frontal deslumbrante.  Classificada como uma galáxia Sc, o grande desenho dos graciosos braços espirais da M74 é traçado por brilhantes aglomerados de estrelas azuis e faixas escuras de poeira cósmica.  Construída a partir de imagens de arquivo, esta composição nítida é do Telescópio Espacial Hubble.  Abrangendo cerca de 30.000 anos-luz ao longo da face de M74, inclui exposições que registam emissões de átomos de hidrogénio, destacando o brilho avermelhado das grandes regiões de formação estelar da galáxia.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-08-29",
     "title": {
       "en": "Eclipse Pair",
@@ -433,20 +448,5 @@
     "url": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
     "hdurl": "https://www.youtube.com/embed/6_cH5-daLjg?si=i9geSInQj3VMZwx3",
     "copyright": null
-  },
-  {
-    "date": "2026-07-28",
-    "title": {
-      "en": "Barnards Loop over Twin Volcanoes",
-      "pt": "Barnards Loop sobre vulcões gêmeos"
-    },
-    "explanation": {
-      "en": "What's connecting these two volcanoes? In ancient folklore, the two volcanoes, Parinacota (left) and Pomerape (right), are connected by representing a mythical prince and princess who engaged in a forbidden romance.  Beneath the ground, the two peaks are not known to be connected by a common pool of hot magma, and neither volcano has erupted in the past 1000 years.  Above the ground, there is usually nothing in the sky that connects them -- except if you use careful timing and look from a specific location.  The featured well-planned image was captured from Bolivia in mid-April with a series of camera exposures taken on the same day and from the same location.  Then, Barnard's Loop appeared to connect the volcanic peaks. Also visible in the image is the Orion Nebula in the center, the star Betelgeuse on the right, and the Rosette Nebula on the upper right.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "O que está conectando esses dois vulcões? No folclore antigo, os dois vulcões, Parinacota (esquerda) e Pomerape (direita), estão ligados por representarem um príncipe e uma princesa míticos que se envolveram em um romance proibido.  Abaixo do solo, não se sabe que os dois picos estejam ligados por uma piscina comum de magma quente, e nenhum dos vulcões entrou em erupção nos últimos 1000 anos.  Acima do solo, geralmente não há nada no céu que os conecte – exceto se você usar o tempo com cuidado e olhar de um local específico.  A imagem bem planejada foi capturada na Bolívia em meados de abril com uma série de exposições de câmera tiradas no mesmo dia e no mesmo local.  Então, o Loop de Barnard apareceu para conectar os picos vulcânicos. Também visível na imagem está a Nebulosa de Orion no centro, a estrela Betelgeuse à direita e a Nebulosa Roseta no canto superior direito.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/LoopVolcanos_Laserna_5815.jpg",
-    "copyright": "Gonzalo Laserna Vargas"
   }
 ]
