@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-01",
+    "title": {
+      "en": "A Plane Lunar Eclipse",
+      "pt": "Um eclipse lunar plano"
+    },
+    "explanation": {
+      "en": "Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Você precisava estar do lado direito deste avião para ver esse eclipse? Os eclipses lunares são rotineiramente vistos da metade da Terra voltada para a Lua quando o eclipse ocorre, o que os torna alguns dos eventos astronômicos mais comumente testemunhados. Você nem precisa de nenhum equipamento especial para ver um - apenas a olho nu.  Os eclipses lunares também são alguns dos eventos astronômicos mais fotografados porque, ao contrário de um eclipse solar, seus olhos e sua câmera não precisam olhar para o Sol brilhante. No entanto, considerando a imagem em destaque tirada na semana passada de Portugal, se você estivesse no lado esquerdo daquele avião durante a decolagem, poderia ter dificuldade para vê-lo – a princípio. Mas mesmo assim, após a decolagem, como os eclipses lunares normalmente duram horas, em breve você poderá cruzar com segurança o(s) corredor(es) para vê-lo.   Galeria: Eclipse lunar de agosto de 2026 O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-08-31",
     "title": {
       "en": "Launch of the Roman Space Telescope",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
     "copyright": "Alessandro Cipolat Bares"
-  },
-  {
-    "date": "2026-07-30",
-    "title": {
-      "en": "Red Sun through Wildfire Smoke",
-      "pt": "Sol vermelho através da fumaça do incêndio florestal"
-    },
-    "explanation": {
-      "en": "This could be the view from an exoplanet orbiting around a red dwarf star, but it is our own Sun.   This image was taken on July 22, 2026, in the Okanagan region in the Canadian province of British Columbia.   Wildfire smoke from the Pacific Northwest acted as a solar filter, allowing the photographer to take this photo of the Sun directly.   Several sunspots are also visible in this eerie image; just below and right of the center is AR 4493, a fast evolving, giant active solar region and sunspot group.     The smoke is made of tiny particles that help block and scatter light with bluer colors, so the light we see coming from the Sun is dimmer and redder than usual (but it is never safe to stare directly at the Sun).   Sunsets and sunrises are also more colorful because of the smoke.      Some 6 billion years from now, the Sun will actually start to turn redder as it approaches its red giant phase.",
-      "pt": "Esta poderia ser a visão de um exoplaneta orbitando uma estrela anã vermelha, mas é o nosso próprio Sol.   Esta imagem foi tirada em 22 de julho de 2026, na região de Okanagan, na província canadense de British Columbia.   A fumaça do incêndio florestal no noroeste do Pacífico atuou como um filtro solar, permitindo ao fotógrafo tirar esta foto do Sol diretamente.   Várias manchas solares também são visíveis nesta imagem misteriosa; logo abaixo e à direita do centro está AR 4493, uma região solar gigante ativa e em rápida evolução e um grupo de manchas solares.     A fumaça é feita de pequenas partículas que ajudam a bloquear e espalhar a luz com cores mais azuis, de modo que a luz que vemos vinda do Sol é mais fraca e mais vermelha do que o normal (mas nunca é seguro olhar diretamente para o Sol).   O pôr do sol e o nascer do sol também ficam mais coloridos por causa da fumaça.      Daqui a cerca de 6 mil milhões de anos, o Sol começará a ficar mais vermelho à medida que se aproxima da sua fase de gigante vermelha."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/red_sun_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/red_sun.jpg",
-    "copyright": "Debra Ceravolo,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
