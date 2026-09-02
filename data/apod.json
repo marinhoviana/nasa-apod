@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-02",
+    "title": {
+      "en": "Solar Eclipses and Culture",
+      "pt": "Eclipses Solares e Cultura"
+    },
+    "explanation": {
+      "en": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12",
+      "pt": "Finja que você nunca ouviu falar de um eclipse solar. O comportamento do Sol foi previsível durante toda a sua vida. Um dia, você testemunha a transformação do céu como na imagem emendada de hoje, abrangendo duas horas do eclipse solar de 12 de agosto de 2026. O Sol desaparece, deixando para trás um anel brilhante e vazio. O que você acha que aconteceu? Os humanos interpretaram os eclipses de inúmeras maneiras ao longo da história, incorporando crenças sobre conexão, renascimento ou perigo na cultura. “Eclipse” vem da palavra grega “ékleipsis” que significa “abandono”. Na Grécia antiga, o eclipse solar marcou a ira dos deuses e o Sol abandonando a humanidade. Para o povo Diné, este alinhamento celestial é um momento de renovação. Por respeito e para evitar o perigo da luz solar, os Diné ficam dentro de casa até o Sol e a Lua se separarem. O povo Batammariba do Benin e do Togo acredita que o Sol e a Lua lutam durante um eclipse, por isso a comunidade incentiva a paz entre si. Os eclipses são um exemplo da conexão de longa data entre a astronomia e a sociedade.   Galeria: Eclipse Solar de 2026, 12 de agosto"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg",
+    "copyright": "Javier Castro, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
+  },
+  {
     "date": "2026-09-01",
     "title": {
       "en": "A Plane Lunar Eclipse",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg",
     "copyright": "Branko Nadj"
-  },
-  {
-    "date": "2026-07-31",
-    "title": {
-      "en": "NGC 4372 and the Dark Doodad",
-      "pt": "NGC 4372 e o Dark Doodad"
-    },
-    "explanation": {
-      "en": "The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.",
-      "pt": "A Nebulosa Dark Doodad flutua pelos céus do sul, um alvo tentador para binóculos em direção à pequena constelação de Musca, A Mosca. Uma nuvem interestelar empoeirada, vista contra ricos campos estelares logo ao sul da Nebulosa do Saco de Carvão e do Cruzeiro do Sul. Estendendo-se por cerca de 3 graus através deste campo de visão telescópico, o Dark Doodad é pontuado perto de sua ponta sul (canto superior direito) pelo aglomerado estelar globular amarelado NGC 4372. É claro que NGC 4372 percorre o halo de nossa galáxia, a Via Láctea, um objeto de fundo a cerca de 20.000 anos-luz de distância e apenas por acaso ao longo de nossa linha de visão até o Dark Doodad. A cerca de 700 anos-luz de distância e com mais de 30 anos-luz de comprimento, a silhueta bem definida do Dark Doodad pertence à nuvem molecular Musca, potencialmente formadora de estrelas. O apelido deliciosamente aliterativo do empoeirado Dark Doodad foi cunhado pela primeira vez pelo astroimagem e escritor Dennis di Cicco em 1986, enquanto observava o cometa Halley no interior australiano."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg",
-    "copyright": "Alessandro Cipolat Bares"
   }
 ]
