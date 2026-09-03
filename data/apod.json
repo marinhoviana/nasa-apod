@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-03",
+    "title": {
+      "en": "The Eclipse and the Stork",
+      "pt": "O Eclipse e a Cegonha"
+    },
+    "explanation": {
+      "en": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new \"morning\" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Como os animais reagem a um eclipse solar total?   A imagem em destaque mostra uma cegonha empoleirada no seu ninho na Polónia numa fase parcial do recente eclipse solar total.   Se você tiver a sorte de experimentar um eclipse total em algum lugar tranquilo e próximo à natureza, poderá notar comportamentos incomuns dos animais durante o dia.     Durante a totalidade, você pode ouvir sons noturnos como grilos e sapos e ver vaga-lumes.   No escuro, a maioria dos pássaros fica quieta.   Pensando que é hora de ir para a cama, patos e outras aves aquáticas se preparam para dormir sobre uma perna só, com a cabeça virada e o bico enfiado nas penas traseiras (na verdade, eles não dormem com a cabeça enfiada sob uma das asas).   Quando a luz solar retorna no final da totalidade, os pássaros canoros saúdam a nova “manhã” com suas canções do amanhecer.   Os grilos e sapos ficam quietos novamente.   Animais e pessoas retomam suas vidas, apenas brevemente perturbados pelo alinhamento casual do nosso Sol e da Lua.     O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg",
+    "copyright": "Włodzimierz Bubak,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-09-02",
     "title": {
       "en": "Solar Eclipses and Culture",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg",
     "copyright": "Christa Harbig"
-  },
-  {
-    "date": "2026-08-01",
-    "title": {
-      "en": "Buck Moon and Belt of Venus",
-      "pt": "Buck Moon e Cinturão de Vênus"
-    },
-    "explanation": {
-      "en": "The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.",
-      "pt": "The Buck Moon é um nome tradicional para a lua cheia de julho. Nesta colorida paisagem do mar Adriático e do céu capturada em 28 de julho na Ilha de Krk, ao longo da costa da Croácia, uma Buck Moon cheia surge sobre montanhas distantes. Como a lua cheia nasce quando o Sol se põe, a sombra da Terra também surge na cena crepuscular, uma faixa cinzenta difusa que se estende acima do horizonte montanhoso do sudeste. Acima da faixa de sombra da Terra está o arco rosado anti-crepúsculo. Essa faixa sutilmente colorida de luz solar retroespalhada é mais conhecida como Cinturão de Vênus. Mas como partilha o horizonte oriental com a sombra atmosférica da Terra e do Cinturão de Vénus, esta Lua Cheia de Buck parece preparar o terreno para a Lua Nova que está por vir. A Lua Nova de 12 de agosto lançará sua sombra no planeta Terra em um eclipse solar total muito aguardado."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg",
-    "copyright": "Branko Nadj"
   }
 ]
