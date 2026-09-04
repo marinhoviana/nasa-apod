@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-04",
+    "title": {
+      "en": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
+      "pt": "Nā ʻUhane Māhoe Huki Pū i ke Ola"
+    },
+    "explanation": {
+      "en": "Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to \"The Twin Spirits Pulling Together Creating Life\". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Nā ʻUhane Māhoe Huki Pū i ke Ola, é o nome havaiano dado a esta imagem de um par de galáxias espirais presas em um abraço gravitacional mútuo. A cerca de 200 milhões de anos-luz de distância em direção à constelação voadora de Pégaso, a sua espetacular fusão à escala galáctica é capturada com detalhes nítidos na imagem do telescópio Gemini North de 8,1 metros em Maunakea, no Havai. O par de galáxias, conhecido como NGC 7253 e Arp 278, foi escolhido como alvo, pesquisado e recebeu um nome havaiano por estudantes do ensino médio no programa de estágio conjunto do Observatório Gemini e do Projeto Hōkūlani da Universidade do Havaí.  O nome se traduz como \"Os Espíritos Gêmeos Unindo-se Criando Vida\". Isso é cultural e astronomicamente apropriado para colisões de galáxias que desencadeiam um turbilhão cósmico de formação de estrelas a partir de reservatórios galácticos de blocos elementares de vida. Estas galáxias em fusão são encontradas numa região de Pégaso identificada como a constelação de navegação havaiana Ka Lupe o Kawelo.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-03",
     "title": {
       "en": "The Eclipse and the Stork",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg",
     "copyright": "Tom Burnett"
-  },
-  {
-    "date": "2026-08-02",
-    "title": {
-      "en": "A Fire Rainbow over West Virginia",
-      "pt": "Um arco-íris de fogo sobre a Virgínia Ocidental"
-    },
-    "explanation": {
-      "en": "What's happening to this cloud? Ice crystals in a distant cirrus cloud are acting like little floating prisms.  Known informally as a fire rainbow for its flame-like appearance, a circumhorizon arc appears parallel to the horizon. For a circumhorizontal arc to be visible, the Sun must be at least 58 degrees high in a sky where cirrus clouds present below --  in this case cirrus fibratus.  The numerous, flat, hexagonal ice-crystals that compose the cirrus cloud must be aligned horizontally to properly refract sunlight in a collectively similar manner.  Therefore, circumhorizontal arcs are somewhat unusual to see.  The featured fire rainbow was photographed in 2021 near North Fork Mountain in West Virginia, USA.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "O que está acontecendo com esta nuvem? Os cristais de gelo em uma nuvem cirro distante agem como pequenos prismas flutuantes.  Conhecido informalmente como arco-íris de fogo por sua aparência de chama, um arco circunhorizontal aparece paralelo ao horizonte. Para que um arco circunhorizontal seja visível, o Sol deve estar a pelo menos 58 graus de altura em um céu onde há nuvens cirros presentes abaixo - neste caso, cirrus fibratus.  Os numerosos cristais de gelo planos e hexagonais que compõem a nuvem cirro devem ser alinhados horizontalmente para refratar adequadamente a luz solar de uma maneira coletivamente semelhante.  Portanto, arcos circunhorizontais são um tanto incomuns de se ver.  O arco-íris de fogo em destaque foi fotografado em 2021 perto da montanha North Fork, na Virgínia Ocidental, EUA.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/FireRainbow_Harbig_4000.jpg",
-    "copyright": "Christa Harbig"
   }
 ]
