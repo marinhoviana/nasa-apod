@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-05",
+    "title": {
+      "en": "Chasing the Moon's Shadow",
+      "pt": "Perseguindo a sombra da lua"
+    },
+    "explanation": {
+      "en": "Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to record eclipse data from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground. This view from the cockpit, taken from an inflight video, captures the solar corona emerging at the beginning of totality. The sky appears dark in the shadow of the Moon. Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun. But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Perseguindo a sombra de uma Lua Nova, a aeronave de pesquisa de alta altitude WB-57F da NASA subiu aos céus da costa da Islândia em 12 de agosto para observar um eclipse solar total. A 50.000 pés, a aeronave foi pilotada ao longo do caminho precisamente determinado da totalidade para maximizar o seu tempo na sombra da Lua. Um conjunto de câmeras de alta resolução a bordo foi capaz de registrar dados de eclipses acima das nuvens, poeira e vapor de água atmosférico que interferem nas observações feitas mais próximas do solo. Esta vista da cabine, tirada de um vídeo de voo, captura a coroa solar emergindo no início da totalidade. O céu parece escuro na sombra da Lua. Vênus brilha à esquerda do centro no quadro do vídeo, enquanto Júpiter e Mercúrio são visíveis à direita do Sol eclipsado. Mas o céu brilha ao longo do horizonte distante abaixo, além do alcance da sombra da Lua.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-04",
     "title": {
       "en": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-08-03",
-    "title": {
-      "en": "Vaporizing Meteor Photobombs the Lacerta Nebula",
-      "pt": "Vaporização de meteoros fotobombas na nebulosa Lacerta"
-    },
-    "explanation": {
-      "en": "What's happening to this meteor? This bright meteor streak appeared and disappeared quickly during a long exposure of the Great Lacerta Nebula, seen faintly in red toward the center of the image. The meteoroid, likely a small pebble, creates its glow partly by heating and exciting surrounding air in Earth's atmosphere, but itself vaporizes and leaves wind-blown gas and dust with colors that give clues to its composition.  The featured image was captured last month from Death Valley Observatories in Nevada, USA.  This month, though, is particularly good for seeing meteors. Presently there are three meteor showers ongoing, although they are currently competing for visibility with the glow of a bright gibbous Moon.  The most active of these showers, the Perseids, will be busiest in about 10 days -- after the Moon has dimmed considerably.  This year, the Perseids peak nearly coincides with not only a new Moon, but, from some locations, one that totally eclipses the Sun.    Sky Surprise: What picture did APOD feature on your birthday? (after 1995)",
-      "pt": "O que está acontecendo com este meteoro? Esta brilhante faixa de meteoro apareceu e desapareceu rapidamente durante uma longa exposição da Grande Nebulosa Lacerta, vista fracamente em vermelho no centro da imagem. O meteoróide, provavelmente um pequeno seixo, cria o seu brilho em parte aquecendo e excitando o ar circundante na atmosfera da Terra, mas ele próprio vaporiza e deixa gás e poeira soprados pelo vento com cores que dão pistas sobre a sua composição.  A imagem em destaque foi capturada no mês passado nos Observatórios do Vale da Morte em Nevada, EUA.  Este mês, porém, é particularmente bom para ver meteoros. Atualmente há três chuvas de meteoros em andamento, embora elas estejam atualmente competindo pela visibilidade com o brilho de uma Lua gibosa e brilhante.  A mais ativa dessas chuvas, as Perseidas, estará mais movimentada em cerca de 10 dias – depois que a Lua tiver escurecido consideravelmente.  Este ano, o pico das Perseidas quase coincide não apenas com uma Lua nova, mas, em alguns locais, com uma que eclipsa totalmente o Sol.    Sky Surprise: Que foto o APOD apresentou no seu aniversário? (depois de 1995)"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/MeteorGecko_Burnett_4944.jpg",
-    "copyright": "Tom Burnett"
   }
 ]
