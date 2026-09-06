@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-06",
+    "title": {
+      "en": "Pluto in Enhanced Color",
+      "pt": "Plutão em cores aprimoradas"
+    },
+    "explanation": {
+      "en": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.",
+      "pt": "Plutão é mais colorido do que podemos ver. Dados coloridos e imagens de alta resolução do planeta anão mais famoso do nosso Sistema Solar, obtidos pela sonda robótica New Horizons durante o seu sobrevôo em julho de 2015, foram combinados digitalmente para fornecer uma visão colorida aprimorada deste mundo antigo que ostenta uma superfície inesperadamente jovem. A imagem colorida aprimorada apresentada não é apenas esteticamente bonita, mas também cientificamente útil, tornando visualmente distintas regiões de superfície com composições químicas diferentes. Por exemplo, o Tombaugh Regio, de cor clara e em forma de coração, no canto inferior direito, é claramente mostrado aqui como sendo divisível em duas regiões que são geologicamente diferentes, com o lobo mais à esquerda, o Sputnik Planitia, também parecendo incomumente liso. Depois de Plutão, a New Horizons continuou, passando pelo asteróide Arrokoth em 2019 com velocidade suficiente para escapar completamente do nosso Sistema Solar."
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-05",
     "title": {
       "en": "Chasing the Moon's Shadow",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
     "copyright": "Brad Croslin, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-08-04",
-    "title": {
-      "en": "Curious Cometary Knots in the Helix Nebula",
-      "pt": "Curiosos nós cometários na nebulosa Helix"
-    },
-    "explanation": {
-      "en": "What causes unusual knots of gas and dust in planetary nebulas?  Seen also in the Ring Nebula, the Dumbbell Nebula and NGC 2392, the knots' existence was not initially predicted, and their origins are still not well understood.  Pictured here is a fascinating image of part of the Helix Nebula by the James Webb Space Telescope showing tremendous detail in infrared light. The cometary knots have masses similar to the Earth but have sizes typically several times the orbit of Pluto.  One hypothesis for the fragmentation and evolution of the knots includes existing gas being driven out by a less dense but highly energetic stellar wind of the central evolving star.  The Helix Nebula is one of the closest examples of a planetary nebula created at the end of the life of a Sun-like star.  Given a technical designation of NGC 7293, the Helix Nebula lies about 650 light-years away towards the constellation of Water Carrier (Aquarius).   Open Science: Browse 4,000+ codes in the Astrophysics Source Code Library",
-      "pt": "O que causa nós incomuns de gás e poeira em nebulosas planetárias?  Vistos também na Nebulosa do Anel, na Nebulosa do Haltere e na NGC 2392, a existência dos nós não foi inicialmente prevista e as suas origens ainda não são bem compreendidas.  Na foto aqui está uma imagem fascinante de parte da Nebulosa Hélice feita pelo Telescópio Espacial James Webb, mostrando detalhes tremendos em luz infravermelha. Os nós cometários têm massas semelhantes às da Terra, mas têm tamanhos tipicamente várias vezes maiores que a órbita de Plutão.  Uma hipótese para a fragmentação e evolução dos nós inclui o gás existente sendo expulso por um vento estelar menos denso, mas altamente energético, da estrela central em evolução.  A Nebulosa Hélice é um dos exemplos mais próximos de uma nebulosa planetária criada no final da vida de uma estrela semelhante ao Sol.  Dada a designação técnica de NGC 7293, a Nebulosa Hélice fica a cerca de 650 anos-luz de distância, em direção à constelação do Portador de Água (Aquário).   Ciência Aberta: Navegue por mais de 4.000 códigos na Biblioteca de Código-Fonte de Astrofísica"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/HelixKnots_JWST_2000.jpg",
-    "copyright": null
   }
 ]
