@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-07",
+    "title": {
+      "en": "The Pelican Nebula in Gas, Dust, and Stars",
+      "pt": "A Nebulosa Pelicano em Gás, Poeira e Estrelas"
+    },
+    "explanation": {
+      "en": "The Pelican Nebula is slowly being transformed.  IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust.  The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a particularly active mix of star formation and evolving gas clouds.  The light from young energetic stars is slowly transforming the cold gas to hot gas, with the advancing boundary between the two, known as an ionization front, visible in bright orange on the upper right. Particularly dense tentacles of cold gas remain.  Millions of years from now, the Pelican Nebula, bounded by dark nebula LDN 935, might no longer be known as the Pelican, as the balance and placement of stars and gas will surely leave something that appears completely different.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "A Nebulosa Pelicano está sendo lentamente transformada.  IC 5070 (uma designação oficial) está separada da maior nebulosa da América do Norte por uma nuvem molecular cheia de poeira escura.  A imagem profunda de Utah, EUA, incorpora 25 horas de exposição e traz grandes detalhes dessa poeira filamentar. A Nebulosa Pelicano recebe muitos estudos porque é uma mistura particularmente ativa de formação de estrelas e nuvens de gás em evolução.  A luz emitida por estrelas jovens e energéticas está lentamente a transformar o gás frio em gás quente, com o avanço da fronteira entre os dois, conhecido como frente de ionização, visível em laranja brilhante no canto superior direito. Restam tentáculos particularmente densos de gás frio.  Daqui a milhões de anos, a Nebulosa do Pelicano, delimitada pela nebulosa escura LDN 935, poderá não ser mais conhecida como Pelicano, pois o equilíbrio e a colocação das estrelas e do gás certamente deixarão algo que parecerá completamente diferente.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/Pelican_Killion_4800.jpg",
+    "copyright": "Mark Killion"
+  },
+  {
     "date": "2026-09-06",
     "title": {
       "en": "Pluto in Enhanced Color",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-08-05",
-    "title": {
-      "en": "Spokes on Saturn's B Ring",
-      "pt": "Raios no Anel B de Saturno"
-    },
-    "explanation": {
-      "en": "Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!",
-      "pt": "Não se assuste com os raios fantasmagóricos de Saturno! Hoje apresentamos um timelapse de quase duas horas de Saturno e seus anéis girando para frente e para trás. Um dia em Saturno dura apenas 10 horas, então duas horas de observação cobrem uma boa parte de sua rotação. Se você olhar de perto, uma sombra macabra aparece e desaparece enquanto o anel B de Saturno gira. Décadas de observação com a Voyager 2, Cassini e Hubble mostram que a aparência dos raios de Saturno varia de acordo com as estações do planeta. Tal como a Terra, o eixo de rotação de Saturno é inclinado em comparação com o plano da sua órbita em torno do Sol. Durante o equinócio de Saturno, os anéis estão menos inclinados em relação ao Sol e o planeta recebe luz solar e vento solar distribuídos de forma mais uniforme. Embora a sua origem ainda seja incerta, os raios de Saturno podem ser sombras e reflexos de poeira e gelo levitando acima dos anéis, causados ​​por interações eletromagnéticas entre o vento solar e o campo magnético do planeta.   Encontre céus escuros e olhe para cima neste mês de agosto para testemunhar a chuva de meteoros Perseidas desinibida pela Lua!"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif",
-    "copyright": "Brad Croslin, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
