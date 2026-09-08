@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-08",
+    "title": {
+      "en": "Hubble: Decagon Around Saturn's South Pole",
+      "pt": "Hubble: Decágono em torno do Pólo Sul de Saturno"
+    },
+    "explanation": {
+      "en": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s.  Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud pattern around the South Pole: a decagon (10 sides).  The geometric boundaries are possibly caused by waves when the fast-moving gas away from the poles interacts with slower-moving gas closer to the poles.  In the featured image composite by the Hubble taken last year, the South Pole of Saturn is marked by an X and surrounded by bands of circulating clouds.  The decagon appears most prominent in the dark inner regions.  The northern hexagon has proven stable for over 40 years, while the stability of the southern decagon will surely remain a topic of research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Por que os pólos de Saturno são geométricos? Sabe-se que o Pólo Norte de Saturno está rodeado por uma nuvem hexagonal (6 lados) desde a descoberta em 1987, em dados obtidos pelas sondas Voyager da NASA, que rapidamente passaram pelo mundo anelado no início da década de 1980.  Agora, observações recentes de Saturno pelo Telescópio Espacial Hubble revelam um padrão geométrico de nuvens ligeiramente diferente em torno do Pólo Sul: um decágono (10 lados).  Os limites geométricos são possivelmente causados ​​por ondas quando o gás que se move rapidamente para longe dos pólos interage com o gás que se move mais lentamente perto dos pólos.  Na imagem composta pelo Hubble obtida no ano passado, o Pólo Sul de Saturno está marcado por um X e rodeado por faixas de nuvens circulantes.  O decágono aparece mais proeminente nas regiões internas escuras.  O hexágono norte provou ser estável durante mais de 40 anos, enquanto a estabilidade do decágono sul certamente continuará a ser um tema de investigação.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/SaturnDecagon_Hubble_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-07",
     "title": {
       "en": "The Pelican Nebula in Gas, Dust, and Stars",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
     "copyright": "Dan Bartlett"
-  },
-  {
-    "date": "2026-08-06",
-    "title": {
-      "en": "New Sharpest Image of the Sun Uncovers Instability",
-      "pt": "Nova imagem mais nítida do Sol revela instabilidade"
-    },
-    "explanation": {
-      "en": "What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.",
-      "pt": "O que mostra a nova imagem mais nítida do nosso Sol? Instabilidade. Para ser claro, um certo tipo de processo interativo denominado instabilidade Kelvin-Helmholtz (KHI). Esta instabilidade pode criar ondas e redemoinhos quando duas correntes passam uma pela outra - neste caso, correntes variáveis ​​de plasma magnético solar. Há muito tempo hipotetizado que ocorreria na superfície do Sol, as listras e redemoinhos KHI foram confirmados em imagens dramáticas de alta resolução recém-lançadas, tiradas recentemente pelo Telescópio Solar Inouye no Havaí, EUA.  A imagem em falso amarelo apresentada, na verdade tirada em azul profundo, é a imagem de maior resolução do Sol em luz visível. Ela se estende pelo raio da Terra, mas seus detalhes mais finos são do tamanho de uma cidade.  São visíveis vários topos lisos de grânulos solares mutáveis, enquanto descobriu-se que as bordas das estruturas semelhantes a flores abrigam vários redemoinhos KHI.  Pesquisas futuras podem investigar como o KHI ajuda a mover energia, campos magnéticos e pode até aquecer a coroa solar circundante."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg",
-    "copyright": null
   }
 ]
