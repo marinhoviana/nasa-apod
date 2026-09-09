@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-09",
+    "title": {
+      "en": "Witness XZ Andromedae Wink",
+      "pt": "Testemunha XZ Andromedae Wink"
+    },
+    "explanation": {
+      "en": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter companion. Analysis of several XZ Andromedae light curves indicates there may be two other stars orbiting the system. This particular light curve was created with Citizen Astronomy, an open-source software for differential photometry. The software takes the difference in brightness between a target and comparison star and traces its behavior over time. This technique reduces most variations from the instrument and Earth’s atmosphere. In addition to eclipsing binaries, this analysis is useful for studying transiting exoplanets, accreting black holes, supernovae, and many more time-varying astronomical phenomena. Astrophotographers: try it out on your own data!",
+      "pt": "Esta estrela está piscando para nós? O objeto central da animação de hoje não é uma, mas duas estrelas. XZ Andromedae, indicado pelas linhas em negrito, é um binário eclipsante do tipo Algol com uma órbita quase lateral da perspectiva da Terra. A curva de luz inferior mostra a quantidade de luz do sistema que diminui e aumenta de brilho à medida que a estrela mais fria eclipsa sua companheira mais quente e brilhante. A análise de várias curvas de luz XZ Andromedae indica que pode haver duas outras estrelas orbitando o sistema. Esta curva de luz específica foi criada com Citizen Astronomy, um software de código aberto para fotometria diferencial. O software pega a diferença de brilho entre uma estrela alvo e uma estrela de comparação e rastreia seu comportamento ao longo do tempo. Esta técnica reduz a maioria das variações do instrumento e da atmosfera da Terra. Além dos binários eclipsantes, esta análise é útil para estudar exoplanetas em trânsito, buracos negros em acreção, supernovas e muitos outros fenômenos astronômicos que variam no tempo. Astrofotógrafos: experimentem com seus próprios dados!"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/xz_and.mp4",
+    "copyright": null
+  },
+  {
     "date": "2026-09-08",
     "title": {
       "en": "Hubble: Decagon Around Saturn's South Pole",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg",
     "copyright": "Steven Gilbert"
-  },
-  {
-    "date": "2026-08-08",
-    "title": {
-      "en": "A Messier Moment for Tempel 2",
-      "pt": "Um momento mais confuso para o Tempel 2"
-    },
-    "explanation": {
-      "en": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th century astronomer kept a list of objects he observed, now his famous Messier Catalogue of Nebulae and Star Clusters, which did not move from night to night against the background stars and so were not the comets he was hunting for. So the famous comet hunter would get the correct answer too, even though his telescope would show both 10P/Tempel 2 and distant star cluster as similar looking faint and fuzzy objects in his field of view. Recorded on July 29, this modern telescopic image captures periodic comet Tempel 2 as it briefly swept close on the sky to M30. While the periodic comet's faint, narrow, orbital dust trail seems to pierce the globular star cluster, Tempel 2 was a mere 3.5 light-minutes away. Messier 30 is some 28,000 light-years distant.",
-      "pt": "Qual destes não é um cometa? Você adivinhou – o da direita é um aglomerado de estrelas globulares. O coma esverdeado difuso do cometa periódico 10P/Tempel 2 está à esquerda do quadro. Na verdade, o aglomerado globular de estrelas é Messier 30, também conhecido como M30, ou a 30ª entrada no catálogo do astrônomo Charles Messier de coisas que não são cometas. O conhecido astrônomo do século XVIII manteve uma lista de objetos que observou, agora seu famoso Catálogo Messier de Nebulosas e Aglomerados de Estrelas, que não se moviam noite a noite contra as estrelas de fundo e, portanto, não eram os cometas que ele procurava. Assim, o famoso caçador de cometas também obteria a resposta correta, embora o seu telescópio mostrasse tanto o 10P/Tempel 2 como o aglomerado estelar distante como objetos tênues e difusos de aparência semelhante no seu campo de visão. Gravada em 29 de julho, esta imagem telescópica moderna captura o cometa periódico Tempel 2 enquanto ele se aproximava brevemente do céu até M30. Embora o rastro fraco e estreito de poeira orbital do cometa periódico pareça perfurar o aglomerado globular de estrelas, o Tempel 2 estava a apenas 3,5 minutos-luz de distância. Messier 30 está a cerca de 28.000 anos-luz de distância."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett600c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/10P_Tempel2_Globular_M30_20260729_DEBartlett.jpg",
-    "copyright": "Dan Bartlett"
   }
 ]
