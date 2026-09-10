@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-10",
+    "title": {
+      "en": "LDN 1295: The Giraffe Nebula",
+      "pt": "LDN 1295: A Nebulosa da Girafa"
+    },
+    "explanation": {
+      "en": "What does this image look like to you?   Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead).   The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia).   It is an object in the Lynds Catalogue of Dark Nebulas, compiled in 1962 by American astronomer Beverly Lynds, a pioneer for women in astronomy and astrophysics.   Dark nebulas are interstellar clouds of dust and gas that block the visible light of the stars behind them.   These nebulas are often faint and challenging targets for astrophotographers.   Why do we see animal shapes and faces in nebulas, clouds, and pretty much everywhere?   It is due to pareidolia, our tendency to look for familiar patterns.   Pareidolia may provide animals with an evolutionary advantage, for example in identifying (and avoiding) predators.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Como é essa imagem para você?   Muitos veem uma girafa voltada para a direita, com o pescoço esticado para cima e pernas longas no meio do passo (mas alguns podem ver um esquilo).   A imagem em destaque mostra LDN 1295, também chamada de Nebulosa da Girafa, na constelação da mítica rainha da Etiópia (Cassiopeia).   É um objeto do Catálogo de Nebulosas Escuras de Lynds, compilado em 1962 pela astrônoma americana Beverly Lynds, uma pioneira para mulheres na astronomia e astrofísica.   Nebulosas escuras são nuvens interestelares de poeira e gás que bloqueiam a luz visível das estrelas atrás delas.   Estas nebulosas são frequentemente alvos fracos e desafiadores para os astrofotógrafos.   Por que vemos formas e rostos de animais em nebulosas, nuvens e em praticamente todos os lugares?   Isso se deve à pareidolia, nossa tendência de procurar padrões familiares.   A pareidolia pode proporcionar aos animais uma vantagem evolutiva, por exemplo, na identificação (e evitação) de predadores.     O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/LDN1295_giraffe.jpg",
+    "copyright": "Alessandro Merga,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-09-09",
     "title": {
       "en": "Witness XZ Andromedae Wink",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
     "copyright": "Alexandre Trentini"
-  },
-  {
-    "date": "2026-08-09",
-    "title": {
-      "en": "Contemplating the Sun",
-      "pt": "Contemplando o Sol"
-    },
-    "explanation": {
-      "en": "Have you contemplated your home star recently?  Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below.  This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded on the unusual event to interested gatherers.  Also, faintly visible on the Sun's disk, just to the lower right of the dark Moon's disk, is a group of sunspots.  A new solar eclipse will occur this week and give many people in northern North America, Europe, and northwestern Africa a new chance to contemplate a partially eclipsed Sun. A thin swath of Earth from Greenland to Portugal will further experience a total solar eclipse. An open question is whether any meteors from the peaking Perseids will be visible during totality.",
-      "pt": "Você contemplou sua estrela natal recentemente?  Em destaque aqui, um Sol parcialmente eclipsado no canto superior esquerdo pela Lua também é visto eclipsado por terráqueos contemplando o eclipse abaixo.  Este espetacular conjunto de silhuetas foi tirado em 2012 da Área de Recreação Nacional de Glen Canyon, perto de Page, Arizona, EUA, onde guardas florestais e astrônomos expuseram o evento incomum para colecionadores interessados.  Além disso, vagamente visível no disco do Sol, logo na parte inferior direita do disco escuro da Lua, está um grupo de manchas solares.  Um novo eclipse solar ocorrerá esta semana e dará a muitas pessoas no norte da América do Norte, na Europa e no noroeste da África uma nova chance de contemplar um Sol parcialmente eclipsado. Uma fina faixa da Terra, da Groenlândia a Portugal, experimentará ainda mais um eclipse solar total. Uma questão em aberto é se algum meteoro do pico das Perseidas será visível durante a totalidade."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/sunsilhouettes_gilbert_1024.jpg",
-    "copyright": "Steven Gilbert"
   }
 ]
