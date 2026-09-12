@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-12",
+    "title": {
+      "en": "Apollo 11: Catching Some Sun",
+      "pt": "Apollo 11: pegando um pouco de sol"
+    },
+    "explanation": {
+      "en": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the Solar Wind Composition Experiment. Exposed facing the Sun, the foil trapped particles streaming outward in the solar wind, catching a sample of material from the Sun itself. Along with 22 kilograms of moon rocks and lunar soil samples, the solar wind collector was returned for analysis in earthbound laboratories.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "A luz solar intensa brilha enquanto longas sombras escuras marcam esta imagem da superfície da Lua. Foi tirada em 20 de julho de 1969, pelo astronauta da Apollo 11, Neil Armstrong, o primeiro a caminhar na superfície lunar. Na foto está o módulo lunar da missão, o Eagle, e o piloto do módulo lunar Buzz Aldrin. Aldrin está desenrolando uma longa folha de papel alumínio, também conhecida como Experimento de Composição do Vento Solar. Exposta de frente para o Sol, a folha prendeu partículas que fluíam para fora no vento solar, capturando uma amostra de material do próprio Sol. Junto com 22 quilogramas de rochas lunares e amostras de solo lunar, o coletor de vento solar foi devolvido para análise em laboratórios terrestres.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/AS11-40-5872HR.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-10",
     "title": {
       "en": "LDN 1295: The Giraffe Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors.jpg",
     "copyright": "Marcin Rosadziński,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-08-11",
-    "title": {
-      "en": "Six Moons of Saturn",
-      "pt": "Seis Luas de Saturno"
-    },
-    "explanation": {
-      "en": "How many moons does Saturn have? While the total will likely continue to grow, as of June 2026 the ringed gas giant had 293 confirmed moons. That's easily more than any other planet of the Solar System, including ruling gas giant Jupiter with a mere 115 confirmed moons. Most of Saturn's known moons are small, irregular satellites. Many are only few kilometers to a fraction of a kilometer across and grouped in tilted outer orbits. Six of its largest satellites can be seen here, though, in this sharp telescopic Saturnian family portrait taken on August 5. Larger than Earth's Moon and even slightly larger than inner planet Mercury, Titan, with a diameter of 5,150 kilometers, is at lower right. You can also spot icy major moons Mimas, Tethys, Enceladus, Dione, and Rhea in the frame. Saturn's first known natural satellite, Titan was discovered in 1655 by Dutch astronomer Christiaan Huygens. During the space age Voyager and Cassini discoveries have added to the swelling ranks of Saturnian moons.  NASA Stream: August 12 Total Solar Eclipse.",
-      "pt": "Quantas luas Saturno tem? Embora o total provavelmente continue a crescer, em junho de 2026 o gigante gasoso anelado tinha 293 luas confirmadas. Isso é facilmente mais do que qualquer outro planeta do Sistema Solar, incluindo o gigante gasoso Júpiter, com apenas 115 luas confirmadas. A maioria das luas conhecidas de Saturno são satélites pequenos e irregulares. Muitos têm apenas alguns quilômetros a uma fração de quilômetro de diâmetro e estão agrupados em órbitas externas inclinadas. No entanto, seis dos seus maiores satélites podem ser vistos aqui, neste nítido retrato telescópico da família Saturniana, tirado em 5 de agosto. Maior que a Lua da Terra e até um pouco maior que o planeta interior Mercúrio, Titã, com um diâmetro de 5.150 quilómetros, está no canto inferior direito. Você também pode localizar as principais luas geladas Mimas, Tethys, Encélado, Dione e Rhea no quadro. O primeiro satélite natural conhecido de Saturno, Titã, foi descoberto em 1655 pelo astrônomo holandês Christiaan Huygens. Durante a era espacial, as descobertas da Voyager e da Cassini aumentaram o número crescente de luas de Saturno.  Transmissão da NASA: Eclipse Solar Total de 12 de agosto."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08-05-0609_7-SaturnSystem_c.jpg",
-    "copyright": "Alexandre Trentini"
   }
 ]
