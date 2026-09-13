@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-13",
+    "title": {
+      "en": "Comet NEOWISE Rising over the Adriatic Sea",
+      "pt": "Cometa NEOWISE surgindo sobre o Mar Adriático"
+    },
+    "explanation": {
+      "en": "This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Essa visão valeu a pena sair da cama cedo.  Há pouco mais de quatro anos, o cometa C/2020 F3 (NEOWISE) surgiu antes do amanhecer, para deleite dos entusiastas do céu do norte que acordaram tão cedo. Antes do nascer do sol de 8 de julho, o fotógrafo em destaque conseguiu capturar de forma dramática um dos poucos cometas visíveis a olho nu neste século, um intruso do interior do Sistema Solar que se tornou conhecido como o Grande Cometa de 2020. O vídeo resultante detalhou o cometa NEOWISE da Itália subindo sobre o Mar Adriático. O vídeo de lapso de tempo em destaque combina mais de 240 imagens tiradas em 30 minutos.  O cometa foi visto subindo através de um primeiro plano de nuvens noctilucentes brilhantes e onduladas, e diante de um fundo de estrelas distantes.  O cometa NEOWISE permaneceu inesperadamente brilhante durante mais de um mês, com as suas caudas de iões e poeira a emanarem de um núcleo com cerca de cinco quilómetros de diâmetro.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "video",
+    "url": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4",
+    "copyright": "Paolo Girotti"
+  },
+  {
     "date": "2026-09-12",
     "title": {
       "en": "Apollo 11: Catching Some Sun",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg",
     "copyright": "Ruiyu Zhang, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-08-12",
-    "title": {
-      "en": "Perseids Over a little Planet",
-      "pt": "Perseidas sobre um pequeno planeta"
-    },
-    "explanation": {
-      "en": "It looks like a view from the Little Prince's planet.   The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland.   Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant.     The Perseids are easily visible and quite popular in the Northern Hemisphere summer. (Watching meteor showers in the winter is less convenient for a good reason).     This year they are expected to offer an even more dazzling spectacle than usual, because the peak coincides with a new moon.   The 2026 Perseid meteor shower will peak tonight with as many as 50-100 meteors per hour, when the Earth's path crosses through debris left behind by Comet Swift-Tuttle.   Typically, the best times for seeing the meteors are between midnight and pre-dawn.   You won't need binoculars to see the meteors, but a lawn chair and a dark sky location help.       There is total solar eclipse happening today! See here if you are in the path of totality.",
-      "pt": "Parece uma vista do planeta do Pequeno Príncipe.   A imagem apresentada é um retrocesso à chuva de meteoros Perseidas de 2024, cercada nesta projeção pelas montanhas Bieszczady, na Polônia.   Visível no céu está o arco da Via Láctea, junto com diversas nebulosas em vermelho e mais de uma centena de meteoros apontando para o radiante.     As Perseidas são facilmente visíveis e bastante populares no verão do Hemisfério Norte. (Assistir a chuvas de meteoros no inverno é menos conveniente por um bom motivo).     Este ano deverão oferecer um espetáculo ainda mais deslumbrante do que o habitual, porque o pico coincide com a lua nova.   A chuva de meteoros Perseidas de 2026 atingirá o pico esta noite com até 50-100 meteoros por hora, quando o caminho da Terra cruzar os destroços deixados pelo cometa Swift-Tuttle.   Normalmente, os melhores horários para ver os meteoros são entre meia-noite e antes do amanhecer.   Você não precisará de binóculos para ver os meteoros, mas uma cadeira de jardim e uma localização no céu escuro ajudam.       Há eclipse solar total acontecendo hoje! Veja aqui se você está no caminho da totalidade."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/A_Planet_of_Meteors.jpg",
-    "copyright": "Marcin Rosadziński,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
