@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-14",
+    "title": {
+      "en": "Where Your Elements Came From",
+      "pt": "De onde vieram seus elementos"
+    },
+    "explanation": {
+      "en": "The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "O hidrogênio em seu corpo e presente em cada molécula de água veio do Big Bang.  Não existem outras fontes apreciáveis ​​de hidrogênio no universo.  O carbono do seu corpo foi produzido pela fusão nuclear no interior das estrelas, assim como o oxigênio.  Grande parte do ferro do seu corpo foi produzida durante supernovas de estrelas que ocorreram há muito tempo e em lugares distantes.  O ouro em suas joias provavelmente foi feito de estrelas de nêutrons durante colisões que podem ter sido visíveis como explosões de raios gama de curta duração ou eventos de ondas gravitacionais. Elementos como o fósforo e o cobre estão presentes no nosso corpo apenas em pequenas quantidades, mas são essenciais para o funcionamento de toda a vida conhecida.  A tabela periódica apresentada é codificada por cores para indicar a melhor estimativa da humanidade quanto à origem nuclear de todos os elementos conhecidos.  Os locais de criação nuclear de alguns elementos, como o cobre, não são muito bem conhecidos e são tópicos contínuos de pesquisa observacional e computacional.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_1080.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-13",
     "title": {
       "en": "Comet NEOWISE Rising over the Adriatic Sea",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg",
     "copyright": "On August 12"
-  },
-  {
-    "date": "2026-08-13",
-    "title": {
-      "en": "Total Solar Eclipse Over Spain",
-      "pt": "Eclipse solar total sobre a Espanha"
-    },
-    "explanation": {
-      "en": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major total solar eclipse since 1905. Those witnessing totality may experience a chill in the air, the quieting of birds, the confused chirps of insects, and the shared awe of many. It’s the corona’s time to shine as the Sun’s bright disk is blocked by the Moon. Among other reasons to study eclipses, they help scientists understand why the corona is millions of degrees hotter than the Sun’s surface. Enthusiastic citizens can contribute to these studies by recording how wildlife responds, imaging the corona, and monitoring air temperature and clouds.  More spectacular eclipse images: Solar Eclipse of 2026 August 12",
-      "pt": "Em 12 de agosto de 2026, a Lua eclipsou totalmente o Sol e lançou a sua sombra sobre a Sibéria, Gronelândia, Islândia, Espanha e Portugal. A imagem de hoje apresenta dois eclipses solares totais vistos de Saragoça, Espanha, um sobre a Catedral-Basílica de Nossa Senhora do Pilar e outro refletido no rio Ebro. Por alguns momentos, Espanha assistiu ao seu primeiro grande eclipse solar total desde 1905. Aqueles que testemunham a totalidade podem sentir um frio no ar, o silêncio dos pássaros, o chilrear confuso dos insectos e a admiração partilhada por muitos. É hora da coroa brilhar, pois o disco brilhante do Sol é bloqueado pela Lua. Entre outras razões para estudar eclipses, ajudam os cientistas a compreender porque é que a coroa é milhões de graus mais quente que a superfície do Sol. Cidadãos entusiasmados podem contribuir para estes estudos registando como a vida selvagem responde, criando imagens da coroa e monitorizando a temperatura do ar e das nuvens.  Imagens de eclipse mais espetaculares: Eclipse Solar de 2026, 12 de agosto"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse_900.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/total_solar_eclipse.jpg",
-    "copyright": "Ruiyu Zhang, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
