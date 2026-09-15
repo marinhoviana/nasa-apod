@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-15",
+    "title": {
+      "en": "A Daytime Eclipse: Moon Occults Venus",
+      "pt": "Um eclipse diurno: a lua oculta Vênus"
+    },
+    "explanation": {
+      "en": "There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Havia algo por trás das nuvens.  Após uma inspeção mais detalhada, era a Lua, que foi difícil de ver ontem por volta do meio-dia acima da pequena vila de Cessy, na França.  Mas logo, não era só a Lua. Como esperado, um ponto brilhante apareceu de repente atrás da Lua – o planeta Vênus, bem distante.  Capturados na exposição única, ambos pareciam mostrar uma fase crescente.  O crescente da Lua era bastante ligeiro – com apenas cerca de 10% da sua face iluminada pelo Sol. Em contraste, o crescente de Vênus estava mais cheio – mostrando cerca de 25% de iluminação. Vênus parecia mais brilhante porque está mais próximo do Sol e porque suas nuvens são mais reflexivas do que a escura superfície lunar. A ocultação de Vênus pela Lua é visível apenas em cerca de 10% da Terra, mas no evento de ontem, mesmo a maior parte disso ocorreu durante o dia.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg",
+    "copyright": "Arnaud Mariat"
+  },
+  {
     "date": "2026-09-14",
     "title": {
       "en": "Where Your Elements Came From",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
     "copyright": "Clear Skies"
-  },
-  {
-    "date": "2026-08-14",
-    "title": {
-      "en": "Total Solar Eclipse from Greenland",
-      "pt": "Eclipse Solar Total da Groenlândia"
-    },
-    "explanation": {
-      "en": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a total solar eclipse. After dodging the weather by sea and making a landing along Rype Fjord on the Greenland east coast (at 71.07055N, 27.71252W), this hard-won snapshot was captured at 17:33:26 UTC. That's near the initial reach of clearing skies along the path of totality, so the image is likely one of the first unobstructed views of the totally eclipsed Sun. Through a break in the clouds, the stunning photo also records one of this eclipse's transient diamond rings and the magnificent solar corona emerging near the moment totality began.  More spectacular eclipse images: Solar Eclipse of 2026 August 12",
-      "pt": "Em 12 de agosto, a sombra da Lua estendeu-se para tocar nosso lindo planeta. Começando no Oceano Ártico, percorreu uma trilha estreita que conduzia a escura sombra lunar através de partes da Groenlândia, Islândia, Atlântico, Portugal e norte da Espanha. E por um momento, os habitantes da Terra que se encontraram com o céu limpo sob a sombra da Lua puderam testemunhar um eclipse solar total. Depois de evitar o clima por mar e pousar ao longo do fiorde Rype, na costa leste da Groenlândia (em 71.07055N, 27.71252W), este instantâneo arduamente conquistado foi capturado às 17:33:26 UTC. Isso está próximo do alcance inicial do céu limpo ao longo do caminho da totalidade, então a imagem é provavelmente uma das primeiras vistas desobstruídas do Sol totalmente eclipsado. Através de uma pausa nas nuvens, a foto impressionante também registra um dos anéis de diamante transitórios deste eclipse e a magnífica coroa solar emergindo perto do momento em que a totalidade começou.  Imagens de eclipse mais espetaculares: Eclipse Solar de 2026, 12 de agosto"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/TSE2026DR_Madhaven.jpeg",
-    "copyright": "On August 12"
   }
 ]
