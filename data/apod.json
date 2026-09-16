@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-16",
+    "title": {
+      "en": "Webb's View of M64",
+      "pt": "Visão de Webb do M64"
+    },
+    "explanation": {
+      "en": "Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light from surrounding newborn stars. These young stars are embedded in pink star-forming regions in the secondary Hubble-only image. M64’s inner and outer gas regions counter-rotate, creating regions of increased star formation where the two gas “currents” meet and compress. A merger between M64 and a smaller galaxy was likely the cause of the opposing motion of the outer gas. Spiral galaxies were once thought to have peaceful histories. M64 was key evidence that spiral galaxies, including the Milky Way, can and do experience mergers. Webb’s view of M64 will tell astronomers about the structure, motion, and composition of the galaxy’s dust and add context to the galaxy’s merger history and evolution.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Às vezes, onde o Hubble encontra escuridão, Webb vê luz. Um exemplo são as imagens compostas de Messier 64 (M64), uma galáxia espiral próxima com muitos nomes. A faixa escura de poeira bloqueando parcialmente seu núcleo brilhante rendeu-lhe o apelido de “Galáxia do Olho Negro”. O Mid-InfraRed Instrument (MIRI) de Webb vê essa poeira, mostrada em vermelho, à medida que absorve e reemite luz das estrelas recém-nascidas circundantes. Estas estrelas jovens estão incorporadas em regiões de formação estelar cor-de-rosa na imagem secundária apenas do Hubble. As regiões de gás interna e externa de M64 giram em contra-rotação, criando regiões de maior formação estelar onde as duas “correntes” de gás se encontram e se comprimem. Uma fusão entre M64 e uma galáxia menor foi provavelmente a causa do movimento oposto do gás exterior. Antigamente, pensava-se que as galáxias espirais tinham histórias pacíficas. M64 foi a principal evidência de que as galáxias espirais, incluindo a Via Láctea, podem e experimentam fusões. A visão de M64 de Webb contará aos astrônomos sobre a estrutura, movimento e composição da poeira da galáxia e adicionará contexto à história e evolução da fusão da galáxia.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/M64_Webb_1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/M64_Webb.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-15",
     "title": {
       "en": "A Daytime Eclipse: Moon Occults Venus",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/mwyellowstone_lane_1800.jpg",
     "copyright": "Dave Lane"
-  },
-  {
-    "date": "2026-08-15",
-    "title": {
-      "en": "Bright Perseids from Sweden",
-      "pt": "Perseidas Brilhantes da Suécia"
-    },
-    "explanation": {
-      "en": "Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful streaks through the night. Taken near the shower's peak of activity on August 12, this composite image recorded two bright perseid meteors and one meteor's watery reflection from a location near the coastal village of Grisslehamn, Sweden.  Almost as bright as Altair, brightest star on the scene, the meteors appear along with the faint, diffuse background of the Milky Way. This year, the shower's peak activity coincided with a New Moon, so perseid meteor flashes were undiminished by bright moonlight. And for many skywatchers, this night of bright perseid meteors followed their viewing of the silhouette of the New Moon in a much anticipated solar eclipse.  Growing Gallery: Solar Eclipse of 2026 August 12",
-      "pt": "Conhecida por seus meteoros brilhantes e rápidos, a Chuva de Meteoros Perseidas anual chega aos céus do planeta Terra a partir de um radiante na heróica constelação de Perseu. O popular espetáculo celestial do verão do norte é criado à medida que grãos de poeira lançados ao longo da órbita do cometa periódico 109P/Swift-Tuttle vaporizam na densa atmosfera da Terra, traçando breves, mas belos riscos durante a noite. Tirada perto do pico de atividade da chuva em 12 de agosto, esta imagem composta registrou dois brilhantes meteoros Perseidas e o reflexo aquoso de um meteoro em um local próximo à vila costeira de Grisslehamn, na Suécia.  Quase tão brilhantes quanto Altair, a estrela mais brilhante da cena, os meteoros aparecem junto com o fundo fraco e difuso da Via Láctea. Este ano, o pico de atividade da chuva coincidiu com a Lua Nova, de modo que os flashes dos meteoros Perseidas não foram diminuídos pela luz brilhante da lua. E para muitos observadores do céu, esta noite de brilhantes meteoros Perseidas seguiu-se à visualização da silhueta da Lua Nova num eclipse solar muito aguardado.  Galeria em crescimento: Eclipse solar de 2026, 12 de agosto"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/PerseidsAPOD_P-MHeden.jpg",
-    "copyright": "Clear Skies"
   }
 ]
