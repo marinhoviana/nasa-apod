@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-18",
+    "title": {
+      "en": "Messier 33: The Triangulum Galaxy",
+      "pt": "Messier 33: A Galáxia do Triângulo"
+    },
+    "explanation": {
+      "en": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy and astronomers in these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, this sharp telescopic image shows off M33's blue star clusters and pinkish star forming regions along the galaxy's loosely wound spiral arms. In fact, the cavernous NGC 604 is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick for establishing the distance scale of the Universe.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "A pequena constelação do norte, Triângulo, abriga esta magnífica galáxia espiral frontal, Messier 33. Seus nomes populares incluem Galáxia do Catavento ou apenas Galáxia do Triângulo. M33 tem mais de 50.000 anos-luz de diâmetro, o terceiro maior no Grupo Local de galáxias depois da Galáxia de Andrômeda (M31) e da nossa Via Láctea. A cerca de 3 milhões de anos-luz da Via Láctea, acredita-se que M33 seja um satélite da Galáxia de Andrômeda e os astrônomos dessas duas galáxias provavelmente teriam vistas espetaculares dos grandes sistemas estelares espirais um do outro. Quanto à vista da Via Láctea, esta imagem telescópica nítida mostra os aglomerados de estrelas azuis de M33 e as regiões rosadas de formação de estrelas ao longo dos braços espirais frouxamente enrolados da galáxia. Na verdade, a cavernosa NGC 604 é a região de formação estelar mais brilhante, vista aqui por volta das 5 horas do centro da galáxia. Tal como M31, a população de estrelas variáveis ​​bem medidas de M33 ajudou a tornar esta espiral próxima um parâmetro cósmico para estabelecer a escala de distância do Universo.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/m33m14_rasa3NM.jpg",
+    "copyright": "George Chatzifrantzis"
+  },
+  {
     "date": "2026-09-17",
     "title": {
       "en": "A Treasure Chest in the Carina Nebula",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-08-18",
-    "title": {
-      "en": "Perseids from Perseus",
-      "pt": "Perseidas de Perseu"
-    },
-    "explanation": {
-      "en": "This was a good year for the Perseids meteor shower.  A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual.  Where was the Moon?  It was busy visiting the Sun.  Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain. The Perseids occur when the Earth collides with a stream of Sun-orbiting debris cast off by Comet Swift-Tuttle. Perseid meteors, although typically only the size of a sand grain, tend to be fast and bright because Swift-Tuttle's debris orbits the Sun in a direction partly opposite Earth's orbital motion. In the featured image compilation, accumulated over several nights from Jizerka in the Czech Republic, the Perseids meteor streaks can be traced back to a single location on the sky -- its radiant in Perseus.    Gallery: Perseids Meteor Shower of 2026",
-      "pt": "Este foi um bom ano para a chuva de meteoros das Perseidas.  Um dos principais motivos foi a ausência da Lua de iluminar o céu noturno da Terra, de modo que mais meteoros eram visíveis do que o normal.  Onde estava a Lua?  Estava ocupado visitando o Sol.  Perto do pico das Perseidas, a Lua moveu-se diretamente em frente do Sol e criou um eclipse solar total visível na Groenlândia e na Espanha. As Perseidas ocorrem quando a Terra colide com uma corrente de detritos em órbita do Sol, lançada pelo cometa Swift-Tuttle. Os meteoros Perseidas, embora normalmente tenham apenas o tamanho de um grão de areia, tendem a ser rápidos e brilhantes porque os detritos do Swift-Tuttle orbitam o Sol em uma direção parcialmente oposta ao movimento orbital da Terra. Na compilação de imagens em destaque, acumuladas ao longo de várias noites em Jizerka, na República Checa, as faixas de meteoros das Perseidas podem ser rastreadas até um único local no céu – o seu radiante em Perseu.    Galeria: Chuva de meteoros das Perseidas de 2026"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/Perseids_karuk_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/Perseids_karuk_3000.jpg",
-    "copyright": "Jakub Kuřák"
   }
 ]
