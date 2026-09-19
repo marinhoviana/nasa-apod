@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-19",
+    "title": {
+      "en": "A Zodiacal Night",
+      "pt": "Uma Noite Zodiacal"
+    },
+    "explanation": {
+      "en": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for hardy stargazing and astrophotography enthusiasts. While meteors streak through the night, bright planet Jupiter appears immersed in the faint zodiacal glow near the eastern horizon. Follow the zodiacal band toward the zenith to find open star cluster M44 and a yellowish tinged planet Mars near the center of the frame. In fact, serendipitous detections of interplanetary dust by NASA's Juno spacecraft suggest Mars itself is the source of dust that back scatters sunlight and creates zodiacal light in planet Earth's night.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Também conhecida como falso amanhecer, uma faixa luminosa de luz zodiacal é capturada nesta paisagem noturna escura. A vista serena foi registrada pouco antes do início do crepúsculo astronômico durante a festa estelar de setembro na remota Reserva Hanle Dark Sky, Ladakh, Índia, planeta Terra. A cerca de 4.500 metros de altitude, a reserva do céu escuro apresenta um refúgio para os entusiastas da observação de estrelas e da astrofotografia. Enquanto os meteoros atravessam a noite, o brilhante planeta Júpiter parece imerso no fraco brilho zodiacal perto do horizonte oriental. Siga a faixa zodiacal em direção ao zênite para encontrar o aglomerado estelar aberto M44 e um planeta Marte tingido de amarelado próximo ao centro do quadro. Na verdade, detecções fortuitas de poeira interplanetária pela sonda Juno da NASA sugerem que o próprio Marte é a fonte de poeira que dispersa a luz solar e cria luz zodiacal na noite do planeta Terra.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/2026-09-09ZodiacalLightHSP.jpg",
+    "copyright": "Neelam and Ajay Talwar"
+  },
+  {
     "date": "2026-09-18",
     "title": {
       "en": "Messier 33: The Triangulum Galaxy",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa.jpeg",
     "copyright": "Eddie Sgarbossa"
-  },
-  {
-    "date": "2026-08-19",
-    "title": {
-      "en": "The Case of the Mysterious Maybe Meteor",
-      "pt": "The Case of the Mysterious Maybe Meteor"
-    },
-    "explanation": {
-      "en": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!",
-      "pt": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant point that corresponds to where the Earth is crossing a comet’s path. The object’s path might trace back to the Perseids’ radiant point in the Perseus constellation. The object trails a smaller angle on the sky than the 0.5 degree Sun and Moon, which is smaller than expected for a meteor. Its brightness does not extend much past the Sun, but a meteor burning up in the sky would not need sunlight to be seen. Perhaps the sunlight is reflecting off of the object? After cross-referencing the location, time, and point in the sky with a flight database, the culprit is found to be an airplane contrail!"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/perseids_eclipse_mystery.mp4",
-    "copyright": null
   }
 ]
