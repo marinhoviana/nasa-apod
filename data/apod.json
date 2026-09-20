@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-20",
+    "title": {
+      "en": "Analemma over the Callanish Stones",
+      "pt": "Analema sobre as Pedras de Callanish"
+    },
+    "explanation": {
+      "en": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change?  A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year.  The featured analemma was composed from images taken every few days at noon near the village of Callanish in the Outer Hebrides in Scotland, UK.  In the foreground are the Callanish Stones, a stone circle built around 2700 BC during humanity's Bronze Age.  It is not known if the placement of the Callanish Stones has or had astronomical significance.  The ultimate causes for the figure-8 shape of this and all analemmas are the tilt of the Earth axis and the ellipticity of the Earth's orbit around the Sun.  At the solstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.  Equinoxes, however, correspond to analemma middle points -- not the intersection point. In two days there will be an equinox (\"equal night\"), when day and night are equal over all of planet Earth. Many cultures celebrate a change of season at an equinox.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Se você saísse na mesma hora todos os dias e tirasse uma foto que incluísse o Sol, como a posição do Sol mudaria?  Uma resposta visual a essa pergunta é um analema, uma imagem composta tirada do mesmo local, ao mesmo tempo, ao longo de um ano.  O analema apresentado foi composto a partir de imagens tiradas a cada poucos dias ao meio-dia, perto da vila de Callanish, nas Hébridas Exteriores, na Escócia, Reino Unido.  Em primeiro plano estão as Pedras Callanish, um círculo de pedra construído por volta de 2.700 aC durante a Idade do Bronze da humanidade.  Não se sabe se a colocação das Pedras Callanish tem ou teve significado astronômico.  As causas finais para o formato da figura 8 deste e de todos os analemas são a inclinação do eixo da Terra e a elipticidade da órbita da Terra em torno do Sol.  Nos solstícios, o Sol aparecerá na parte superior ou inferior de um analema. A imagem em destaque foi tirada perto do solstício de dezembro e por isso o Sol aparece perto da parte inferior.  Os equinócios, no entanto, correspondem aos pontos médios do analema – não ao ponto de intersecção. Daqui a dois dias haverá um equinócio (“noite igual”), quando o dia e a noite serão iguais em todo o planeta Terra. Muitas culturas celebram a mudança de estação no equinócio.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/CallanishAnalemma_Petricca_1280.jpg",
+    "copyright": "Giuseppe Petricca"
+  },
+  {
     "date": "2026-09-19",
     "title": {
       "en": "A Zodiacal Night",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/eso2612b.mp4",
     "copyright": null
-  },
-  {
-    "date": "2026-08-20",
-    "title": {
-      "en": "The Elephant's Trunk in Cepheus",
-      "pt": "A Tromba do Elefante em Cepheus"
-    },
-    "explanation": {
-      "en": "Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. Top to bottom this proboscidean-like rendition reaches across an almost 1 degree wide field of view, though. That's a little less than the angular size of 2 full moons.",
-      "pt": "Como uma ilustração em uma Just So Story galáctica, a Nebulosa da Tromba do Elefante serpenteia pela região de emissão e pelo complexo de aglomerados estelares jovens IC 1396, na alta e distante constelação de Cepheus. Também conhecida como vdB 142, a tromba deste elefante cósmico tem mais de 20 anos-luz de comprimento. A visão telescópica detalhada mostra as cristas brilhantes e bolsões de poeira e gás interestelar frio que abundam na região. Mas as nuvens escuras em forma de gavinha contêm a matéria-prima para a formação de estrelas e escondem protoestrelas em seu interior. A quase 3.000 anos-luz de distância, o relativamente fraco complexo IC 1396 cobre uma grande região no céu, abrangendo mais de 5 graus. No entanto, de cima para baixo, esta versão semelhante à proboscídica alcança um campo de visão de quase 1 grau de largura. Isso é um pouco menos que o tamanho angular de 2 luas cheias."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa1024.jpeg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/IMG_5201_sgarbossa.jpeg",
-    "copyright": "Eddie Sgarbossa"
   }
 ]
