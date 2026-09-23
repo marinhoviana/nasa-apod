@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-23",
+    "title": {
+      "en": "A New Lunar Crater: McGetchin",
+      "pt": "Uma nova cratera lunar: McGetchin"
+    },
+    "explanation": {
+      "en": "A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Uma cratera única apareceu na Lua! Um cometa ou asteróide aproximadamente do tamanho de uma baleia jubarte (aproximadamente 10-20 metros, 30-60 pés) caiu na Lua em algum momento entre abril e maio de 2024. O Lunar Reconnaissance Orbiter (LRO), com seu monitoramento mensal da Lua, capturou as imagens de hoje da superfície lunar antes e depois do evento. A cratera resultante, em homenagem ao cientista lunar McGetchin da era Apollo, tem dois campos de futebol de largura. Crateras deste tamanho só são esperadas uma vez a cada 132 anos! Imagens térmicas de acompanhamento revelaram uma grande mancha fria que circunda a cratera quente. Os impactos na superfície irão inchar o sedimento lunar solto, ou regolito, tornando-o menos denso e mais difícil de reter o calor. Este evento afetou uma área muito maior do que a cratera visível, o que informará a compreensão da humanidade sobre os impactos superficiais e a evolução da superfície lunar. Também nos lembra a todos que devemos ser gratos pela atmosfera da Terra.   O e-mail do APOD para envio de imagens mudou. Por favor, veja: Envios APOD.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-22",
     "title": {
       "en": "Chance Triple Alignment: Plane, Space Station, Sun",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg",
     "copyright": "Spilios Asimakopoulos"
-  },
-  {
-    "date": "2026-08-23",
-    "title": {
-      "en": "Cassini Approaches Saturn",
-      "pt": "Cassini se aproxima de Saturno"
-    },
-    "explanation": {
-      "en": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Como seria se aproximar do grande planeta Saturno? Não é preciso apenas imaginar – a sonda Cassini fez exatamente isso em 2004, registrando milhares de imagens ao longo do caminho, e centenas de milhares mais desde que entrou em órbita. Algumas das primeiras imagens da Cassini foram ajustadas digitalmente, cortadas e compiladas no vídeo inspirador que faz parte de um projeto maior de filme IMAX chamado In Saturn's Rings.  Na sequência final, Saturno se aproxima cada vez mais à medida que o nublado Titã desce abaixo. Com Saturno girando ao fundo, Cassini é a seguir retratada voando sobre Mimas, com a grande cratera Herschel claramente visível. Os majestosos anéis de Saturno então assumem o controle enquanto a Cassini cruza o fino plano dos anéis de Saturno. Sombras escuras do anel aparecem no próprio Saturno. Finalmente, a enigmática lua do gêiser de gelo Enceladus aparece à distância e é abordada assim que o videoclipe termina. Depois de mais de uma década de exploração e descoberta, a sonda Cassini ficou sem combustível em 2017 e foi direcionada para entrar na atmosfera de Saturno, onde certamente derreteu.    O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "video",
-    "url": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
-    "hdurl": "https://player.vimeo.com/video/11386048#t=0m58s?color=8BA0FF&portrait=0",
-    "copyright": "Cassini Imaging Team,, ISS,, JPL,, NASA,, ESA,, S. Van Vuuren et al.;, Music:, Adagio for Strings , (NY Philharmonic)"
   }
 ]
