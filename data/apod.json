@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-24",
+    "title": {
+      "en": "The Ghosts of Five Supernovas",
+      "pt": "Os fantasmas de cinco supernovas"
+    },
+    "explanation": {
+      "en": "The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Os fantasmas de cinco supernovas assombram esta imagem extraordinária.   Foi adquirido no Observatório Oukaïmeden, em Marrocos, com aproximadamente 200 horas de observações e mostra uma grande mancha do céu, equivalente à área de mil luas cheias lado a lado, na constelação de Auriga (o cocheiro).   Da esquerda para a direita, os cinco remanescentes de supernova visíveis em todo o campo são G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, a Nebulosa do Espaguete) e G178.2−4.2.   Eles estão destacados na imagem anotada, juntamente com o aglomerado aberto M37 e a Nebulosa do Girino.   À medida que cada explosão se expandia para o espaço, criava uma camada crescente de gás chocado e delicadas estruturas filamentares mostradas em vermelho (hidrogênio) e azul (oxigênio), respectivamente.    Essas antigas explosões estelares aconteceram de forma independente; eles estão a várias distâncias, até vários milhares de anos-luz de distância da Terra, e têm idades estimadas em até dezenas de milhares de anos.   Os primeiros humanos podem tê-las testemunhado como novas estrelas brilhantes, desaparecendo ao longo de semanas ou meses.     O e-mail do APOD para envio de imagens foi alterado. Por favor, veja: Envios APOD.    O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_1000.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg",
+    "copyright": "Stephane Vetter, Yann Sainty,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
+  },
+  {
     "date": "2026-09-23",
     "title": {
       "en": "A New Lunar Crater: McGetchin",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/EarthShadow_Martin_4000.jpg",
     "copyright": "Tim Martin"
-  },
-  {
-    "date": "2026-08-24",
-    "title": {
-      "en": "Comet 220P in Outburst",
-      "pt": "Cometa 220P em explosão"
-    },
-    "explanation": {
-      "en": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "O cometa 220P é inesperadamente brilhante. Normalmente, o cometa periódico 220P/McNaught é tão escuro que para vê-lo é necessário um telescópio. Duas explosões surpreendentes este ano, no entanto, tornaram-no cerca de 20.000 vezes mais brilhante do que o normal, de modo que agora é visível com binóculos e exposições de câmaras de longa duração. Como esperado, o Cometa 220P continua a orbitar o Sol entre Marte e Júpiter com um período de mais de 5 anos.  A exposição de longa duração apresentada, tirada há 10 dias na África do Sul, mostra a cabeça verde brilhante do cometa e a curta cauda de poeira.  As razões para as impressionantes explosões do cometa 220P são desconhecidas, mas podem ser causadas pela liberação de gás acumulado no subsolo ou por terremotos cometários.  O cometa 220P passará a cerca de uma distância Terra-Sol da Terra em Outubro, após o que se espera que desapareça rapidamente à medida que inicia o seu regresso à parte mais distante da sua órbita.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg",
-    "copyright": "Spilios Asimakopoulos"
   }
 ]
