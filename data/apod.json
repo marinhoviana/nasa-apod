@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-26",
+    "title": {
+      "en": "Mirrored Meteor and Milky Way",
+      "pt": "Meteoro Espelhado e Via Láctea"
+    },
+    "explanation": {
+      "en": "On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing celestial scene is the 23 meter diameter mirror of the prototype Large-Sized Telescope (LST-1). LST-1 is the first telescope constructed at the northern hemisphere site of the innovative Cherenkov Telescope Array Observatory. With 198 hexagonal mirror segments and a large, high-efficiency, pixelized camera, LST-1 is designed to detect extremely brief, atmospheric visible light flashes. Lasting about a billionth of a second, the visible light flashes are triggered by energetic gamma-rays from cosmic sources such as distant active galaxies and gamma-ray bursts. Of course, on that night some individual mirror segments of LST-1 also reflected the atmospheric flash of the bright perseid meteor.  APOD's email for image submissions has changed. Please see: APOD Submissions. APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Em 15 de agosto, este meteoro perseida atravessou o céu noturno sobre o Observatório del Roque de los Muchachos em La Palma, Ilhas Canárias, Espanha. A brilhante e colorida trilha de meteoros foi capturada próximo à Via Láctea central, cujas nuvens escuras de poeira interestelar e luz estelar luminosa alcançam acima do horizonte. No primeiro plano desta tentadora cena celestial está o espelho de 23 metros de diâmetro do protótipo do Telescópio de Grande Porte (LST-1). LST-1 é o primeiro telescópio construído no hemisfério norte do inovador Cherenkov Telescope Array Observatory. Com 198 segmentos de espelho hexagonais e uma câmera pixelizada grande e de alta eficiência, o LST-1 foi projetado para detectar flashes de luz visível atmosférica extremamente breves. Com duração de cerca de um bilionésimo de segundo, os flashes de luz visível são desencadeados por raios gama energéticos de fontes cósmicas, como galáxias ativas distantes e explosões de raios gama. É claro que, naquela noite, alguns segmentos individuais do espelho do LST-1 também refletiram o flash atmosférico do brilhante meteoro Perseidas.  O e-mail do APOD para envio de imagens mudou. Por favor, veja: Envios APOD. O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai1024.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/MilkyWayMeteorLSTJeffDai.jpg",
+    "copyright": "Jeff Dai"
+  },
+  {
     "date": "2026-09-25",
     "title": {
       "en": "Globular Cluster Omega Centauri",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg",
     "copyright": "Victor Lima,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-08-26",
-    "title": {
-      "en": "JWST Images The Lion's Head Nebula",
-      "pt": "Imagens JWST da Nebulosa Cabeça de Leão"
-    },
-    "explanation": {
-      "en": "Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas and dust into space, forming this planetary nebula. A hot stellar core, called a white dwarf, is left behind within the lion’s nose. Do not boop this nose! Intense radiation from the white dwarf is ionizing the gas as it expands, creating the irregular bubble that makes up the lion’s face. Dust clumps that have survived the white dwarf’s radiation and a cloud of ionized gas make up the lion’s mane. This new and more detailed view of the nebula will help humanity learn more about how the gas and dust interact with each other and the white dwarf radiation.",
-      "pt": "Estamos olhando para o futuro do nosso Sol? O Telescópio Espacial James Webb capturou a imagem composta de hoje da Nebulosa Cabeça de Leão (NGC 2392) com seus instrumentos NIRCam e MIRI. A Nebulosa da Cabeça de Leão é o remanescente de uma estrela semelhante ao Sol. Esta estrela foi incapaz de sustentar a fusão nuclear necessária para permanecer estável em seu núcleo. Começou a lançar camadas de gás e poeira no espaço, formando esta nebulosa planetária. Um núcleo estelar quente, chamado anã branca, é deixado para trás dentro do nariz do leão. Não bata nesse nariz! A radiação intensa da anã branca ioniza o gás à medida que este se expande, criando a bolha irregular que constitui a face do leão. Aglomerados de poeira que sobreviveram à radiação da anã branca e uma nuvem de gás ionizado constituem a juba do leão. Esta visão nova e mais detalhada da nebulosa ajudará a humanidade a aprender mais sobre como o gás e a poeira interagem entre si e com a radiação da anã branca."
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/lions_head_nebula.jpg",
-    "copyright": null
   }
 ]
