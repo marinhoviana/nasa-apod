@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-27",
+    "title": {
+      "en": "Andromeda before Photoshop",
+      "pt": "Andrômeda antes do Photoshop"
+    },
+    "explanation": {
+      "en": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections.  The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in Portugal during 2019.  Obvious image deficiencies include bright parallel airplane trails, long and continuous satellite trails, short cosmic ray streaks, and bad pixels.  These imperfections were actually not removed with Photoshop specifically, but rather greatly reduced with a series of computer software packages that included Astro Pixel Processor, DeepSkyStacker, and PixInsight.  All of this work was done not to deceive you with a digital fantasy that has little to do with the real likeness of the Andromeda galaxy (M31), but to minimize Earthly artifacts that have nothing to do with the distant galaxy and so better recreate what M31 really does look like.   APOD's email for image submissions has changed. Please see: APOD Submissions APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Como é realmente a galáxia de Andrômeda? A imagem apresentada mostra como o vizinho galáctico mais próximo da nossa Galáxia, a Via Láctea, realmente aparece em uma longa exposição através dos céus movimentados da Terra e com uma câmera digital que apresenta imperfeições normais.  A imagem é uma pilha de 223 imagens, cada uma com uma exposição de 300 segundos, tiradas de um observatório de jardim em Portugal durante 2019. As deficiências óbvias da imagem incluem rastros de aviões paralelos brilhantes, rastros de satélite longos e contínuos, faixas curtas de raios cósmicos e pixels ruins.  Na verdade, essas imperfeições não foram removidas especificamente com o Photoshop, mas bastante reduzidas com uma série de pacotes de software de computador que incluíam Astro Pixel Processor, DeepSkyStacker e PixInsight.  Todo esse trabalho não foi feito para enganar você com uma fantasia digital que tem pouco a ver com a semelhança real da galáxia de Andrômeda (M31), mas para minimizar os artefatos terrestres que nada têm a ver com a galáxia distante e, assim, recriar melhor a aparência real de M31.   O e-mail do APOD para envio de imagens mudou. Por favor, veja: Submissões APOD O site principal da NASA do APOD está mudando: De apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/M31Before_Scherer_4298.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-26",
     "title": {
       "en": "Mirrored Meteor and Milky Way",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg",
     "copyright": "Osvaldo Castillo"
-  },
-  {
-    "date": "2026-08-27",
-    "title": {
-      "en": "Colorful Aurora over Icelandic Waterfall",
-      "pt": "Aurora colorida sobre a cachoeira da Islândia"
-    },
-    "explanation": {
-      "en": "What a sight to behold, when a night sky became filled with colors that appeared to rain over the Skógafoss waterfall in Iceland.     This image was taken in a single 5 second exposure by the photographer in April 2025.   Seeing an aurora is on many people's bucket lists.   But it is not easy.   It requires high solar activity, dark and clear skies, and usually a viewing location at high latitude.   That makes the northern lights more easily seen than the corresponding southern lights, simply because there is less landmass in the Southern Hemisphere, especially around the Antarctic Circle.   Auroras are caused by charged particles from the solar wind that are captured by the Earth's magnetosphere and guided by the magnetic field to a region close to one of the poles, where they collide with gas particles in the atmosphere.   Different colors indicate interactions with different gases at different altitudes, like oxygen (red and green) and nitrogen (blue and pink).        APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Que espetáculo de se ver, quando o céu noturno ficou cheio de cores que pareciam chover sobre a cachoeira Skógafoss, na Islândia.     Esta imagem foi tirada em uma única exposição de 5 segundos pelo fotógrafo em abril de 2025. Ver uma aurora está na lista de desejos de muitas pessoas.   Mas não é fácil.   Requer alta atividade solar, céus escuros e claros e geralmente um local de observação em alta latitude.   Isso faz com que as luzes do norte sejam mais facilmente vistas do que as luzes do sul correspondentes, simplesmente porque há menos massa de terra no Hemisfério Sul, especialmente em torno do Círculo Antártico.   As auroras são causadas por partículas carregadas do vento solar que são capturadas pela magnetosfera terrestre e guiadas pelo campo magnético até uma região próxima a um dos pólos, onde colidem com partículas de gás na atmosfera.   Cores diferentes indicam interações com gases diferentes em altitudes diferentes, como oxigênio (vermelho e verde) e nitrogênio (azul e rosa).        O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall_800.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/Aurora_over_Fall.jpg",
-    "copyright": "Victor Lima,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
