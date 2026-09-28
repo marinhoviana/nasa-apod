@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-28",
+    "title": {
+      "en": "Cosmic Latte: The Average Color of the Universe",
+      "pt": "Café com leite cósmico: a cor média do universo"
+    },
+    "explanation": {
+      "en": "What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "Qual é a cor do universo?  Mais precisamente, se todo o céu estivesse manchado, qual seria a cor da mistura final?  Esta questão excêntrica surgiu ao tentar determinar quais estrelas são comuns em galáxias próximas. A resposta, descrita aqui, é um tom de bege percebido condicionalmente. Na linguagem informática: #FFF8E7.  Para determinar isto, os astrónomos calcularam a média computacional da luz emitida por uma das maiores amostras de galáxias analisadas: as 200.000 galáxias do 2dF Galaxy Redshift Survey.  O espectro cósmico resultante tem alguma emissão em todas as partes do espectro eletromagnético, mas uma única cor composta percebida.  Esta cor tornou-se muito menos azul nos últimos 10 mil milhões de anos, indicando que as estrelas mais vermelhas estão a tornar-se mais predominantes.  Em um concurso para nomear melhor a cor, as inscrições notáveis ​​​​incluíram skyvory, univeige e o vencedor: cosmic latte.   O e-mail do APOD para envio de imagens mudou. Por favor, veja: Envios APOD amanhã: O site principal da NASA do APOD está mudando: De apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960_annotated.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg",
+    "copyright": null
+  },
+  {
     "date": "2026-09-27",
     "title": {
       "en": "Andromeda before Photoshop",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg",
     "copyright": "Gwenaël Blanck"
-  },
-  {
-    "date": "2026-08-28",
-    "title": {
-      "en": "The Sky Turns Above Paranal",
-      "pt": "O céu fica acima do Paranal"
-    },
-    "explanation": {
-      "en": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star trails. This star trail image was composed from a digital stack of 300 consecutive 25-second exposures made with a camera fixed to a tripod to trace the star trail arcs. The graceful arcs are concentric and centered at the south celestial pole, the southern hemisphere extension of Earth's axis of rotation into space. One of the observatory's operating 1.8 meter auxiliary telescopes, AT 3, appears beneath the south celestial pole, faintly illuminated in the foreground of this well-planned scene from a rotating planet.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Na latitude do Observatório do Paranal do ESO, no Chile, cerca de 25 graus sul, a rotação da Terra move a superfície do planeta para leste a mais de 1.500 quilómetros por hora. E embora seja mais rápido que a velocidade do som ao nível do mar, o movimento é imperceptível. Ainda assim, esse movimento pode ser revelado na rotação aparente do céu noturno fotografando rastros de estrelas. Esta imagem do rastro estelar foi composta a partir de uma pilha digital de 300 exposições consecutivas de 25 segundos feitas com uma câmera fixada em um tripé para traçar os arcos do rastro estelar. Os arcos graciosos são concêntricos e centrados no pólo celeste sul, a extensão do hemisfério sul do eixo de rotação da Terra para o espaço. Um dos telescópios auxiliares de 1,8 metros em funcionamento do observatório, AT 3, aparece abaixo do pólo celeste sul, fracamente iluminado no primeiro plano desta cena bem planeada de um planeta em rotação.   Galeria crescente: Eclipse lunar de 2026, 28 de agosto O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/TheSkyTurnsAboveParanal.jpg",
-    "copyright": "Osvaldo Castillo"
   }
 ]
