@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-09-29",
+    "title": {
+      "en": "Sh2-188: The Shrimp Nebula",
+      "pt": "Sh2-188: A Nebulosa do Camarão"
+    },
+    "explanation": {
+      "en": "What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod",
+      "pt": "O que causa o redemoinho na Nebulosa do Camarão? Sua alta velocidade é provável.  O que é certo é que Sh2-188 é uma das maiores nebulosas planetárias no céu noturno, em tamanho angular, abrangendo cerca de metade do diâmetro da Lua.  Além disso, o núcleo da anã branca - remanescente da estrela semelhante ao Sol que abandonou a sua atmosfera exterior - está a mover-se invulgarmente rápido através do espaço interestelar, criando um choque em arco mais visível no canto superior esquerdo, semelhante a um barco a navegar na água.  Embora fraca, a Nebulosa do Camarão também brilha comprimindo e iluminando o gás na sua borda frontal.  A imagem apresentada foi obtida à luz do hidrogénio, enxofre e oxigénio por um telescópio de quintal em Cracóvia, na Polónia, e depois ajustada digitalmente para se aproximar das verdadeiras cores da nebulosa.    O e-mail do APOD para envio de imagens mudou. Por favor, veja: Submissões APOD O site principal da NASA do APOD mudou: De apod.nasa.gov para science.nasa.gov/apod"
+    },
+    "media_type": "image",
+    "url": "https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_960.jpg",
+    "hdurl": "https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg",
+    "copyright": "Pawel Piechnik"
+  },
+  {
     "date": "2026-09-28",
     "title": {
       "en": "Cosmic Latte: The Average Color of the Universe",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-08-29",
-    "title": {
-      "en": "Eclipse Pair",
-      "pt": "Par Eclipse"
-    },
-    "explanation": {
-      "en": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to produce a pair with both total solar and lunar eclipses. More often, partial eclipses are part of any eclipse season. But, the last eclipse season of 2026 did produce this fortnight-separated pairing of a total solar eclipse on August 12 (top) and an almost total lunar eclipse on the night of August 27/28. At New Moon, the solar eclipse was captured at Peñafiel, Spain near the begining of totality in this HDR composite image, revealing a flash of Bailey's beads and a golden solar corona. At the following Full Moon, the deep partial lunar eclipse was recorded from Sèvres, France. Also an HDR composite, the image shows this partial eclipse at closer to half its 93 percent maximum phase, so about half the visible lunar disk appears darkened and reddened within Earth's umbral shadow. The coming eclipse season will see an annular solar eclipse on 2027 February 6 paired with a penumbral lunar eclipse on February 20/21.   Growing Gallery: Lunar Eclipse of 2026 August 28 APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "clipes tendem a vir em pares. Duas vezes por ano, durante uma temporada de eclipses que dura cerca de 34 dias, o Sol, a Lua e a Terra podem quase se alinhar. Então as fases nova e cheia da Lua, separadas por pouco mais de 14 dias, criam um eclipse solar e um lunar. Mas apenas raramente o alinhamento na lua nova e na lua cheia durante uma única temporada de eclipses é próximo o suficiente para produzir um par com eclipses solares e lunares totais. Mais frequentemente, os eclipses parciais fazem parte de qualquer temporada de eclipses. Mas, a última temporada de eclipses de 2026 produziu este emparelhamento separado por quinze dias de um eclipse solar total em 12 de agosto (topo) e um eclipse lunar quase total na noite de 27/28 de agosto. Na Lua Nova, o eclipse solar foi capturado em Peñafiel, Espanha, perto do início da totalidade nesta imagem composta HDR, revelando um flash das contas de Bailey e uma coroa solar dourada. Na Lua Cheia seguinte, o eclipse lunar parcial profundo foi registrado em Sèvres, França. Também uma composição HDR, a imagem mostra este eclipse parcial perto da metade da sua fase máxima de 93 por cento, de modo que cerca de metade do disco lunar visível parece escurecido e avermelhado dentro da sombra umbral da Terra. A próxima temporada de eclipses verá um eclipse solar anular em 6 de fevereiro de 2027, emparelhado com um eclipse lunar penumbral em 20/21 de fevereiro.   Galeria crescente: Eclipse lunar de 2026, 28 de agosto O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/2026-08_12and28-EclipsePair.jpg",
-    "copyright": "Gwenaël Blanck"
   }
 ]
