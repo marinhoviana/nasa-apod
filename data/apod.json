@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-01",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": "Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink band lower in the sky is called the Belt of Venus. During a full moon, the Moon and the Sun are in opposition in the sky: the moon rises as the sun sets. The lunar phase cycle lasts approximately 29.5 days (but the Moon takes approximately 27 days to orbit the Earth). In some cultures of the Northern Hemisphere, the September full moon is called the Harvest Moon. Does your culture have a special name for it? (A full moon by any other name would shine as bright.)APOD's email for image submissions has changed. Please see: APOD SubmissionsAPOD's main NASA site has moved : From apod.nasa.gov to science.nasa.gov/apodTomorrow's picture: sharpless\t\t\t\t\t\t",
+      "pt": "Você já viu a lua cheia nascer? Esta imagem colorida foi fotografada no fim de semana passado na Sicília, nos arredores da cidade de Nicósia, na Itália. É uma fotografia composta que mostra a Lua nascendo à medida que o céu fica mais escuro. As nuvens mais baixas refletem as cores do anti-crepúsculo, enquanto as cinzas e o gás do Monte Etna são vistos mais acima no fundo. A faixa rosa mais baixa no céu é chamada de Cinturão de Vênus. Durante a lua cheia, a Lua e o Sol estão em oposição no céu: a lua nasce enquanto o sol se põe. O ciclo da fase lunar dura aproximadamente 29,5 dias (mas a Lua leva aproximadamente 27 dias para orbitar a Terra). Em algumas culturas do Hemisfério Norte, a lua cheia de setembro é chamada de Lua da Colheita. A sua cultura tem um nome especial para isso? (Uma lua cheia com qualquer outro nome brilharia igualmente.) O e-mail do APOD para envio de imagens mudou. Por favor, veja: Submissões APOD O site principal da NASA do APOD mudou: De apod.nasa.gov para science.nasa.gov/apodTomorrow's picture: sharpless"
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-09-29",
     "title": {
       "en": "Sh2-188: The Shrimp Nebula",
@@ -432,21 +447,6 @@
     "media_type": "video",
     "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
-    "copyright": null
-  },
-  {
-    "date": "2026-08-30",
-    "title": {
-      "en": "M74: A Grand Design Spiral",
-      "pt": "M74: Uma Grande Espiral de Design"
-    },
-    "explanation": {
-      "en": "If not the most grand, then this spiral galaxy is at least one of the most photogenic.  An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view.  Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark cosmic dust lanes.  Constructed from archival images, this sharp composite is from the Hubble Space Telescope.  Spanning about 30,000 light-years across the face of M74, it includes exposures recording emission from hydrogen atoms, highlighting the reddish glow of the galaxy's large star-forming regions.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Se não for a mais grandiosa, então esta galáxia espiral é pelo menos uma das mais fotogênicas.  Um universo insular de cerca de 100 bilhões de estrelas, a 32 milhões de anos-luz de distância em direção à constelação de Peixes, M74 apresenta uma vista frontal deslumbrante.  Classificada como uma galáxia Sc, o grande desenho dos graciosos braços espirais da M74 é traçado por brilhantes aglomerados de estrelas azuis e faixas escuras de poeira cósmica.  Construída a partir de imagens de arquivo, esta composição nítida é do Telescópio Espacial Hubble.  Abrangendo cerca de 30.000 anos-luz ao longo da face de M74, inclui exposições que registam emissões de átomos de hidrogénio, destacando o brilho avermelhado das grandes regiões de formação estelar da galáxia.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/m74_hst_960.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/m74_hst_1280.jpg",
     "copyright": null
   }
 ]
