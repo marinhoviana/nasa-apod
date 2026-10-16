@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-16",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
+      "pt": "Para visualizar este vídeo, habilite o JavaScript e considere atualizar para um navegador que suporte vídeos HTML5"
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-10-01",
     "title": {
       "en": "NASA Science",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-08-31",
-    "title": {
-      "en": "Launch of the Roman Space Telescope",
-      "pt": "Lançamento do Telescópio Espacial Romano"
-    },
-    "explanation": {
-      "en": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot.  This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main camera is larger.  The result is that RST can inspect more of the sky more quickly, likely allowing, among other capabilities, the discovery of many more supernovas which tell us more about the expansion rate and composition of our universe, and many more planets orbiting other stars that tell us more about the possibilities for life elsewhere in the universe. RST will orbit the Sun, not the Earth, like the James Webb Space Telescope.  The featured video shows Roman being launched yesterday from Kennedy Space Center, Florida, USA aboard a SpaceX Falcon Heavy rocket.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Um novo telescópio foi lançado ao espaço para estudar o universo. O Telescópio Espacial Nancy Grace Roman (RST) tem o espelho principal do mesmo tamanho que o Telescópio Espacial Hubble (HST), mas vê 100 vezes mais céu durante cada instantâneo.  Isso é possível porque quando comparado ao HST, o espelho principal do RST é mais curvo, o espelho secundário é mais próximo e a câmera principal é maior.  O resultado é que o RST pode inspecionar mais céu mais rapidamente, provavelmente permitindo, entre outras capacidades, a descoberta de muito mais supernovas que nos dizem mais sobre a taxa de expansão e composição do nosso universo, e de muitos mais planetas orbitando outras estrelas que nos dizem mais sobre as possibilidades de vida em outras partes do universo. O RST orbitará o Sol, não a Terra, como o Telescópio Espacial James Webb.  O vídeo apresentado mostra Roman sendo lançado ontem do Centro Espacial Kennedy, Flórida, EUA, a bordo de um foguete SpaceX Falcon Heavy.   O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "video",
-    "url": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/RomanLaunch_NASA.mp4",
     "copyright": null
   }
 ]
