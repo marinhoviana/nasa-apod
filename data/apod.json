@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-19",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": "What is Treble Clef? This unusual radio structure extends over 2 million light-years and resembles a common musical symbol -- but has its visible light hidden by our own Milky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755, dubbed Treble Clef, remained unknown. Recent observations by the Chandra X-ray Observatory and eROSITA, however, have led to the hypothesis that the Treble Clef central cloud of charged particles was originally expelled by a supermassive black hole at the center of a galaxy. After the radio emission from those particles faded, they may have been reinvigorated by a shock wave from the collision of two clusters of galaxies. The featured composite image shows radio emission in red, while recently discovered X-rays are shown in blue. Unusual objects like Treble Clef give humanity unexpected clues about how whole clusters of galaxies interact as well as the general evolution of our universe.Tomorrow's picture: backwards rainbow\t\t\t\t\t\t",
+      "pt": "O que é clave de sol? Esta estrutura de rádio incomum estende-se por 2 milhões de anos-luz e assemelha-se a um símbolo musical comum - mas tem a sua luz visível escondida pela nossa própria Galáxia, a Via Láctea. Examinado em 2004, a natureza do VLSS J0318.9+5755, apelidado de Clave de Sol, permaneceu desconhecida. Observações recentes do Observatório de Raios-X Chandra e do eROSITA, no entanto, levaram à hipótese de que a nuvem central de partículas carregadas da Clave de Sol foi originalmente expelida por um buraco negro supermassivo no centro de uma galáxia. Depois que a emissão de rádio dessas partículas desapareceu, elas podem ter sido revigoradas por uma onda de choque resultante da colisão de dois aglomerados de galáxias. A imagem composta apresentada mostra as emissões de rádio em vermelho, enquanto os raios X recentemente descobertos são mostrados em azul. Objetos incomuns como a clave de sol dão à humanidade pistas inesperadas sobre como aglomerados inteiros de galáxias interagem, bem como sobre a evolução geral do nosso universo."
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-10-16",
     "title": {
       "en": "NASA Science",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg",
     "copyright": "Javier Castro, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
-  },
-  {
-    "date": "2026-09-01",
-    "title": {
-      "en": "A Plane Lunar Eclipse",
-      "pt": "Um eclipse lunar plano"
-    },
-    "explanation": {
-      "en": "Did you need to be on the right side of this airplane to see this eclipse? No.  Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes.  Lunar eclipses are also some of the most photographed astronomical events because, unlike with a solar eclipse, your eyes and camera do not have to look toward the bright Sun. However, considering the featured image taken last week from Portugal, if you were on the left side of that airplane during takeoff, you might have trouble seeing it -- at first. But even then, after takeoff, since lunar eclipses typically last for hours, you might soon be able to safely cross the aisle(s) to see it.   Gallery: Lunar Eclipse of 2026 August APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Você precisava estar do lado direito deste avião para ver esse eclipse? Os eclipses lunares são rotineiramente vistos da metade da Terra voltada para a Lua quando o eclipse ocorre, o que os torna alguns dos eventos astronômicos mais comumente testemunhados. Você nem precisa de nenhum equipamento especial para ver um - apenas a olho nu.  Os eclipses lunares também são alguns dos eventos astronômicos mais fotografados porque, ao contrário de um eclipse solar, seus olhos e sua câmera não precisam olhar para o Sol brilhante. No entanto, considerando a imagem em destaque tirada na semana passada de Portugal, se você estivesse no lado esquerdo daquele avião durante a decolagem, poderia ter dificuldade para vê-lo – a princípio. Mas mesmo assim, após a decolagem, como os eclipses lunares normalmente duram horas, em breve você poderá cruzar com segurança o(s) corredor(es) para vê-lo.   Galeria: Eclipse lunar de agosto de 2026 O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2608/PlaneEclipse_Ferreira_1059.jpg",
-    "copyright": null
   }
 ]
