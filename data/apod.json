@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-25",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": "Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's Hayden Planetarium Space Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.Tomorrow's picture: Orion the Great\t\t\t\t\t\t",
+      "pt": "Nosso universo é assombrado? Pode parecer assim neste mapa de matéria escura. A gravidade da matéria escura invisível é a principal explicação para o motivo pelo qual as galáxias giram tão rapidamente, por que as galáxias orbitam aglomerados tão rapidamente, por que as lentes gravitacionais desviam a luz tão fortemente e como a matéria visível é distribuída. A imagem apresentada no Hayden Planetarium Space Show do Museu Americano de História Natural, Dark Universe, destaca um exemplo de como a matéria escura generalizada pode assombrar nosso universo. Neste quadro de uma simulação computacional detalhada, filamentos complexos de matéria escura, mostrados em preto, estão espalhados pelo universo como teias de aranha, enquanto os aglomerados relativamente raros de matéria bariônica familiar são coloridos em laranja. Essas simulações são boas correspondências estatísticas com observações astronômicas. No que talvez seja uma reviravolta mais assustadora, a matéria escura - embora bastante estranha e numa forma desconhecida - já não é considerada a fonte de gravidade mais estranha do Universo. Essa honra agora cabe à energia escura, uma fonte mais uniforme de gravidade repulsiva que parece agora dominar a expansão de todo o universo. Foto de amanhã: Órion, o Grande"
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-10-19",
     "title": {
       "en": "NASA Science",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg",
     "copyright": "Włodzimierz Bubak,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
-  },
-  {
-    "date": "2026-09-02",
-    "title": {
-      "en": "Solar Eclipses and Culture",
-      "pt": "Eclipses Solares e Cultura"
-    },
-    "explanation": {
-      "en": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted eclipses in countless ways throughout history, embedding beliefs about connection, rebirth, or danger into culture. “Eclipse” comes from the Greek word “ékleipsis” meaning “abandonment”. In ancient Greece, the solar eclipse marked the anger of the gods and the Sun abandoning humanity. To the Diné people, this celestial alignment is a time of renewal. Out of respect and to avoid the danger of sunlight, the Diné stay inside until the Sun and Moon separate. The Batammariba people of Benin and Togo believe that the Sun and Moon fight during an eclipse, so the community encourages peace among themselves. Eclipses are an example of the longstanding connection between astronomy and society.   Gallery: Solar Eclipse of 2026 August 12",
-      "pt": "Finja que você nunca ouviu falar de um eclipse solar. O comportamento do Sol foi previsível durante toda a sua vida. Um dia, você testemunha a transformação do céu como na imagem emendada de hoje, abrangendo duas horas do eclipse solar de 12 de agosto de 2026. O Sol desaparece, deixando para trás um anel brilhante e vazio. O que você acha que aconteceu? Os humanos interpretaram os eclipses de inúmeras maneiras ao longo da história, incorporando crenças sobre conexão, renascimento ou perigo na cultura. “Eclipse” vem da palavra grega “ékleipsis” que significa “abandono”. Na Grécia antiga, o eclipse solar marcou a ira dos deuses e o Sol abandonando a humanidade. Para o povo Diné, este alinhamento celestial é um momento de renovação. Por respeito e para evitar o perigo da luz solar, os Diné ficam dentro de casa até o Sol e a Lua se separarem. O povo Batammariba do Benin e do Togo acredita que o Sol e a Lua lutam durante um eclipse, por isso a comunidade incentiva a paz entre si. Os eclipses são um exemplo da conexão de longa data entre a astronomia e a sociedade.   Galeria: Eclipse Solar de 2026, 12 de agosto"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/colors_of_eclipse.jpg",
-    "copyright": "Javier Castro, Text:, Keighley Rockcliffe  , (NASA, GSFC, UMBC CSST, CRESST II)"
   }
 ]
