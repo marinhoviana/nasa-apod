@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-27",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": " Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises upfrom the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too dim to be seen, they may become visible just after sunset during the summer when illuminated by sunlight from below the horizon. Noctilucent clouds are the highest clouds and are known more technically as polar mesospheric clouds. Featured here as they appeared in early August, a network of blue noctilucent clouds was captured in the distant sky above a field of green grass near Linköping, Sweden, with trees in stark silhouette across the horizon. Much about noctilucent clouds has been discovered only in the past two decades, while how they form and evolve remains a topic of active research.Tomorrow's picture: round and round\t\t\t\t\t\t",
+      "pt": " Às vezes é noite no chão, mas dia no ar. À medida que a Terra gira para eclipsar o Sol, o pôr do sol surge do solo. Portanto, ao pôr do sol no solo, a luz do sol ainda brilha nas nuvens acima. Em circunstâncias normais, um belo pôr do sol pode ser visível, mas nuvens noctilucentes incomuns flutuam tão alto que podem ser vistas bem depois de escurecer. Normalmente muito escuros para serem vistos, eles podem se tornar visíveis logo após o pôr do sol durante o verão, quando iluminados pela luz solar abaixo do horizonte. Nuvens noctilucentes são as nuvens mais altas e são conhecidas mais tecnicamente como nuvens mesosféricas polares. Apresentada aqui conforme apareciam no início de agosto, uma rede de nuvens noctilucentes azuis foi capturada no céu distante acima de um campo de grama verde perto de Linköping, na Suécia, com árvores em uma silhueta nítida no horizonte. Muito sobre nuvens noctilucentes foi descoberto apenas nas últimas duas décadas, enquanto como elas se formam e evoluem continua sendo um tópico de pesquisa ativa. Foto de amanhã: voltas e mais voltas"
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-10-25",
     "title": {
       "en": "NASA Science",
@@ -433,20 +448,5 @@
     "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg",
     "copyright": null
-  },
-  {
-    "date": "2026-09-03",
-    "title": {
-      "en": "The Eclipse and the Stork",
-      "pt": "O Eclipse e a Cegonha"
-    },
-    "explanation": {
-      "en": "How do animals react to a total solar eclipse?   The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse.   If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors.     During totality, you may hear nighttime sounds like crickets and frogs and see fireflies.   In the dark, most birds are quiet.   Thinking that it is time to go to bed, ducks and other waterfowl prepare to sleep on one leg, with their heads turned around and their beaks tucked into their back feathers (they don't really sleep with their heads tucked under one wing).   When sunlight returns at the end of totality, songbirds greet the new \"morning\" with their dawn songs.   The crickets and frogs go quiet again.   Animals and people resume their lifes, only briefly disturbed by the chance alignment of our Sun and Moon.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Como os animais reagem a um eclipse solar total?   A imagem em destaque mostra uma cegonha empoleirada no seu ninho na Polónia numa fase parcial do recente eclipse solar total.   Se você tiver a sorte de experimentar um eclipse total em algum lugar tranquilo e próximo à natureza, poderá notar comportamentos incomuns dos animais durante o dia.     Durante a totalidade, você pode ouvir sons noturnos como grilos e sapos e ver vaga-lumes.   No escuro, a maioria dos pássaros fica quieta.   Pensando que é hora de ir para a cama, patos e outras aves aquáticas se preparam para dormir sobre uma perna só, com a cabeça virada e o bico enfiado nas penas traseiras (na verdade, eles não dormem com a cabeça enfiada sob uma das asas).   Quando a luz solar retorna no final da totalidade, os pássaros canoros saúdam a nova “manhã” com suas canções do amanhecer.   Os grilos e sapos ficam quietos novamente.   Animais e pessoas retomam suas vidas, apenas brevemente perturbados pelo alinhamento casual do nosso Sol e da Lua.     O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2609/eclipse_stork_1080.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/eclipse_stork.jpg",
-    "copyright": "Włodzimierz Bubak,  Text: , Cecilia Chirenti , (NASA, GSFC, UMCP, CRESST II)"
   }
 ]
