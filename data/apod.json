@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-10-28",
+    "title": {
+      "en": "NASA Science",
+      "pt": "Ciência da NASA"
+    },
+    "explanation": {
+      "en": "To view this video please enable JavaScript, and consider upgrading to a web browser that \t\t\t\t\tsupports HTML5 vide",
+      "pt": "Para visualizar este vídeo, habilite o JavaScript e considere atualizar para um navegador que suporte vídeos HTML5"
+    },
+    "media_type": "image",
+    "url": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "hdurl": "https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png",
+    "copyright": null
+  },
+  {
     "date": "2026-10-27",
     "title": {
       "en": "NASA Science",
@@ -432,21 +447,6 @@
     "media_type": "image",
     "url": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_1024.jpg",
     "hdurl": "https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg",
-    "copyright": null
-  },
-  {
-    "date": "2026-09-04",
-    "title": {
-      "en": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
-      "pt": "Nā ʻUhane Māhoe Huki Pū i ke Ola"
-    },
-    "explanation": {
-      "en": "Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on Maunakea, Hawai‘i. The galaxy pair, known as NGC 7253 and Arp 278, was chosen as a target, researched, and given a Hawaiian name by high school students in the joint Gemini Observatory and University of Hawaiʻi Project Hōkūlani internship program.  The name translates to \"The Twin Spirits Pulling Together Creating Life\". That's both culturally and astronomically appropriate for galaxy collisions that trigger a cosmic maelstrom of star formation from galactic reservoirs of elemental building blocks of life. These merging galaxies are found within a region of Pegasus identified as the Hawaiian navigational constellation Ka Lupe o Kawelo.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod",
-      "pt": "Nā ʻUhane Māhoe Huki Pū i ke Ola, é o nome havaiano dado a esta imagem de um par de galáxias espirais presas em um abraço gravitacional mútuo. A cerca de 200 milhões de anos-luz de distância em direção à constelação voadora de Pégaso, a sua espetacular fusão à escala galáctica é capturada com detalhes nítidos na imagem do telescópio Gemini North de 8,1 metros em Maunakea, no Havai. O par de galáxias, conhecido como NGC 7253 e Arp 278, foi escolhido como alvo, pesquisado e recebeu um nome havaiano por estudantes do ensino médio no programa de estágio conjunto do Observatório Gemini e do Projeto Hōkūlani da Universidade do Havaí.  O nome se traduz como \"Os Espíritos Gêmeos Unindo-se Criando Vida\". Isso é cultural e astronomicamente apropriado para colisões de galáxias que desencadeiam um turbilhão cósmico de formação de estrelas a partir de reservatórios galácticos de blocos elementares de vida. Estas galáxias em fusão são encontradas numa região de Pégaso identificada como a constelação de navegação havaiana Ka Lupe o Kawelo.  O site principal da NASA do APOD está mudando: de apod.nasa.gov para science.nasa.gov/apod"
-    },
-    "media_type": "image",
-    "url": "https://apod.nasa.gov/apod/image/2609/noirlab2621a_1024.jpg",
-    "hdurl": "https://apod.nasa.gov/apod/image/2609/noirlab2621a.jpg",
     "copyright": null
   }
 ]
